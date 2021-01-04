@@ -42,7 +42,7 @@ Around after 3 months or so of this wandering, finally I selected ‘coala’ (W
 
 But little did I know, there are hurdles even before getting into contributing to projects. Yeah! Setting up your development environment. I tried to install using the instructions available — But couldn’t. I raised the bug in the channel giving out as many details as I can — that includes solutions I have tried out, StackOverflow answers I consulted, error logs and messages. One of the maintainers of the project John (@jayvdb) raised the issue in the repo.
 
-I waited for around 2 days for the issue to get resolved. And after 2 days, seeing no progress on the issue, I just left the channel and thought of never coming back to OSS.
+I waited for around 2 days for the issue to get resolved. And after 2 days, seeing no progress on the issue, I just left the channel.
 
 And what a mistake that was! — This leads me to my next tip, you need to be patient in getting answers. Those people out there are volunteering to contribute to the project, taking out time from their daily routine. They are human just like you with actual personal lives — Respect that.
 Around this time, I thought that maybe I wasn’t good enough for this open-source thing.
@@ -52,7 +52,7 @@ Another thing that worked against me was not seeking immediate guidance — 
 Meanwhile, the thought of even entering open-source just vanished somewhere between academics and self — projects.
 
 ### The Homecoming!
-In summer, while working on my internship project — I came across this thought of contributing to Open Source yet again through one of my friend whose mentor was a developer at coala and a GSoCer.
+In summer, while working on my internship project — I came across this thought of contributing to Open Source yet again through one of my friend whose mentor was a developer and a GSoCer at coala.
 
 This time though, I decided to move forward a step into open-source. I tried again, this time, fortunately, I was able to set up coala on my machine. But again being quite busy in the internship, I had to leave it yet again.
 
@@ -62,9 +62,9 @@ After having my plans for summer set-up now with an internship, I decided to sta
 
 For the next few days, I was looking through more issues, making new issues, helping other newcomers in onboarding, reviewing other Pull Requests. In a week or so, I finished the developer process in coala and got promoted to a developer at coala.
 
-I was so engrossed into this reviewing stuff now that I continued to do so even during my exams (Yeah, even self-control was getting tough). Though my grades took a hit that semester, but I was happy. For the first time, I was feeling useful :)
+I was so engrossed into this reviewing stuff now that I continued to do so even during my exams (Yeah, even self-control was getting tough). Though my grades took a hit that semester, but I was happy :)
 
-All in all, I’ve learnt so many things, large as well as minute details, that no academic course can ever teach me.
+All in all, I’ve learnt so many things, large as well as minute details, that some academic course never taught me.
 
 Also, as later I came to know — There are some initiatives like Hacktoberfest, Mozilla Winter of Security etc. aside from the popular ones like GSoC, GCI which promote contributing to OpenSource. See if such incentives can serve you as an encouragement. I was fortunate to stumble across Hacktoberfest as well.
 

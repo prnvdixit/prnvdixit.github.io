@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>encipherer | Blog</title>
+    <link rel="preconnect" href="https://fonts.gstatic.com/" crossorigin>
+    <link href='../style.css' rel='stylesheet'>
+    <link href='../blog.css' rel='stylesheet'>
+    <script src="../index.js"></script>
+    <script src="../blog.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/showdown/1.1.0/showdown.min.js"></script>
+    <script>
+        var conv = new showdown.Converter();
+        useShowDown(conv);
+        readAndProcessBlogListFile();
+    </script>
+</head>
+
+<body>
+    <div class="nav">
+        <p class="nav-title">
+            <a href="/" class="primary-button">encipherer's whisper...</a>
+        </p>
+        <ul class="list-un options">
+            <input id="theme-selector" type="checkbox" class="theme toggle-button" onchange="onThemeSwitch()"><span
+                class="label">Theme</span>
+            <li class="list-in">
+                <a href="/" class="primary-button"> Home </a>
+            </li>
+            <li class="list-in">
+                <a href="../about.html" class="primary-button"> About </a>
+            </li>
+            <li class="list-in active">
+                <a href="./blog-list.html" class="primary-button" onclick="localStorage.clear()"> Blog </a>
+            </li>
+        </ul>
+    </div>
+
+    <div class="content">
+        <div class="blog">
+            <div class="blog-info">
+                <div id="blog-read-time"></div>
+            </div>
+            <article>
+                <h2 class="blog-title">
+                    <div id="blog-title">Posts</div>
+                </h2>
+                <div id="blog-content" class="blog-content">
+                </div>
+            </article>
+            <hr class="blog-end">
+            <div class="blog-info">
+                <div id="blog-date"></div>
+                <div id="blog-tags"></div>
+                <div id="blog-length"></div>
+            </div>
+        </div>
+    </div>
+
+    <hr>
+
+    <div class="footer">
+        <ul class="options-footer">
+            <li class="list-in"><a class="content-link" href="https://github.com/prnvdixit" target="_blank">GitHub</a>
+            </li>
+            <li class="list-in"><a class="content-link" href="mailto:prnvdixit.hi@gmail.com" target="_blank">Mail</a>
+            </li>
+            <li class="list-in"><a class="content-link" href="https://linkedin.com/prnvdixit"
+                    target="_blank">LinkedIn</a></li>
+            <li class="list-in"><a class="content-link" href="https://twitter.com/prnvdixit" target="_blank">Twitter</a>
+            </li>
+        </ul>
+        <a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener" class="content-link">CC
+            BY-NC 4.0</a>
+        <p class="inline-content">© 2021</p>
+        <p>Made with ❤ by Pranav Dixit</p>
+    </div>
+</body>
