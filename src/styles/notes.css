@@ -1,0 +1,137 @@
+.notes-list {
+  max-width: 700px;
+}
+
+.notes-grid {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 2rem;
+  margin: 2rem 0;
+}
+
+.note-card {
+  padding: 1.5rem;
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  background: var(--background);
+  transition: transform 0.2s ease;
+}
+
+.note-card:hover {
+  transform: translateY(-2px);
+}
+
+.metadata {
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
+  color: var(--text-secondary);
+  font-size: 0.875rem;
+  margin: 0.5rem 0;
+}
+
+.github-link {
+  display: flex;
+  align-items: center;
+  color: var(--text-secondary);
+}
+
+.github-link:hover {
+  color: var(--accent);
+}
+
+.tags {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  margin-top: 1rem;
+}
+
+.tag {
+  font-size: 0.75rem;
+  padding: 0.25rem 0.75rem;
+  border-radius: 9999px;
+  background: var(--border);
+  color: var(--text-secondary);
+  text-decoration: none;
+  transition: all 0.2s ease;
+}
+
+.tag:hover {
+  background: var(--accent);
+  color: white;
+  text-decoration: none;
+}
+
+.note {
+  max-width: 700px;
+  margin: 0 auto;
+}
+
+.note-header {
+  margin: 1rem 0 2rem;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.copy-button {
+  padding: 0.5rem 1rem;
+  background: var(--background);
+  border: 1px solid var(--border);
+  border-radius: 4px;
+  color: var(--text-secondary);
+  cursor: pointer;
+  font-size: 0.875rem;
+  transition: all 0.2s ease;
+}
+
+.copy-button:hover {
+  background: var(--border);
+  color: var(--text-primary);
+}
+
+.note .content {
+  color: var(--text-secondary);
+  line-height: 1.7;
+}
+
+.note .content h1 {
+  font-size: 2.25rem;
+  margin-bottom: 1rem;
+}
+
+.note .content h2 {
+  font-size: 1.75rem;
+  margin: 2rem 0 1rem;
+}
+
+.note .content p {
+  margin: 1.25rem 0;
+}
+
+.note-metadata {
+  margin-bottom: 3rem;
+  padding-bottom: 2rem;
+  border-bottom: 1px solid var(--border);
+}
+
+.back-link {
+  display: inline-flex;
+  align-items: center;
+  color: var(--text-secondary);
+  text-decoration: none;
+  font-size: 0.875rem;
+  transition: color 0.2s ease;
+}
+
+.back-link:hover {
+  color: var(--accent);
+  text-decoration: none;
+}
+
+.no-notes {
+  text-align: center;
+  color: var(--text-secondary);
+  margin: 2rem 0;
+}

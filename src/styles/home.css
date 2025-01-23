@@ -1,0 +1,39 @@
+@import 'github-markdown-css';
+
+.home-content {
+  max-width: 700px;
+}
+
+.home-content .intro {
+  margin: 2rem 0;
+}
+
+.home-content .intro p {
+  margin: 1rem 0;
+  font-size: 1.1rem;
+  line-height: 1.7;
+}
+
+.social-links {
+  margin-top: 3rem;
+}
+
+.social-links ul {
+  list-style: none;
+  padding: 0;
+  margin: 1rem 0;
+}
+
+.social-links li {
+  margin: 0.75rem 0;
+}
+
+.social-links a {
+  color: var(--accent);
+  text-decoration: none;
+  font-size: 1.1rem;
+}
+
+.social-links a:hover {
+  text-decoration: underline;
+}

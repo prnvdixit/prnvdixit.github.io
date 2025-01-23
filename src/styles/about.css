@@ -1,0 +1,19 @@
+.about-content {
+  max-width: 700px;
+}
+
+.about-content p {
+  margin: 1rem 0;
+  line-height: 1.7;
+}
+
+.about-content ul {
+  list-style-type: disc;
+  padding-left: 1.5rem;
+  margin: 1rem 0;
+}
+
+.about-content li {
+  margin: 0.5rem 0;
+  line-height: 1.5;
+}

@@ -1,0 +1,15 @@
+.home-desc {
+  display: none !important;
+}
+
+.hcb-icon {
+  display: none !important;
+}
+
+#hcb_submit {
+  cursor: pointer !important;
+}
+
+#hcb_file_label {
+  cursor: pointer !important;
+}
