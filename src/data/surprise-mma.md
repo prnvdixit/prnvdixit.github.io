@@ -1,0 +1,2 @@
+Martial Arts is where the bully and the bullied both end up.
+Even the skinniest person can cause you damage, so martial arts enable you to fight less in a way. It teaches you how less you can damage even with full knowledge of fighting.
