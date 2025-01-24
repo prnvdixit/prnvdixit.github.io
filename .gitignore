@@ -1,0 +1,6 @@
+node_modules/**
+dist/**
+package-lock.json
+
+# https://www.alanagoyal.com/notes/
+# https://drewcoffman.com/
