@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>encipherer's whispers</title>
+    <link rel="icon" type="image/x-icon" href="/favicon.ico" />
+    <link rel="stylesheet" href="/styles/main.css" />
+    <script type="text/javascript">
+      (function (l) {
+        if (l.search[1] === "/") {
+          var decoded = l.search
+            .slice(1)
+            .split("&")
+            .map(function (s) {
+              return s.replace(/~and~/g, "&");
+            })
+            .join("?");
+          var cleanPath = decoded.split("?")[0];
+          window.history.replaceState(
+            null,
+            null,
+            cleanPath +
+              (decoded.includes("?") ? decoded.split("?")[1] : "") +
+              l.hash
+          );
+        }
+      })(window.location);
+    </script>
+  </head>
+  <body>
+    <nav class="navbar">
+      <div class="nav-content">
+        <div class="nav-links">
+          <a href="/" class="nav-link" data-link>Home</a>
+          <a href="/notes" class="nav-link" data-link>Notes</a>
+        </div>
+        <button class="theme-toggle" aria-label="Toggle theme"></button>
+      </div>
+    </nav>
+    <div id="app"></div>
+    <script type="module" src="/src/main.ts"></script>
+  </body>
+</html>
