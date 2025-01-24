@@ -1,0 +1,18 @@
+<!doctype html><html lang="en"><head><meta charset="UTF-8"/><meta name="viewport" content="width=device-width,initial-scale=1"/><title>encipherer's whisper</title><link rel="stylesheet" href="/styles/main.css"/><script>(function (l) {
+        if (l.search[1] === "/") {
+          var decoded = l.search
+            .slice(1)
+            .split("&")
+            .map(function (s) {
+              return s.replace(/~and~/g, "&");
+            })
+            .join("?");
+          window.history.replaceState(
+            null,
+            null,
+            cleanPath +
+              (decoded.includes("?") ? decoded.split("?")[1] : "") +
+              l.hash
+          );
+        }
+      })(window.location);</script><script defer="defer" src="/main.62f6e7fdabf562a10616.js"></script><link href="/main.ad7359301a7338850ab2.css" rel="stylesheet"></head><body><nav class="navbar"><div class="nav-content"><div class="nav-links"><a href="/" class="nav-link" data-link>Home</a> <a href="/notes" class="nav-link" data-link>Notes</a></div><button class="theme-toggle" aria-label="Toggle theme"></button></div></nav><div id="app"></div><script type="module" src="/src/main.ts"></script></body></html>
