@@ -1,0 +1,191 @@
+{
+  "notes": [
+    {
+      "id": "0",
+      "title": "Failure - It's not as bad as it swims to be!",
+      "readingTime": "6 min",
+      "publishDate": "2025-02-09",
+      "blogLink": "fail-hobbies",
+      "githubLink": "",
+      "pinned": false,
+      "links": [
+        {
+          "url": "https://x.com/search?q=%40naval%20%22agency%22%20since%3A2024-02-09%20until%3A2025-02-09&src=typed_query&f=top",
+          "description": "[1] 'Agency' on social media"
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=gFmFOmprTt0",
+          "description": "[2] The experiment"
+        }
+      ],
+      "tags": ["hobbies", "swimming", "psychology"],
+      "contentPath": "fail-hobbies.md"
+    },
+    {
+      "id": "1",
+      "title": "Belief: A question of God and Love!",
+      "readingTime": "8 min",
+      "publishDate": "2025-02-22",
+      "blogLink": "god-belief-love",
+      "githubLink": "",
+      "pinned": false,
+      "links": [
+        {
+          "url": "https://www.youtube.com/watch?v=QkhBcLk_8f0",
+          "description": "[1] Feynman on answers"
+        },
+        {
+          "url": "https://plato.stanford.edu/entries/faith/",
+          "description": "[2] Faith"
+        },
+        {
+          "url": "https://www.ramakrishnavivekananda.info/vivekananda/volume_8/writings_prose/four_paths_of_yoga.htm",
+          "description": "[3] Enlightenment"
+        },
+        {
+          "url": "https://quod.lib.umich.edu/p/phimp/3521354.0014.021/1",
+          "description": "[4] No-self"
+        }
+      ],
+      "tags": [
+        "god",
+        "hobbies",
+        "philosophy",
+        "christianity",
+        "hinduism",
+        "buddhism",
+        "islam",
+        "love"
+      ],
+      "contentPath": "god-belief-love.md"
+    },
+    {
+      "id": "2",
+      "title": "Equations and evil",
+      "readingTime": "8 min",
+      "publishDate": "2025-03-09",
+      "blogLink": "review-cease-world",
+      "githubLink": "",
+      "pinned": false,
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Rat_Park",
+          "description": "[1] Rat park studies"
+        },
+        {
+          "url": "https://www.amazon.in/When-We-Cease-Understand-World/dp/1782276122",
+          "description": "[2] Purchase book"
+        },
+        {
+          "url": "https://youtu.be/-icD_KmvnnM?t=137",
+          "description": "[3] Geoffrey Hinton Nobel reaction"
+        }
+      ],
+      "tags": [
+        "science",
+        "hobbies",
+        "book-review",
+        "psychology",
+        "philosophy",
+        "physics"
+      ],
+      "contentPath": "review-cease-world.md"
+    },
+    {
+      "id": "3",
+      "title": "Soul vs Silicon",
+      "readingTime": "8 min",
+      "publishDate": "2025-03-29",
+      "blogLink": "creativity-ai",
+      "githubLink": "",
+      "pinned": false,
+      "links": [
+        {
+          "url": "https://x.com/anime_twits/status/1905182428513050667",
+          "description": "[1] Efforts in Ghibli"
+        },
+        {
+          "url": "https://www.nasa.gov/image-article/astronaut-bruce-mccandless-performs-the-first-untethered-spacewalk/",
+          "description": "[2] The Spacewalk"
+        },
+        {
+          "url": "https://x.com/DearthOfSid/status/1906339073956135259/",
+          "description": "[3] Story in borrowed art"
+        }
+      ],
+      "tags": ["ai", "art", "philosophy"],
+      "contentPath": "creativity-ai.md"
+    },
+    {
+      "id": "4",
+      "title": "The problem with F.R.I.E.N.D.S.",
+      "readingTime": "6 min",
+      "publishDate": "2025-05-21",
+      "blogLink": "tv-friends",
+      "githubLink": "",
+      "pinned": false,
+      "links": [
+        {
+          "url": "https://www.youtube.com/watch?v=4H6Ux3l75Rc",
+          "description": "[1] Friends: Ross Geller without laugh track = psychopath"
+        }
+      ],
+      "tags": ["cinema"],
+      "contentPath": "tv-friends.md"
+    },
+    {
+      "id": "6",
+      "title": "[WIP] Be better!",
+      "readingTime": "6 min",
+      "publishDate": "2025-08-05",
+      "blogLink": "vices",
+      "githubLink": "",
+      "pinned": false,
+      "links": [],
+      "tags": ["psychology"],
+      "contentPath": "be-better.md"
+    },
+    {
+      "id": "7",
+      "title": "The Rebellion {and/or} Star Wars",
+      "readingTime": "8 min",
+      "publishDate": "2025-08-16",
+      "blogLink": "andor-star-wars",
+      "githubLink": "",
+      "pinned": false,
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Star_Wars:_Episode_III_%E2%80%93_Revenge_of_the_Sith#Themes",
+          "description": "[1] If you're not with me..."
+        },
+        {
+          "url": "https://screenrant.com/andor-show-star-wars-fan-service-details-response/",
+          "description": "[2] Fans"
+        }
+      ],
+      "tags": ["philosophy", "cinema", "politics"],
+      "contentPath": "andor-star-wars.md"
+    },
+    {
+      "id": "5",
+      "title": "Hey there!",
+      "readingTime": "8 min",
+      "publishDate": "2025-09-07",
+      "blogLink": "hey",
+      "githubLink": "",
+      "pinned": false,
+      "links": [
+        {
+          "url": "https://www.youtube.com/watch?v=xy42tDw4k5Y",
+          "description": "[1] Milkha's first race"
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=fWNaR-rxAic",
+          "description": "[2] Call me maybe"
+        }
+      ],
+      "tags": ["love", "fiction"],
+      "contentPath": "hey-there.md"
+    }
+  ]
+}
