@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>encipherer's whispers</title>
+    <link rel="icon" type="image/x-icon" href="/favicon.ico" />
+    <script type="text/javascript">
+      (function (l) {
+        if (l.search[1] === "/") {
+          var decoded = l.search
+            .slice(1)
+            .split("&")
+            .map(function (s) {
+              return s.replace(/~and~/g, "&");
+            })
+            .join("?");
+          var cleanPath = decoded.split("?")[0];
+          window.history.replaceState(
+            null,
+            null,
+            cleanPath +
+              (decoded.includes("?") ? decoded.split("?")[1] : "") +
+              l.hash
+          );
+        }
+      })(window.location);
+    </script>
+  </head>
+  <body>
+    <nav class="navbar">
+      <div class="nav-content">
+        <div class="nav-links">
+          <a href="/" class="nav-link" data-link>Home</a>
+          <a href="/notes" class="nav-link" data-link>Notes</a>
+        </div>
+        <div class="nav-actions" style="display: flex; gap: 1.25rem; align-items: center;">
+          <button class="search-trigger-btn" aria-label="Search notes" style="background: none; border: none; cursor: pointer; color: var(--text-primary); display: flex; align-items: center; justify-content: center; padding: 4px;">
+            <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+              <circle cx="11" cy="11" r="8"></circle><line x1="21" y1="21" x2="16.65" y2="16.65"></line>
+            </svg>
+          </button>
+          <button class="theme-toggle" aria-label="Toggle theme"></button>
+        </div>
+      </div>
+    </nav>
+    <div id="app"></div>
+  </body>
+</html>
