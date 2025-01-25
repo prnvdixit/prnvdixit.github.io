@@ -7,7 +7,8 @@
       "githubLink": "https://github.com/example/typescript-intro",
       "publishDate": "2023-12-01",
       "tags": ["typescript", "javascript", "programming"],
-      "contentPath": "getting-started-with-typescript.md"
+      "contentPath": "getting-started-with-typescript.md",
+      "links": ["https://www.typescriptlang.org/docs/handbook/intro.html"]
     },
     {
       "id": "2",
@@ -16,16 +17,20 @@
       "githubLink": "https://github.com/example/vanilla-spa",
       "publishDate": "2023-12-05",
       "tags": ["javascript", "spa", "web"],
-      "contentPath": "building-spas-with-vanilla-js.md"
+      "contentPath": "building-spas-with-vanilla-js.md",
+      "links": ["https://developer.mozilla.org/en-US/docs/Web/API/History_API"]
     },
     {
       "id": "3",
       "title": "Deep Dive into React Hooks",
       "readingTime": "12 min",
-      "githubLink": "https://github.com/example/react-hooks",
       "publishDate": "2023-12-10",
       "tags": ["react", "javascript", "hooks"],
-      "contentPath": "deep-dive-react-hooks.md"
+      "contentPath": "deep-dive-react-hooks.md",
+      "links": [
+        "https://reactjs.org/docs/hooks-intro.html",
+        "https://github.com/example/react-hooks"
+      ]
     },
     {
       "id": "4",
@@ -34,7 +39,8 @@
       "githubLink": "https://github.com/example/css-layout",
       "publishDate": "2023-12-15",
       "tags": ["css", "web", "layout"],
-      "contentPath": "modern-css-layout.md"
+      "contentPath": "modern-css-layout.md",
+      "links": ["https://css-tricks.com/snippets/css/complete-guide-grid/"]
     },
     {
       "id": "5",
@@ -43,115 +49,8 @@
       "githubLink": "https://github.com/example/node-performance",
       "publishDate": "2023-12-20",
       "tags": ["nodejs", "performance", "backend"],
-      "contentPath": "nodejs-performance.md"
-    },
-    {
-      "id": "6",
-      "title": "GraphQL vs REST API Design",
-      "readingTime": "10 min",
-      "githubLink": "https://github.com/example/graphql-rest",
-      "publishDate": "2023-12-25",
-      "tags": ["graphql", "rest", "api"],
-      "contentPath": "graphql-vs-rest.md"
-    },
-    {
-      "id": "7",
-      "title": "Vue.js 3 Composition API",
-      "readingTime": "8 min",
-      "githubLink": "https://github.com/example/vue3-composition",
-      "publishDate": "2023-12-30",
-      "tags": ["vue", "javascript", "frontend"],
-      "contentPath": "vue3-composition-api.md"
-    },
-    {
-      "id": "8",
-      "title": "Docker for Development",
-      "readingTime": "14 min",
-      "githubLink": "https://github.com/example/docker-dev",
-      "publishDate": "2024-01-05",
-      "tags": ["docker", "devops", "development"],
-      "contentPath": "docker-development.md"
-    },
-    {
-      "id": "9",
-      "title": "Testing React Applications",
-      "readingTime": "11 min",
-      "githubLink": "https://github.com/example/react-testing",
-      "publishDate": "2024-01-10",
-      "tags": ["react", "testing", "javascript"],
-      "contentPath": "testing-react-apps.md"
-    },
-    {
-      "id": "10",
-      "title": "Microservices Architecture",
-      "readingTime": "16 min",
-      "githubLink": "https://github.com/example/microservices",
-      "publishDate": "2024-01-15",
-      "tags": ["microservices", "architecture", "backend"],
-      "contentPath": "microservices-arch.md"
-    },
-    {
-      "id": "11",
-      "title": "Web Security Best Practices",
-      "readingTime": "13 min",
-      "githubLink": "https://github.com/example/web-security",
-      "publishDate": "2024-01-20",
-      "tags": ["security", "web", "best-practices"],
-      "contentPath": "web-security.md"
-    },
-    {
-      "id": "12",
-      "title": "State Management with Redux",
-      "readingTime": "9 min",
-      "githubLink": "https://github.com/example/redux-state",
-      "publishDate": "2024-01-25",
-      "tags": ["redux", "react", "state-management"],
-      "contentPath": "redux-state-management.md"
-    },
-    {
-      "id": "13",
-      "title": "Progressive Web Apps",
-      "readingTime": "12 min",
-      "githubLink": "https://github.com/example/pwa-guide",
-      "publishDate": "2024-01-30",
-      "tags": ["pwa", "web", "mobile"],
-      "contentPath": "progressive-web-apps.md"
-    },
-    {
-      "id": "14",
-      "title": "MongoDB Best Practices",
-      "readingTime": "10 min",
-      "githubLink": "https://github.com/example/mongodb-guide",
-      "publishDate": "2024-02-05",
-      "tags": ["mongodb", "database", "backend"],
-      "contentPath": "mongodb-best-practices.md"
-    },
-    {
-      "id": "15",
-      "title": "Serverless Architecture",
-      "readingTime": "14 min",
-      "githubLink": "https://github.com/example/serverless",
-      "publishDate": "2024-02-10",
-      "tags": ["serverless", "cloud", "architecture"],
-      "contentPath": "serverless-architecture.md"
-    },
-    {
-      "id": "16",
-      "title": "WebAssembly Fundamentals",
-      "readingTime": "15 min",
-      "githubLink": "https://github.com/example/wasm-basics",
-      "publishDate": "2024-02-15",
-      "tags": ["webassembly", "performance", "web"],
-      "contentPath": "webassembly-fundamentals.md"
-    },
-    {
-      "id": "17",
-      "title": "Machine Learning in JavaScript",
-      "readingTime": "18 min",
-      "githubLink": "https://github.com/example/ml-js",
-      "publishDate": "2024-02-20",
-      "tags": ["machine-learning", "javascript", "ai"],
-      "contentPath": "ml-javascript.md"
+      "contentPath": "nodejs-performance.md",
+      "links": ["https://nodejs.org/en/docs/guides/dont-block-the-event-loop/"]
     }
   ]
 }
