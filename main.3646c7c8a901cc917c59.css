@@ -289,7 +289,7 @@ body {
 
 .note-content p {
     margin-bottom: 1.5rem;
-    color: red;
+    color: var(--text-secondary);
 }
 
 .note-content code {
