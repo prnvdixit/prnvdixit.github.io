@@ -156,6 +156,14 @@
           "description": "Node.js Event Loop Guide"
         }
       ]
+    },
+    {
+      "id": "6",
+      "title": "Simple Web Animations",
+      "readingTime": "8 min",
+      "publishDate": "2023-12-25",
+      "tags": ["webpack", "javascript", "frontend"],
+      "contentPath": "simple-web-animations.md"
     }
   ]
 }
