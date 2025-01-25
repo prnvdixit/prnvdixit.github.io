@@ -7,13 +7,7 @@
       "githubLink": "https://github.com/example/typescript-intro",
       "publishDate": "2023-12-01",
       "tags": ["typescript", "javascript", "programming"],
-      "contentPath": "getting-started-with-typescript.md",
-      "links": [
-        {
-          "url": "https://www.typescriptlang.org/docs/handbook/intro.html",
-          "description": "TypeScript Handbook"
-        }
-      ]
+      "contentPath": "getting-started-with-typescript.md"
     },
     {
       "id": "2",
