@@ -6,6 +6,7 @@
       "readingTime": "5 min",
       "githubLink": "https://github.com/example/typescript-intro",
       "publishDate": "2023-12-01",
+      "blogLink": "getting-started-with-typescript",
       "tags": ["typescript", "javascript", "programming"],
       "contentPath": "getting-started-with-typescript.md"
     },
@@ -15,40 +16,13 @@
       "readingTime": "8 min",
       "githubLink": "https://github.com/example/vanilla-spa",
       "publishDate": "2023-12-05",
-      "tags": [
-        "javascript",
-        "spa",
-        "web",
-        "routing",
-        "state-management",
-        "dom-manipulation",
-        "performance"
-      ],
+      "blogLink": "building-spas-with-vanilla-js",
+      "tags": ["javascript", "spa", "web"],
       "contentPath": "building-spas-with-vanilla-js.md",
       "links": [
         {
           "url": "https://developer.mozilla.org/en-US/docs/Web/API/History_API",
           "description": "MDN History API Guide"
-        },
-        {
-          "url": "https://developer.mozilla.org/en-US/docs/Web/API/Window/localStorage",
-          "description": "Browser Storage Guide"
-        },
-        {
-          "url": "https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model",
-          "description": "DOM Manipulation Guide"
-        },
-        {
-          "url": "https://web.dev/articles/performance-get-started",
-          "description": "Web Performance Best Practices"
-        },
-        {
-          "url": "https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API",
-          "description": "Working with Fetch API"
-        },
-        {
-          "url": "https://developer.mozilla.org/en-US/docs/Web/API/CustomEvent",
-          "description": "Custom Events for State Management"
         },
         {
           "url": "https://developer.mozilla.org/en-US/docs/Web/API/URL",
@@ -61,69 +35,13 @@
       "title": "Deep Dive into React Hooks",
       "readingTime": "12 min",
       "publishDate": "2023-12-10",
-      "tags": [
-        "react",
-        "javascript",
-        "hooks",
-        "state-management",
-        "effects",
-        "performance",
-        "custom-hooks",
-        "context",
-        "reducers",
-        "memoization",
-        "testing",
-        "typescript"
-      ],
+      "blogLink": "deep-dive-into-react-hooks",
+      "tags": ["react", "javascript", "hooks"],
       "contentPath": "deep-dive-react-hooks.md",
       "links": [
         {
           "url": "https://reactjs.org/docs/hooks-intro.html",
           "description": "React Hooks Introduction"
-        },
-        {
-          "url": "https://github.com/example/react-hooks",
-          "description": "React Hooks Examples"
-        },
-        {
-          "url": "https://reactjs.org/docs/hooks-state.html",
-          "description": "useState Hook Deep Dive"
-        },
-        {
-          "url": "https://reactjs.org/docs/hooks-effect.html",
-          "description": "useEffect Hook Guide"
-        },
-        {
-          "url": "https://reactjs.org/docs/hooks-reference.html#usememo",
-          "description": "useMemo Performance Guide"
-        },
-        {
-          "url": "https://reactjs.org/docs/hooks-reference.html#usecallback",
-          "description": "useCallback Implementation"
-        },
-        {
-          "url": "https://reactjs.org/docs/hooks-reference.html#usecontext",
-          "description": "Context with Hooks"
-        },
-        {
-          "url": "https://reactjs.org/docs/hooks-reference.html#usereducer",
-          "description": "Complex State with useReducer"
-        },
-        {
-          "url": "https://reactjs.org/docs/hooks-custom.html",
-          "description": "Building Custom Hooks"
-        },
-        {
-          "url": "https://reactjs.org/docs/hooks-faq.html#how-to-test-components-that-use-hooks",
-          "description": "Testing Hooks Best Practices"
-        },
-        {
-          "url": "https://reactjs.org/docs/hooks-reference.html#useref",
-          "description": "Managing Refs with useRef"
-        },
-        {
-          "url": "https://reactjs.org/docs/hooks-reference.html#uselayouteffect",
-          "description": "Understanding useLayoutEffect"
         }
       ]
     },
@@ -133,6 +51,7 @@
       "readingTime": "10 min",
       "githubLink": "https://github.com/example/css-layout",
       "publishDate": "2023-12-15",
+      "blogLink": "modern-css-layout-techniques",
       "tags": ["css", "web", "layout"],
       "contentPath": "modern-css-layout.md",
       "links": [
@@ -148,6 +67,7 @@
       "readingTime": "15 min",
       "githubLink": "https://github.com/example/node-performance",
       "publishDate": "2023-12-20",
+      "blogLink": "nodejs-performance-optimization",
       "tags": ["nodejs", "performance", "backend"],
       "contentPath": "nodejs-performance.md",
       "links": [
@@ -162,6 +82,7 @@
       "title": "Simple Web Animations",
       "readingTime": "8 min",
       "publishDate": "2023-12-25",
+      "blogLink": "simple-web-animations",
       "tags": ["webpack", "javascript", "frontend"],
       "contentPath": "simple-web-animations.md"
     }

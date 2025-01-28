@@ -9,7 +9,7 @@
   --shadow-color: rgba(0, 0, 0, 0.05);
   --transition-duration: 0.2s;
   --transition-timing: cubic-bezier(0.4, 0, 0.2, 1);
-  --container-width: 850px;
+  --container-width: 1000px;
   --header-height: 4rem;
   --theme-icon: url("data:image/svg+xml;charset=utf-8, <svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"black\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"svg-icon lucide-sun\"><circle cx=\"12\" cy=\"12\" r=\"4\"></circle><path d=\"M12 2v2\"></path><path d=\"M12 20v2\"></path><path d=\"m4.93 4.93 1.41 1.41\"></path><path d=\"m17.66 17.66 1.41 1.41\"></path><path d=\"M2 12h2\"></path><path d=\"M20 12h2\"></path><path d=\"m6.34 17.66-1.41 1.41\"></path><path d=\"m19.07 4.93-1.41 1.41\"></path></svg>");
 }
@@ -45,6 +45,10 @@ body {
   max-width: var(--container-width);
   margin: 0 auto;
   padding: 2rem;
+}
+
+.container h1 {
+  margin-bottom: 2rem;
 }
 
 .navbar {
@@ -449,17 +453,11 @@ body {
 #HCB_comment_box {
   max-height: 800px;
   overflow: scroll;
+  margin-bottom: 10rem;
 }
 
 #HCB_comment_box label {
   color: var(--label-color) !important;
-}
-
-.container.with-toc {
-  display: grid;
-  grid-template-columns: minmax(0, 1fr);
-  gap: 2rem;
-  position: relative;
 }
 
 .table-of-contents {
@@ -519,7 +517,7 @@ body {
 
 /* Adjust main content to make space for TOC */
 .container.with-toc {
-  max-width: 800px;
+  max-width: 1000px;
   margin: 0 auto;
   padding: 0 2rem;
   margin-right: 300px;
