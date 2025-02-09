@@ -3,7 +3,7 @@
 Psychology tells us that when we consistently face failure — our belief in our ability to influence things, even in other areas can start to shrink — unless you... read until [next](#fix) section.
 
 You may have encountered this idea as a buzzword "agency" [online](https://x.com/naval/status/1818901132020007376) — though I'll present a more comprehensible explanation.
-(P.S. not endorsing Naval's ideas)
+(P.S. not endorsing Naval, just found while researching for this blog)
 
 In this experiment, a teacher gives two groups of students different exams, both with three questions. The trick? The first two questions in both set of papers are wildly different — they're practically unsolvable for first group; and a breeze for the second group. The third question is same for everyone though.
 Now even though that third question was identical for both groups - it's only the second group who were able to crack it. This illustrates the idea of _learned helplessness_ - where the students in first group practically gave up, because of their prior experience of powerlessness overriding their ability to even attempt an easy problem.
