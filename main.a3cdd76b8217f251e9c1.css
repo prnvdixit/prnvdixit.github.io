@@ -6,6 +6,7 @@
   --text-secondary: #666666;
   --accent-color: #000000;
   --border-color: #e0e0e0;
+  --border-color-secondary: #666666;
   --shadow-color: rgba(0, 0, 0, 0.05);
   --transition-duration: 0.2s;
   --transition-timing: cubic-bezier(0.4, 0, 0.2, 1);
@@ -21,6 +22,7 @@
   --text-secondary: #999999;
   --accent-color: #ffffff;
   --border-color: #333333;
+  --border-color-secondary: #999999;
   --shadow-color: rgba(0, 0, 0, 0.3);
   --theme-icon: url("data:image/svg+xml;charset=utf-8,<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"%23ffffff\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path d=\"M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z\"/></svg>");
 }
@@ -218,6 +220,7 @@ body {
 
 .note-header-top h1 {
   margin-top: 1rem;
+  font-size: 2.75rem;
 }
 
 .github-link {
@@ -293,6 +296,17 @@ body {
   color: var(--text-secondary);
 }
 
+.note-content a {
+  color: var(--accent-color);
+  text-decoration: underline;
+  border-bottom: 1px solid transparent;
+  transition: border-color 0.2s ease;
+}
+
+.note-content a:hover {
+  border-bottom-color: var(--accent-color);
+}
+
 .note-content code {
   background-color: var(--bg-secondary);
   padding: 0.2rem 0.4rem;
@@ -308,6 +322,50 @@ body {
   overflow-x: auto;
   margin: 2rem 0;
   border: 1px solid var(--border-color);
+}
+
+.note-navigation {
+  display: flex;
+  justify-content: space-between;
+  gap: 1rem;
+  margin: 3rem 0;
+}
+
+.nav-link {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  padding: 1rem;
+  text-decoration: none;
+  transition: all 0.2s ease;
+}
+
+.nav-link:hover {
+  background-color: var(--bg-secondary);
+  color: var(--accent-color);
+}
+
+.nav-link.prev {
+  text-align: left;
+  border: 1px solid var(--border-color-secondary);
+}
+
+.nav-link.next {
+  text-align: right;
+  border: 1px solid var(--border-color-secondary);
+}
+
+.nav-label {
+  font-size: 0.875rem;
+  color: var(--text-secondary);
+  margin-bottom: 0.5rem;
+}
+
+.nav-title {
+  font-weight: 500;
+  color: var(--text-primary);
+  line-height: 1.4;
+  margin: 2rem 0;
 }
 
 .copy-link-btn {

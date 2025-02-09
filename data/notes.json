@@ -1,90 +1,13 @@
 {
   "notes": [
     {
-      "id": "1",
-      "title": "Getting Started with TypeScript",
-      "readingTime": "5 min",
-      "githubLink": "https://github.com/example/typescript-intro",
-      "publishDate": "2023-12-01",
-      "blogLink": "getting-started-with-typescript",
-      "tags": ["typescript", "javascript", "programming"],
-      "contentPath": "getting-started-with-typescript.md"
-    },
-    {
-      "id": "2",
-      "title": "Building SPAs with Vanilla JS",
-      "readingTime": "8 min",
-      "githubLink": "https://github.com/example/vanilla-spa",
-      "publishDate": "2023-12-05",
-      "blogLink": "building-spas-with-vanilla-js",
-      "tags": ["javascript", "spa", "web"],
-      "contentPath": "building-spas-with-vanilla-js.md",
-      "links": [
-        {
-          "url": "https://developer.mozilla.org/en-US/docs/Web/API/History_API",
-          "description": "MDN History API Guide"
-        },
-        {
-          "url": "https://developer.mozilla.org/en-US/docs/Web/API/URL",
-          "description": "URL API for Routing"
-        }
-      ]
-    },
-    {
-      "id": "3",
-      "title": "Deep Dive into React Hooks",
-      "readingTime": "12 min",
-      "publishDate": "2023-12-10",
-      "blogLink": "deep-dive-into-react-hooks",
-      "tags": ["react", "javascript", "hooks"],
-      "contentPath": "deep-dive-react-hooks.md",
-      "links": [
-        {
-          "url": "https://reactjs.org/docs/hooks-intro.html",
-          "description": "React Hooks Introduction"
-        }
-      ]
-    },
-    {
-      "id": "4",
-      "title": "Modern CSS Layout Techniques",
-      "readingTime": "10 min",
-      "githubLink": "https://github.com/example/css-layout",
-      "publishDate": "2023-12-15",
-      "blogLink": "modern-css-layout-techniques",
-      "tags": ["css", "web", "layout"],
-      "contentPath": "modern-css-layout.md",
-      "links": [
-        {
-          "url": "https://css-tricks.com/snippets/css/complete-guide-grid/",
-          "description": "CSS Grid Guide"
-        }
-      ]
-    },
-    {
-      "id": "5",
-      "title": "Node.js Performance Optimization",
-      "readingTime": "15 min",
-      "githubLink": "https://github.com/example/node-performance",
-      "publishDate": "2023-12-20",
-      "blogLink": "nodejs-performance-optimization",
-      "tags": ["nodejs", "performance", "backend"],
-      "contentPath": "nodejs-performance.md",
-      "links": [
-        {
-          "url": "https://nodejs.org/en/docs/guides/dont-block-the-event-loop/",
-          "description": "Node.js Event Loop Guide"
-        }
-      ]
-    },
-    {
-      "id": "6",
-      "title": "Simple Web Animations",
-      "readingTime": "8 min",
-      "publishDate": "2023-12-25",
-      "blogLink": "simple-web-animations",
-      "tags": ["webpack", "javascript", "frontend"],
-      "contentPath": "simple-web-animations.md"
+      "id": "0",
+      "title": "Failure - It's not as bad as it swims to be!",
+      "readingTime": "4 min",
+      "publishDate": "2025-02-09",
+      "blogLink": "fail-hobbies",
+      "tags": ["failure", "hobbies", "swimming", "psychology"],
+      "contentPath": "fail-hobbies.md"
     }
   ]
 }
