@@ -377,6 +377,25 @@ body {
   cursor: pointer;
   font-weight: 500;
   transition: all 0.2s ease;
+  margin-bottom: 1.5rem;
+}
+
+.toc-link.active {
+  color: var(--accent-color);
+  font-weight: 500;
+  position: relative;
+}
+
+.toc-link.active::after {
+  content: "";
+  position: absolute;
+  left: -1rem;
+  top: 50%;
+  transform: translateY(-50%);
+  width: 4px;
+  height: 1rem;
+  background-color: var(--accent-color);
+  border-radius: 2px;
 }
 
 .back-to-top {
