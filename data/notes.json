@@ -3,9 +3,11 @@
     {
       "id": "0",
       "title": "Failure - It's not as bad as it swims to be!",
-      "readingTime": "4 min",
+      "readingTime": "6 min",
       "publishDate": "2025-02-09",
       "blogLink": "fail-hobbies",
+      "githubLink": "",
+      "pinned": false,
       "links": [
         {
           "url": "https://x.com/naval/status/1818901132020007376",
@@ -18,6 +20,17 @@
       ],
       "tags": ["failure", "hobbies", "swimming", "psychology"],
       "contentPath": "fail-hobbies.md"
+    },
+    {
+      "id": "1",
+      "title": "God",
+      "readingTime": "4 min",
+      "publishDate": "2025-02-15",
+      "blogLink": "god-belief",
+      "githubLink": "",
+      "links": [],
+      "tags": ["spirituality", "philosophy", "vedanta", "hobbies"],
+      "contentPath": "god-belief.md"
     }
   ]
 }

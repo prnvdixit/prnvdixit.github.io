@@ -1,0 +1,4 @@
+## Do we need God?
+
+Now I know this in itself is a controversial thing to say, specially in current times - when people are forgetting that humans created God and not viceversa. But sidestepping through that to focus on what I wanted to make a note of.
+I feel every human utilizes some short-circuits to reach to a decision. Consider this example, you met a new person in a conference and you want to quickly get to a point where you want to decide if this person is worth your limited time in this conference or not. Maybe you'll look at that other person's designation, to see if he can be a valuable advisor or mentor to you in future. But then some other person may rather look at their expertise in some topic, to see if they can hire this person. And someone else will just look at their hygiene and communication to see if they can sit next tot his person for next 4 hours.
