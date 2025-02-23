@@ -10,16 +10,54 @@
       "pinned": false,
       "links": [
         {
-          "url": "https://x.com/naval/status/1818901132020007376",
-          "description": "Tweet on 'agency'"
+          "url": "https://x.com/search?q=%40naval%20%22agency%22%20since%3A2024-02-09%20until%3A2025-02-09&src=typed_query&f=top",
+          "description": "[1] 'Agency' on social media"
         },
         {
           "url": "https://www.youtube.com/watch?v=gFmFOmprTt0",
-          "description": "Video of the experiment"
+          "description": "[2] The experiment"
         }
       ],
       "tags": ["failure", "hobbies", "swimming", "psychology"],
       "contentPath": "fail-hobbies.md"
+    },
+    {
+      "id": "1",
+      "title": "Belief: A question of God and Love!",
+      "readingTime": "6 min",
+      "publishDate": "2025-02-22",
+      "blogLink": "god-belief-love",
+      "githubLink": "",
+      "pinned": false,
+      "links": [
+        {
+          "url": "https://www.youtube.com/watch?v=QkhBcLk_8f0",
+          "description": "[1] Feynman on answers"
+        },
+        {
+          "url": "https://plato.stanford.edu/entries/faith/",
+          "description": "[2] Faith - Christianity"
+        },
+        {
+          "url": "https://www.ramakrishnavivekananda.info/vivekananda/volume_8/writings_prose/four_paths_of_yoga.htm",
+          "description": "[3] Enlightenment - Hinduism"
+        },
+        {
+          "url": "https://quod.lib.umich.edu/p/phimp/3521354.0014.021/1",
+          "description": "[4] No-self - Buddhism"
+        }
+      ],
+      "tags": [
+        "god",
+        "philosophy",
+        "spirituality",
+        "christianity",
+        "hinduism",
+        "islam",
+        "buddhism",
+        "love"
+      ],
+      "contentPath": "god-belief-love.md"
     }
   ]
 }

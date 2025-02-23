@@ -1,12 +1,12 @@
 ## What Psychology says about failure?
 
-Psychology tells us that when we consistently face failure — our belief in our ability to influence things, even in other areas can start to shrink — unless you... read until [next](#fix) section. You may have encountered this idea as a buzzword "agency" [online](https://x.com/search?q=%40naval%20%22agency%22%20since%3A2024-02-09%20until%3A2025-02-09&src=typed_query&f=top) — though I'll present a more comprehensible explanation.
+Psychology tells us that when we consistently face failure — our belief in our ability to influence things, even in other areas can start to shrink — unless you... read until [next](#fix) section. You may have encountered this idea as a buzzword "agency" online<sup>[1](https://x.com/search?q=%40naval%20%22agency%22%20since%3A2024-02-09%20until%3A2025-02-09&src=typed_query&f=top)</sup> — though I'll present a more comprehensible explanation.
 
 **(P.S. NOT endorsing Naval. Just that I realized while researching for this blog that everyone seems to quote him when using this word :))**
 
 ![Naval's tweet about agency](/data/pics/0-naval-tweet.png)
 
-In this experiment, a teacher gives two groups of students different exams, both with three questions. The trick? The first two questions in both set of papers are wildly different — they're practically unsolvable for first group; and a breeze for the second group. The third question is same for everyone though.
+In this experiment<sup>[2](https://www.youtube.com/watch?v=gFmFOmprTt0)</sup>, a teacher gives two groups of students different exams, both with three questions. The trick? The first two questions in both set of papers are wildly different — they're practically unsolvable for first group; and a breeze for the second group. The third question is same for everyone though.
 Now even though that third question was identical for both groups - it's mostly the students in second group who were able to crack it. This illustrates the idea of <u>_learned helplessness_</u> - where the students in first group practically gave up, because of their prior experience of powerlessness overriding their ability to even attempt an easy problem.
 
 The original experiment from 1960s - the golden age of psychology in my personal opinion - is far too brutal to explain here. I'll leave that to curious minds. You were warned.
