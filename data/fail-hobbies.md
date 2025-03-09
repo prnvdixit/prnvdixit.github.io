@@ -10,9 +10,8 @@ In this experiment<sup>[2](https://www.youtube.com/watch?v=gFmFOmprTt0)</sup>, a
 Now even though that third question was identical for both groups - it's mostly the students in second group who were able to crack it. This illustrates the idea of <u>_learned helplessness_</u> - where the students in first group practically gave up, because of their prior experience of powerlessness overriding their ability to even attempt an easy problem.
 
 The original experiment from 1960s - the golden age of psychology in my personal opinion - is far too brutal to explain here. I'll leave that to curious minds. You were warned.
-<a name="fix"></a>
 
-## So what's the fix?
+## <a name="fix"></a> So what's the fix?
 
 Well, like most things in psychology there's no _magic fix_ - it's fundamentally about understanding a human tendency. And simply being aware of this phenomenon is a step towards regaining control. A helpful strategy to internalize this idea is to intentionally engage in low-stakes activities where failure is okay, even expected. Eventually, by consistently realizing that most failure can be actually attributed to external factors like — the difficulty of the challenge or your own lack of specific preparation — you may start noticing changes within you on how your perception of failure has changed too.
 

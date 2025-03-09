@@ -24,7 +24,7 @@
     {
       "id": "1",
       "title": "Belief: A question of God and Love!",
-      "readingTime": "6 min",
+      "readingTime": "8 min",
       "publishDate": "2025-02-22",
       "blogLink": "god-belief-love",
       "githubLink": "",
@@ -36,28 +36,60 @@
         },
         {
           "url": "https://plato.stanford.edu/entries/faith/",
-          "description": "[2] Faith - Christianity"
+          "description": "[2] Faith"
         },
         {
           "url": "https://www.ramakrishnavivekananda.info/vivekananda/volume_8/writings_prose/four_paths_of_yoga.htm",
-          "description": "[3] Enlightenment - Hinduism"
+          "description": "[3] Enlightenment"
         },
         {
           "url": "https://quod.lib.umich.edu/p/phimp/3521354.0014.021/1",
-          "description": "[4] No-self - Buddhism"
+          "description": "[4] No-self"
         }
       ],
       "tags": [
         "god",
+        "hobbies",
         "philosophy",
-        "spirituality",
         "christianity",
         "hinduism",
-        "islam",
         "buddhism",
+        "islam",
         "love"
       ],
       "contentPath": "god-belief-love.md"
+    },
+    {
+      "id": "2",
+      "title": "Equations and evil",
+      "readingTime": "8 min",
+      "publishDate": "2025-03-09",
+      "blogLink": "review-cease-world",
+      "githubLink": "",
+      "pinned": false,
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Rat_Park",
+          "description": "[1] Rat park studies"
+        },
+        {
+          "url": "https://www.amazon.in/When-We-Cease-Understand-World/dp/1782276122",
+          "description": "[2] Purchase book"
+        },
+        {
+          "url": "https://youtu.be/-icD_KmvnnM?t=137",
+          "description": "[3] Geoffrey Hinton Nobel reaction"
+        }
+      ],
+      "tags": [
+        "science",
+        "hobbies",
+        "book-review",
+        "psychology",
+        "philosophy",
+        "physics"
+      ],
+      "contentPath": "review-cease-world.md"
     }
   ]
 }
