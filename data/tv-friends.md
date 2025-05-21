@@ -30,10 +30,16 @@ Phoebe went from a chill, empathetic stoner (I hope?) - who wouldn't even keep a
 
 Chandler and Rachel showed growth, I feel. But that's not the topic of this note, so I'll not go into that much.
 
+And you can trace same character arcs with,
+
+- Andy's and Kevin's characters going from "I know someone like him" people to plain stupid in "The Office"
+- Fez going from suave to candy obsessed creep in "The 70s show"
+- Boyle going from goofy person to a guy making innuendos on everything and opening a food truck (?) in Brooklyn 99
+
 ### Takeaway for real life?
 
 I think there's a lesson here somewhere. From childhood, we're taught to differentiate ourselves through our uniqueness. But if we associate our entire self-worth and personality with that one unique thing, we risk becoming so different we aren't a real person anymore. I remember a guy in my school who used to tell teachers "I love you" or "I am proud of you" whenever they scolded him. For first few weeks, the entire class and even teachers joined in the laughter. Then, his statements stopped being sudden and pretty predictable for everyone (Teacher asks him to stand up > Teacher says something snarky > He blurts out a one-liner) and were met with silence; the scolding wouldn't stop even after a witty line. He assumed he needed to lean more into his quirk, the thing that made him "special." I don't think the class laughed ever again at his one-liners.
 
 ### What made me think of this?
 
-The girl I'm seeing currently mentioned watching "Schitt's Creek"—a very funny show, she said, where characters have an arc from annoying to lovely. She recommended we watch a couple of early episodes together and continue if I like them. This made me think of all the good shows I've seen with character arcs (HIMYM is a wonderful example) and how it took time for characters to hit a point where change clicks. So, I immediately countered that if it's as good a show as she says, I should watch at least 15-20 episodes before I can form an opinion.
+The girl I'm seeing currently mentioned watching "Schitt's Creek" - a very funny show, she said, where characters go through an arc of annoying to lovely. She recommended we watch a couple of early episodes together and continue if I like them. This made me think of all the good shows I've seen with character arcs (HIMYM is a wonderful example) and how it took time for characters to hit a point where change clicks. So, I immediately countered that if it's as good a show as she says, I should watch at least 15-20 episodes before I can form an opinion.
