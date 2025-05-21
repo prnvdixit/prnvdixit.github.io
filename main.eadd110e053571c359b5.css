@@ -296,6 +296,24 @@ body {
   color: var(--text-secondary);
 }
 
+.note-content ul {
+  margin-left: 2rem;
+  padding-left: 1.5rem;
+}
+
+.note-content li {
+  margin-bottom: 0.75rem;
+  position: relative;
+  line-height: 1.6;
+}
+
+.note-content li::before {
+  position: absolute;
+  left: -1.25rem;
+  color: var(--accent-color);
+  font-size: 1.2em;
+}
+
 .note-content img {
   max-width: 100%;
   height: auto;

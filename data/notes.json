@@ -90,6 +90,48 @@
         "physics"
       ],
       "contentPath": "review-cease-world.md"
+    },
+    {
+      "id": "3",
+      "title": "Soul vs Silicon",
+      "readingTime": "8 min",
+      "publishDate": "2025-03-29",
+      "blogLink": "creativity-ai",
+      "githubLink": "",
+      "pinned": false,
+      "links": [
+        {
+          "url": "https://x.com/anime_twits/status/1905182428513050667",
+          "description": "[1] Efforts in Ghibli"
+        },
+        {
+          "url": "https://www.nasa.gov/image-article/astronaut-bruce-mccandless-performs-the-first-untethered-spacewalk/",
+          "description": "[2] The Spacewalk"
+        },
+        {
+          "url": "https://x.com/DearthOfSid/status/1906339073956135259/",
+          "description": "[3] Story in borrowed art"
+        }
+      ],
+      "tags": ["ai", "art", "philosophy"],
+      "contentPath": "creativity-ai.md"
+    },
+    {
+      "id": "3",
+      "title": "The problem with F.R.I.E.N.D.S.",
+      "readingTime": "6 min",
+      "publishDate": "2025-05-21",
+      "blogLink": "tv-friends",
+      "githubLink": "",
+      "pinned": false,
+      "links": [
+        {
+          "url": "https://www.youtube.com/watch?v=4H6Ux3l75Rc",
+          "description": "[1] Friends: Ross Geller without laugh track = psychopath"
+        }
+      ],
+      "tags": ["philosophy", "cinema"],
+      "contentPath": "tv-friends.md"
     }
   ]
 }
