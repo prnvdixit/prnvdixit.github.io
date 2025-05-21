@@ -1,4 +1,4 @@
-## Why F.R.I.E.N.D.S?
+### Why F.R.I.E.N.D.S?
 
 Very clickbaity title I know! In my defense I'm more of a movie/book person myself and haven't watched many TV shows yet. So, this analysis should hold for many famous TV shows (barring a few solid ones I know) – "The Office (US)," for example, would follow the same pattern.
 
