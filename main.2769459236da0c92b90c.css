@@ -698,6 +698,7 @@ body {
   }
 }
 
+/* Mobile screens */
 @media (max-width: 768px) {
   .container.with-toc {
     padding: 0 1rem;
@@ -707,13 +708,8 @@ body {
     visibility: none;
   }
 
-  .nav-links {
+  .back-to-notes {
     display: none;
-  }
-
-  html,
-  body {
-    touch-action: pan-x, pan-y;
   }
 }
 
