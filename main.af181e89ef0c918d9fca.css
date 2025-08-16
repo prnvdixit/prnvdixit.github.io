@@ -702,6 +702,19 @@ body {
   .container.with-toc {
     padding: 0 1rem;
   }
+
+  .back-to-top {
+    visibility: none;
+  }
+
+  .nav-links {
+    display: none;
+  }
+
+  html,
+  body {
+    touch-action: pan-x, pan-y;
+  }
 }
 
 @media (max-width: 1200px) {
