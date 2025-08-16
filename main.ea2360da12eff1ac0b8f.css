@@ -627,6 +627,10 @@ body {
   border-left: 2px solid #eaeaea;
   font-size: 0.9rem;
   z-index: 100;
+  overscroll-behavior: contain;
+  -webkit-overflow-scrolling: touch;
+  transform: translateZ(0);
+  will-change: transform;
 }
 
 .table-of-contents h2 {
@@ -672,30 +676,41 @@ body {
 
 /* Adjust main content to make space for TOC */
 .container.with-toc {
-  max-width: 1000px;
+  max-width: min(calc(100% - 300px), 1000px);
   margin: 0 auto;
   padding: 0 2rem;
   margin-right: 300px;
+  position: relative;
+  width: 100%;
+  box-sizing: border-box;
 }
 
-@media (max-width: 768px) {
-  .table-of-contents {
-    display: none;
-  }
-
-  .container.with-toc {
-    grid-template-columns: 1fr;
-  }
-}
-
-/* Responsive adjustments */
+/* Center content when TOC is hidden */
 @media (max-width: 1200px) {
   .table-of-contents {
     display: none;
   }
 
   .container.with-toc {
-    max-width: 800px;
+    max-width: min(100%, 800px);
+    margin: 0 auto;
+    padding: 0 2rem;
+  }
+}
+
+@media (max-width: 768px) {
+  .container.with-toc {
+    padding: 0 1rem;
+  }
+}
+
+@media (max-width: 1200px) {
+  .table-of-contents {
+    display: none;
+  }
+
+  .container.with-toc {
+    max-width: 100%;
     margin: 0 auto;
     padding: 0 2rem;
   }

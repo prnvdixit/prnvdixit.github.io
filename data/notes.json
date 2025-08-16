@@ -117,7 +117,7 @@
       "contentPath": "creativity-ai.md"
     },
     {
-      "id": "3",
+      "id": "4",
       "title": "The problem with F.R.I.E.N.D.S.",
       "readingTime": "6 min",
       "publishDate": "2025-05-21",
@@ -132,6 +132,57 @@
       ],
       "tags": ["philosophy", "cinema"],
       "contentPath": "tv-friends.md"
+    },
+    {
+      "id": "5",
+      "title": "Hey there!",
+      "readingTime": "5 min",
+      "publishDate": "2025-09-07",
+      "blogLink": "hey",
+      "githubLink": "",
+      "pinned": false,
+      "hidden": true,
+      "links": [
+        {
+          "url": "https://www.youtube.com/watch?v=fWNaR-rxAic",
+          "description": "[1] Call me maybe"
+        }
+      ],
+      "tags": ["philosophy", "love", "letter", "fiction"],
+      "contentPath": "hey-there.md"
+    },
+    {
+      "id": "6",
+      "title": "[WIP] Be better!",
+      "readingTime": "6 min",
+      "publishDate": "2025-08-05",
+      "blogLink": "vices",
+      "githubLink": "",
+      "pinned": false,
+      "links": [],
+      "tags": ["philosophy", "psychology"],
+      "contentPath": "be-better.md"
+    },
+    {
+      "id": "7",
+      "title": "The Rebellion {and/or} Star Wars",
+      "readingTime": "8 min",
+      "publishDate": "2025-08-16",
+      "blogLink": "andor-star-wars",
+      "githubLink": "",
+      "pinned": false,
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Star_Wars:_Episode_III_%E2%80%93_Revenge_of_the_Sith#Themes",
+          "description": "[1] If you're not with me..."
+        },
+        {
+          "url": "https://screenrant.com/andor-show-star-wars-fan-service-details-response/",
+          "description": "[2] Fans"
+        }
+      ],
+      "tags": ["philosophy", "cinema", "politics"],
+      "contentPath": "andor-star-wars.md"
     }
   ]
 }
