@@ -1,6 +1,6 @@
 > "I will try my best to ensure that you never see my face again. All the best!"
 
-He said that in their last, forty-second meeting before he came home.
+Those were his last words to her. In their last, forty-second, meeting.
 
 In the first week after that, he felt at peace. He'd be lying if he said otherwise. He was faintly seduced by the idea of shedding all accountability. He was counting all the times she had hurt him, all the times he felt unseen in the relationship, all the nights they spent fighting when he reached work with barely an hour of sleep, all the hobbies he had stopped making time for, all the times she acted impulsively and refused to talk about issues.
 

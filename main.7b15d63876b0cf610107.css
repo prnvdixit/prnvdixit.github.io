@@ -702,6 +702,14 @@ body {
   .container.with-toc {
     padding: 0 1rem;
   }
+
+  .back-to-notes {
+    display: none;
+  }
+
+  .tag-cloud-container {
+    display: none;
+  }
 }
 
 @media (max-width: 1200px) {
