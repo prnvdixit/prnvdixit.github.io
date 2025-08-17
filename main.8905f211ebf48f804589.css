@@ -710,6 +710,10 @@ body {
   .tag-cloud-container {
     display: none;
   }
+
+  .back-to-top {
+    display: none;
+  }
 }
 
 @media (max-width: 1200px) {
