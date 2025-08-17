@@ -134,24 +134,6 @@
       "contentPath": "tv-friends.md"
     },
     {
-      "id": "5",
-      "title": "Hey there!",
-      "readingTime": "5 min",
-      "publishDate": "2025-09-07",
-      "blogLink": "hey",
-      "githubLink": "",
-      "pinned": false,
-      "hidden": true,
-      "links": [
-        {
-          "url": "https://www.youtube.com/watch?v=fWNaR-rxAic",
-          "description": "[1] Call me maybe"
-        }
-      ],
-      "tags": ["philosophy", "love", "letter", "fiction"],
-      "contentPath": "hey-there.md"
-    },
-    {
       "id": "6",
       "title": "[WIP] Be better!",
       "readingTime": "6 min",
@@ -183,6 +165,23 @@
       ],
       "tags": ["philosophy", "cinema", "politics"],
       "contentPath": "andor-star-wars.md"
+    },
+    {
+      "id": "5",
+      "title": "Hey there!",
+      "readingTime": "8 min",
+      "publishDate": "2025-09-07",
+      "blogLink": "hey",
+      "githubLink": "",
+      "pinned": false,
+      "links": [
+        {
+          "url": "https://www.youtube.com/watch?v=fWNaR-rxAic",
+          "description": "[1] Call me maybe"
+        }
+      ],
+      "tags": ["philosophy", "love", "letter", "fiction"],
+      "contentPath": "hey-there.md"
     }
   ]
 }

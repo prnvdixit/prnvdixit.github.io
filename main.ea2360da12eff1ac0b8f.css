@@ -698,18 +698,9 @@ body {
   }
 }
 
-/* Mobile screens */
 @media (max-width: 768px) {
   .container.with-toc {
     padding: 0 1rem;
-  }
-
-  .back-to-top {
-    visibility: none;
-  }
-
-  .back-to-notes {
-    display: none;
   }
 }
 
