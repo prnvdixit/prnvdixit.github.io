@@ -698,6 +698,7 @@ body {
   }
 }
 
+/* Mobile CSS */
 @media (max-width: 768px) {
   .container.with-toc {
     padding: 0 1rem;

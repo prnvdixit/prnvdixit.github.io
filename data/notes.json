@@ -18,7 +18,7 @@
           "description": "[2] The experiment"
         }
       ],
-      "tags": ["failure", "hobbies", "swimming", "psychology"],
+      "tags": ["hobbies", "swimming", "psychology"],
       "contentPath": "fail-hobbies.md"
     },
     {
@@ -130,7 +130,7 @@
           "description": "[1] Friends: Ross Geller without laugh track = psychopath"
         }
       ],
-      "tags": ["philosophy", "cinema"],
+      "tags": ["cinema"],
       "contentPath": "tv-friends.md"
     },
     {
@@ -142,7 +142,7 @@
       "githubLink": "",
       "pinned": false,
       "links": [],
-      "tags": ["philosophy", "psychology"],
+      "tags": ["psychology"],
       "contentPath": "be-better.md"
     },
     {
@@ -180,7 +180,7 @@
           "description": "[1] Call me maybe"
         }
       ],
-      "tags": ["philosophy", "love", "letter", "fiction"],
+      "tags": ["love", "fiction"],
       "contentPath": "hey-there.md"
     }
   ]
