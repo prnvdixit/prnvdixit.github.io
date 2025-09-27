@@ -47,16 +47,7 @@
           "description": "[4] No-self"
         }
       ],
-      "tags": [
-        "god",
-        "hobbies",
-        "philosophy",
-        "christianity",
-        "hinduism",
-        "buddhism",
-        "islam",
-        "love"
-      ],
+      "tags": ["god", "hobbies", "philosophy", "love"],
       "contentPath": "god-belief-love.md"
     },
     {
@@ -81,14 +72,7 @@
           "description": "[3] Geoffrey Hinton Nobel reaction"
         }
       ],
-      "tags": [
-        "science",
-        "hobbies",
-        "book-review",
-        "psychology",
-        "philosophy",
-        "physics"
-      ],
+      "tags": ["hobbies", "book-review", "psychology", "philosophy", "science"],
       "contentPath": "review-cease-world.md"
     },
     {
@@ -134,6 +118,23 @@
       "contentPath": "tv-friends.md"
     },
     {
+      "id": "5",
+      "title": "Hey there!",
+      "readingTime": "8 min",
+      "publishDate": "2025-07-25",
+      "blogLink": "hey",
+      "githubLink": "",
+      "pinned": false,
+      "links": [
+        {
+          "url": "https://www.youtube.com/watch?v=xy42tDw4k5Y",
+          "description": "[1] Milkha's first race"
+        }
+      ],
+      "tags": ["love", "fiction"],
+      "contentPath": "hey-there.md"
+    },
+    {
       "id": "6",
       "title": "[WIP] Be better!",
       "readingTime": "6 min",
@@ -167,25 +168,87 @@
       "contentPath": "andor-star-wars.md"
     },
     {
-      "id": "5",
-      "title": "Hey there!",
+      "id": "8",
+      "title": "Eureka!",
       "readingTime": "8 min",
-      "publishDate": "2025-09-07",
-      "blogLink": "hey",
+      "publishDate": "2025-08-30",
+      "blogLink": "eureka",
       "githubLink": "",
+      "hidden": true,
       "pinned": false,
       "links": [
         {
-          "url": "https://www.youtube.com/watch?v=xy42tDw4k5Y",
-          "description": "[1] Milkha's first race"
+          "url": "https://www.instagram.com/p/DN0fSSjWqxM/",
+          "description": "How GPS works"
         },
         {
-          "url": "https://www.youtube.com/watch?v=fWNaR-rxAic",
-          "description": "[2] Call me maybe"
+          "url": "https://www.reddit.com/r/explainlikeimfive/comments/1n3fgay/eli5_how_einstein_figured_out_that_time_slows/",
+          "description": "Theory of relativity"
+        },
+        {
+          "url": "https://www.instagram.com/p/DNaTwNaJ-Ss/",
+          "description": "Just one more thing to do"
+        },
+        {
+          "url": "https://www.instagram.com/p/DNOFxtlvKQu/",
+          "description": "IF by Rudyard Kipling"
         }
       ],
-      "tags": ["love", "fiction"],
-      "contentPath": "hey-there.md"
+      "tags": ["science"],
+      "contentPath": "eureka.md"
+    },
+    {
+      "id": "9",
+      "title": "The first hit!",
+      "readingTime": "5 min",
+      "publishDate": "2025-09-27",
+      "blogLink": "first-hit-mma",
+      "githubLink": "",
+      "hidden": false,
+      "pinned": false,
+      "links": [],
+      "tags": ["mma", "hobbies"],
+      "contentPath": "first-hit-mma.md"
+    },
+    {
+      "id": "10",
+      "title": "Live as a paradox!",
+      "readingTime": "4 min",
+      "publishDate": "2025-10-03",
+      "blogLink": "i-just-wanna-see",
+      "githubLink": "",
+      "hidden": true,
+      "pinned": false,
+      "links": [
+        {
+          "url": "https://www.instagram.com/p/DNRQJGdvvJE/",
+          "description": "Just try art"
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=dWexFvaC5n4&t=61s",
+          "description": "There are no abstractions, everything is art"
+        }
+      ],
+      "tags": ["mma", "swimming", "violin", "hobbies", "psychology"],
+      "contentPath": "excuses.md"
+    },
+    {
+      "id": "10",
+      "title": "My learnings as a lead!",
+      "readingTime": "4 min",
+      "publishDate": "2025-10-03",
+      "blogLink": "lead-swe",
+      "githubLink": "",
+      "hidden": true,
+      "pinned": false,
+      "links": [
+        {
+          "url": "https://x.com/nikunj/status/1970266472644780369",
+          "description": "Silent ones"
+        }
+      ],
+      "tags": ["career"],
+      "contentPath": ""
     }
   ]
 }

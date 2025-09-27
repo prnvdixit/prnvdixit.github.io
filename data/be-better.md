@@ -4,16 +4,16 @@ I was reading a very old journal entry of mine (reminds me I need to start journ
 
 > This is a work in progress note, so I'll keep updating it when I come across other vices within me :)
 
-## Judgmental
+## Stickler
 
-I believed there's only one way to live the life, the right way. Everything was so easy to cloak under "I have high standards", but the "standards" happen to just what was convenient to me. It was some level of insecurity within, where I felt good and reassured after pushing other people down, even so in my mind (never did it in practical life thankfully!).
-I hope I can develop that empathy to other people's struggles and other people's choices.
+I believed there's only one way to live the life, the right way. Everything was so easy to cloak under "I have high standards", but the "standards" happen to just what was convenient to me. It was some level of self-esteem issues within, where I felt good and reassured after thinking I'm better than others.
+I hope I can develop that same level of empathy to other's struggles and other's choices that I have for strangers to ones who are close too.
 
-## Fighting
+## Disagreements
 
-Fighting right takes every little ounce of courage and empathy. Courage to accept that you're a volatile. Empathy to figure out other person's negotiables and non-negotiables. I'm still learning to convey my feelings. And to take a break when I feel flooded with emotions.
+Disagreeing right takes every little ounce of courage and empathy. Courage to accept that you're a volatile. Empathy to figure out other person's negotiables and non-negotiables. I'm still learning to convey my feelings. And to take a break when I feel flooded with emotions.
 The tendency is to drop out of your heart and into your head to solve problems, so much conflict is just trying to negotiate which particular way would be best to return to “safety”. And in the moment, it’s so easy to forget that the goal was always to spend as much time heart-centered as possible and just doing things that inspire the heart.
 
-## Putting self second
+## Patience
 
-I have come to realize this constant need of reassurance at work and in relationships. Likely originating from self-esteem issues. Where I'd rest a part of my identity with someone else. In these situations, my anxiety would take over, discipline and patience will go to trash, and every disagreement starts seeming urgent turning into fights. Fortunately, I never reached a point of hurting people or being hurt by people. Patience should be my only answer.
+Whenever I start anything - from training to relationships - my immediate impulse is to see if I'm comfortable with level-hard of it. And that may work with inanimate objects but not with people. Because it is easy to track your progress on hobbies , but People? I have a constant need of reassurance that I'm doing better by their standards. In these situations, my anxiety would take over, discipline and patience will go to trash, and every disagreement becomes urgent turning into fights. Patience should be my only answer.
