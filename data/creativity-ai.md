@@ -22,9 +22,16 @@ This raises the question: can AI, trained to replicate a style, truly replicate 
 
 ## So what's the answer?
 
-So these Ghibli-style AI images - Is it "art"? A framework I use whenever any discussion on art comes up is - "3Ns": Nuance, Novelty, and Narrative.
+So these Ghibli-style AI images - Is it "art"? Not in my opinion, it is content. What's the difference you ask?
 
-Applying this lens, especially as someone familiar with Studio Ghibli's legacy, the initial assessment seems clear:
+> In my view art and content are not synonymous. The purpose of art is to express oneself deeply, while the purpose of content is to garner attention quickly. Art follows a pace that is set internally, while content adheres to expectations that are set externally
+> <cite>— @moretothat (on "Make Classics, Not Content"<sup>[3](https://moretothat.com/make-classics-not-content/)</sup>)</cite>
+
+Art takes time, heart and soul :)
+
+A framework that I read a long time ago around art was - "3Ns": Nuance, Novelty, and Narrative<sup>[4](https://mckaywilliamson.com/artspeak-simplified//)</sup>.
+
+Applying this lens, especially as someone familiar with Studio Ghibli's legacy, the initial assessment of AI images seems clear:
 
 - Nuance: Often low. AI replicates surface aesthetics but typically misses the subtle, intentional choices and deep emotional resonance master animators embed in their work.
 
@@ -34,7 +41,7 @@ Applying this lens, especially as someone familiar with Studio Ghibli's legacy, 
 
 From this viewpoint, it might seem straightforward to dismiss these AI creations as lacking artistic merit compared to the originals.
 
-However, this perspective assumes a shared context and understanding of the source material. Consider the story shared by Balram Vishwakarma <sup>[3](https://x.com/DearthOfSid/status/1906339073956135259/)</sup>: His cousin's wife in rural Bihar, unfamiliar with Ghibli's work but captivated by the dreamy, animated style was touched by seeing herself portrayed with a softness and beauty she hadn't felt entitled to before.
+However, this perspective assumes a shared context and understanding of the source material. Consider the story shared by Balram Vishwakarma <sup>[5](https://x.com/DearthOfSid/status/1906339073956135259/)</sup>: His cousin's wife in rural Bihar, who is otherwise unfamiliar with Ghibli's work but got captivated by the dreamy, animated style and was touched by seeing herself portrayed with a softness and beauty she hadn't felt entitled to before.
 
 Suddenly, the 3Ns shift dramatically:
 
@@ -42,7 +49,7 @@ Suddenly, the 3Ns shift dramatically:
 
 - The Novelty was immense; the entire aesthetic was a new, enchanting way of seeing.
 
-- And the Narrative? It wasn't just the image's content, but the powerful, deeply personal story created by the experience – the narrative of being seen, of feeling worthy of beauty, of accessing a "fairytale" moment. As Vishwakarma puts it, "The image might be fake, but the emotion was real."
+- And the Narrative? For her image is not just a content, but the powerful, deeply personal story created by the experience – the narrative of being seen, of feeling worthy of beauty, of accessing a "fairytale" moment. As Vishwakarma puts it, "The image might be fake, but the emotion was real."
 
 Yes, these tools can flatten a style built on soul and painstaking human effort. Yet, they can also provide unexpected windows, "a crack in the wall", allowing people often relegated to the background to experience themselves, and perhaps beauty itself, in a new light, even if just for a moment. The answer, then, isn't a simple yes or no, but deeply intertwined with individual experience and access.
 
