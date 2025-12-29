@@ -18,3 +18,16 @@ Also, although sometimes it’s good to be as stretchable as a spring but the pr
 Start telling yourself "I love it" every time something bad happens about a hobby. Couldn't land that kick? I love it. Couldn't play that note? I love it. Couldn't progress weights? I love it. Couldn't swim a new form? I love it.
 Even if you can't find a positive aspect of it, just say "I love it". Train your brain into embracing everything, positive or negative.
 All these challenges make the final story better.
+
+
+I’ve seen this play out very clearly with someone I worked with early in my career.
+He was a junior engineer, and in his first few months he got openly blamed by his manager for “not performing well enough.” Missed expectations, unclear updates, work that technically got done but didn’t inspire confidence. A lot of people in that position would’ve written the manager off as unfair, blamed the onboarding, or mentally checked out.
+He didn’t.
+He took it painfully personally in the most productive way possible. He didn’t argue. He didn’t defend himself. He went back and asked a harder question: “If this keeps happening, what part of this is actually under my control?”
+He realized the problem wasn’t just code quality. It was communication. His manager couldn’t see progress early enough. His design thinking wasn’t explicit. He waited too long to ask questions. He assumed silence meant approval.
+So he changed everything he could control.
+He started over-communicating. Daily updates, even when nothing was “done.” He wrote short design notes before implementing. He asked for feedback early, sometimes uncomfortably early. He practiced explaining trade-offs instead of just shipping code. He made sure his manager never had to guess what he was doing or why.
+Six months later, he was effectively operating at a senior level.
+Not because he suddenly became 10x smarter, but because he eliminated ambiguity around his work. His manager trusted him. Other engineers looped him in. He became the person people went to because he reduced uncertainty, not because he wrote the fanciest code.
+What stood out to me was how fast it happened once he internalized responsibility. The blame didn’t crush him. It focused him. He treated feedback, even poorly delivered feedback, as signal.
+That giant locus of control is a cheat code. You don’t waste energy arguing about fairness. You spend it upgrading your inputs, your communication, and your decision-making. And over time, people stop blaming you not because they’re nicer, but because there’s nothing left to blame.

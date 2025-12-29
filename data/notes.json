@@ -342,12 +342,12 @@
           "description": "Just one more thing to do"
         },
         {
-          "url": "https://www.instagram.com/p/DNOFxtlvKQu/",
-          "description": "IF by Rudyard Kipling"
-        },
-        {
           "url": "https://www.youtube.com/watch?v=6V2eCFsDkK0",
           "description": "Prince Rupert's drop, strongest substance with a weakness"
+        },
+        {
+          "url": "https://x.com/animalologist/status/2005019340161024315",
+          "description": "There are more factors for you to fail"
         }
       ],
       "tags": [
@@ -373,21 +373,21 @@
     },
     {
       "id": "16",
-      "title": "🎞️ Movies",
-      "readingTime": "5 min",
+      "title": "🎞️ Screens",
+      "readingTime": "∞",
       "publishDate": "2026-01-01",
-      "blogLink": "movies",
+      "blogLink": "screens",
       "githubLink": "",
       "hidden": true,
       "pinned": true,
       "links": [],
       "tags": [],
-      "contentPath": "movies.md"
+      "contentPath": "screens.md"
     },
     {
       "id": "17",
       "title": "♪ Songs",
-      "readingTime": "5 min",
+      "readingTime": "∞",
       "publishDate": "2026-01-01",
       "blogLink": "songs",
       "githubLink": "",
@@ -396,6 +396,19 @@
       "links": [],
       "tags": [],
       "contentPath": "songs.md"
+    },
+    {
+      "id": "17",
+      "title": "If...",
+      "readingTime": "2 min",
+      "publishDate": "2026-12-25",
+      "blogLink": "if-kipling",
+      "githubLink": "",
+      "hidden": false,
+      "pinned": false,
+      "links": [],
+      "tags": [],
+      "contentPath": "if.md"
     }
   ]
 }

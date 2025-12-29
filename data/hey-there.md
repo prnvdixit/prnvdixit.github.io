@@ -1,5 +1,3 @@
-_<- This is just a work of fiction with some inspiration from real life ->_
-
 > "I will try my best to ensure that you never see my face again. All the best!"
 
 Those were his last words to her. In their final, forty-second, meeting.

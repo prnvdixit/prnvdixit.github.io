@@ -913,97 +913,89 @@ body {
 }
 
 /* Movies and Songs Grid Styles */
-.movie-grid,
+.movie-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(140px, 1fr));
+  gap: 1rem;
+  margin-top: 1.5rem;
+}
+
 .song-grid {
   display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
-  gap: 2rem;
-  margin-top: 2rem;
+  grid-template-columns: repeat(auto-fill, minmax(140px, 1fr));
+  gap: 1rem;
+  margin-top: 1.5rem;
 }
 
 .movie-card {
   background: var(--card-bg);
-  border-radius: 12px;
+  border-radius: 8px;
   overflow: hidden;
-  box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1),
-    0 2px 4px -1px rgba(0, 0, 0, 0.06);
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
   transition: transform 0.3s ease, box-shadow 0.3s ease;
   height: 100%;
-  display: flex;
-  flex-direction: column;
+  display: grid;
+  grid-template-rows: auto 1fr;
 }
 
 .movie-card:hover {
-  transform: translateY(-5px);
-  box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.1),
-    0 4px 6px -2px rgba(0, 0, 0, 0.05);
+  transform: translateY(-3px);
+  box-shadow: 0 6px 12px rgba(0, 0, 0, 0.15);
 }
 
 .movie-poster {
   width: 100%;
-  height: 375px;
+  aspect-ratio: 2 / 3;
   object-fit: cover;
 }
 
 .movie-info {
-  padding: 1.5rem;
+  padding: 0.75rem;
   flex-grow: 1;
   display: flex;
   flex-direction: column;
 }
 
 .movie-info h3 {
-  margin: 0 0 0.5rem 0;
-  font-size: 1.25rem;
+  margin: 0 0 0.25rem 0;
+  font-size: 0.85rem;
   color: var(--text-primary);
+  line-height: 1.3;
 }
 
 .movie-info p {
-  margin: 0.5rem 0;
-  font-size: 0.9rem;
+  margin: 0.2rem 0;
+  font-size: 0.7rem;
   color: var(--text-secondary);
-  line-height: 1.5;
+  line-height: 1.4;
 }
 
 .song-card {
-  border-radius: 12px;
+  border-radius: 8px;
   overflow: hidden;
-  transition: transform 0.3s ease;
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
   background: var(--card-bg);
-  display: flex;
-  flex-direction: column;
+  display: grid;
+  grid-template-rows: auto 1fr;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  height: 100%;
 }
 
 .song-card:hover {
-  transform: scale(1.05);
+  transform: translateY(-3px);
+  box-shadow: 0 6px 12px rgba(0, 0, 0, 0.15);
 }
 
 .song-link {
-  display: flex;
-  flex-direction: column;
-  width: 100%;
-  height: 100%;
-  position: relative;
+  display: contents;
   text-decoration: none;
 }
 
 .song-thumbnail-container {
   width: 100%;
-  aspect-ratio: 16 / 9;
+  aspect-ratio: 1 / 1;
   position: relative;
   overflow: hidden;
-}
-
-.song-title {
-  padding: 0.75rem;
-  font-size: 0.95rem;
-  color: var(--text-primary);
-  text-align: center;
-  font-weight: 500;
-  white-space: nowrap;
-  overflow: hidden;
-  text-overflow: ellipsis;
-  border-top: 1px solid var(--border-color, rgba(0, 0, 0, 0.1));
 }
 
 .song-thumbnail {
@@ -1012,22 +1004,175 @@ body {
   object-fit: cover;
 }
 
+.song-info {
+  padding: 0.75rem;
+  display: flex;
+  flex-direction: column;
+}
+
+.song-info h3 {
+  margin: 0 0 0.25rem 0;
+  font-size: 0.85rem;
+  color: var(--text-primary);
+  line-height: 1.3;
+}
+
+.song-info p {
+  margin: 0.2rem 0;
+  font-size: 0.7rem;
+  color: var(--text-secondary);
+  line-height: 1.4;
+}
+
 .play-icon {
   position: absolute;
   top: 50%;
   left: 50%;
   transform: translate(-50%, -50%);
-  width: 50px;
-  height: 50px;
+  width: 40px;
+  height: 40px;
   background: rgba(0, 0, 0, 0.7);
   border-radius: 50%;
   display: flex;
   align-items: center;
   justify-content: center;
   color: white;
-  font-size: 24px;
+  font-size: 18px;
   opacity: 0;
   transition: opacity 0.3s ease;
+}
+
+/* Notes Page View Toggle */
+.notes-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 2rem;
+  padding: 1rem 0;
+  transition: all 0.3s ease;
+}
+
+.notes-header.sticky {
+  position: sticky;
+  top: var(--header-height);
+  background: var(--bg-primary);
+  z-index: 50;
+  border-bottom: 1px solid transparent;
+}
+
+/* Sticky header behavior handled by position: sticky */
+
+
+/* Add a subtle shadow when sticky header is active (scrolled) */
+@supports (position: sticky) {
+  .notes-header.sticky {
+    box-shadow: 0 4px 6px -6px rgba(0, 0, 0, 0.1);
+    border-bottom-color: var(--border-color);
+    padding: 0.5rem 0;
+  }
+}
+
+.view-toggle {
+  display: flex;
+  background: var(--bg-secondary);
+  padding: 0.25rem;
+  border-radius: 8px;
+  border: 1px solid var(--border-color);
+}
+
+.toggle-btn {
+  padding: 0.5rem 1.25rem;
+  border: none;
+  background: transparent;
+  color: var(--text-secondary);
+  cursor: pointer;
+  border-radius: 6px;
+  font-size: 0.9rem;
+  font-weight: 500;
+  transition: all 0.2s ease;
+}
+
+.toggle-btn.active {
+  background: var(--accent-color);
+  color: var(--bg-primary);
+}
+
+.notes-feed {
+  display: flex;
+  flex-direction: column;
+  gap: 4rem;
+  margin-top: 2rem;
+  max-width: 800px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.feed-item {
+  position: relative;
+}
+
+/* Pinned state indicator handled by pin icon in title */
+
+
+.feed-item .note-header {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 1rem;
+  margin-bottom: 2rem;
+}
+
+.feed-item .note-header-top h2 {
+  margin: 0;
+  font-size: 2rem;
+}
+
+.feed-item .note-header-top h2 a {
+  text-decoration: none;
+  color: var(--text-primary);
+}
+
+.feed-item .note-header-top h2 a:hover {
+  color: var(--accent-color);
+}
+
+.feed-item .note-meta {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1rem;
+  align-items: center;
+}
+
+.feed-footer {
+  margin-top: 6rem;
+  margin-bottom: 2rem;
+  display: flex;
+  flex-direction: column;
+  gap: 0.75rem;
+  width: 100%;
+}
+
+.separator-line {
+  height: 1px;
+  width: 100%;
+  background-color: var(--text-secondary);
+  transition: all 0.3s ease;
+}
+
+.separator-line:nth-child(1) {
+  opacity: 0.8;
+}
+
+.separator-line:nth-child(2) {
+  opacity: 0.5;
+  width: 85%;
+  margin: 0 auto;
+}
+
+.separator-line:nth-child(3) {
+  opacity: 0.2;
+  width: 65%;
+  margin: 0 auto;
 }
 
 .song-card:hover .play-icon {
@@ -1036,13 +1181,30 @@ body {
 
 @media (max-width: 768px) {
 
-  .movie-grid,
-  .song-grid {
-    grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
-    gap: 1rem;
+  .movie-grid {
+    grid-template-columns: repeat(auto-fill, minmax(100px, 1fr));
+    gap: 0.5rem;
   }
 
-  .movie-poster {
-    height: 300px;
+  .song-grid {
+    grid-template-columns: repeat(auto-fill, minmax(100px, 1fr));
+    gap: 0.5rem;
+  }
+
+  .movie-info {
+    padding: 0.5rem;
+  }
+
+  .movie-info h3 {
+    font-size: 0.75rem;
+  }
+
+  .movie-info p {
+    font-size: 0.6rem;
+  }
+
+  .song-title {
+    padding: 0.4rem;
+    font-size: 0.65rem;
   }
 }
