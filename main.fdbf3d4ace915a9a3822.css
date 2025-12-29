@@ -1207,4 +1207,30 @@ body {
     padding: 0.4rem;
     font-size: 0.65rem;
   }
+
+  /* Pinned notes mobile improvements */
+  .carousel-container {
+    width: 100%;
+    padding: 0 30px;
+  }
+
+  .carousel-arrow {
+    width: 32px;
+    height: 32px;
+    font-size: 1rem;
+  }
+
+  .pinned-note {
+    aspect-ratio: 1 / 1;
+    padding: 1rem;
+    justify-content: center;
+  }
+
+  .pinned-note h2 {
+    font-size: 1.25rem;
+  }
+
+  .pinned-note .note-meta {
+    font-size: 0.8rem;
+  }
 }

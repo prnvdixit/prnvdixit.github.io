@@ -407,7 +407,10 @@
       "hidden": false,
       "pinned": false,
       "links": [],
-      "tags": [],
+      "tags": [
+        "poetry",
+        "philosophy"
+      ],
       "contentPath": "if.md"
     }
   ]
