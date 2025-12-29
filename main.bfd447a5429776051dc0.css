@@ -1234,3 +1234,45 @@ body {
     font-size: 0.8rem;
   }
 }
+
+@media (max-width: 480px) {
+  .carousel-container {
+    padding: 0 15px;
+  }
+
+  .carousel-arrow {
+    width: 30px;
+    height: 30px;
+    font-size: 0.9rem;
+  }
+
+  .carousel-arrow.prev {
+    left: -5px;
+  }
+
+  .carousel-arrow.next {
+    right: -5px;
+  }
+
+  .pinned-note {
+    padding: 0.75rem;
+  }
+
+  .pinned-note h2 {
+    font-size: 1.15rem;
+  }
+
+  .pinned-note .note-meta {
+    font-size: 0.75rem;
+    gap: 0.5rem;
+  }
+
+  .pinned-note .note-tags {
+    display: none;
+  }
+
+  .carousel-dots {
+    gap: 0.4rem;
+    margin-top: 0.75rem;
+  }
+}
