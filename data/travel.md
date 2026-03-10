@@ -1,4 +1,4 @@
-> I wrote this a decade ago in 2016 and it was sitting in my email drafts until today. I feel this explains why I naturally feel drawn towards solo travelling so much and how far I've come from that reserved quite kid who used to second guess every interaction. I wanted to talk to strangers and people even then just didn't know how. And now I know. Maybe this hits harder right now because I've barely travelled in past 2 years, here's to expecting that changes this year xD
+> I wrote this a decade ago in 2016 and it was sitting in my email drafts until today. I feel this explains why I naturally feel drawn towards solo travelling so much and how far I've come from that reserved quite kid, who used to second guess every interaction. I wanted to talk to strangers and people even then, just didn't knew how. Well now I know. Maybe this hits harder right now because I've barely travelled in past 2 years, here's to expecting that changes this year xD
 
 First, let me tell you something. I'm really bad at initiating conversations.
 
@@ -14,6 +14,6 @@ But at the same time I don't want to be "THAT GUY". That guy who tells everythin
 
 That's not all, I have this embedded fear of asking questions like, what if they don't want to talk to me? What if they judge me? What if they won't confide in me? What if things I tell them, they share with other people? What if they think I'm a weirdo?
 
-So, even before I begin the idea of how to have a conversation with them, I reject it. But this unknown urge to share with these known strangers still lingers.
+So, even before I begin the idea of how to have a conversation with them, I reject it. But this unknown urge to share with these unknown strangers still lingers.
 
 And there is nothing I can do about it because as I said, I am really bad at initiating conversations.

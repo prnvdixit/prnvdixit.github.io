@@ -1,4 +1,4 @@
-## Mandatory warning
+## Obligatory warning
 
 <b><u>Warning - 1</u></b>: Spoilers ahead!
 
