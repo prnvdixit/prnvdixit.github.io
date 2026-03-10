@@ -1,3 +1,5 @@
+https://www.facebook.com/reel/939352098600382
+
 ## Why I thought of this today?
 
 I was reading a very old journal entry of mine (reminds me I need to start journaling again!) and realised how frequently I've changed my opinion about things which I used to believe whole-heartedly at some point in life. Some times it happened over time with experiences, other times someone explicitly told me about it. And that is something I want to capture maybe as a trajectory of growth that is happening on a day-to-day basis in my life. I can come back to it and remind myself of it then.

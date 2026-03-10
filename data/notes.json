@@ -191,7 +191,7 @@
       "pinned": false,
       "links": [
         {
-          "url": "https://en.wikipedia.org/wiki/Star_Wars:_Episode_III_%E2%80%93_Revenge_of_the_Sith#Themes",
+          "url": "https://en.wikipedia.org/wiki/Star_Wars:_Episode_III_%E2%80%93_Revenge_of_the_Sith#References:_Cinematic_and_literary_allusions",
           "description": "[1] If you're not with me..."
         },
         {
@@ -226,7 +226,7 @@
       "title": "From Text to Token: Why I’m Building an LLM Toolkit from Scratch",
       "readingTime": "4 min",
       "publishDate": "2025-10-25",
-      "blogLink": "llm-scratch-multilingual",
+      "blogLink": "llm-scratch-bpe-micrograd",
       "githubLink": "",
       "hidden": true,
       "pinned": false,
@@ -240,7 +240,7 @@
         "ai",
         "learning"
       ],
-      "contentPath": "month-one-llm-scratch.md"
+      "contentPath": "month-one-llm-scratch-bpe-micrograd.md"
     },
     {
       "id": "10",
@@ -276,7 +276,7 @@
     },
     {
       "id": "11",
-      "title": "Why AI doom-predictors may be right?!",
+      "title": "AI doom may rather look like a...?!",
       "readingTime": "4 min",
       "publishDate": "2025-10-22",
       "blogLink": "ai-apocalypse",
@@ -285,12 +285,13 @@
       "pinned": false,
       "links": [],
       "tags": [
-        ""
+        "ai",
+        "politics"
       ],
       "contentPath": "ai-apocalypse.md"
     },
     {
-      "id": "11",
+      "id": "12",
       "title": "Why?!",
       "readingTime": "4 min",
       "publishDate": "2025-12-10",
@@ -348,6 +349,10 @@
         {
           "url": "https://x.com/animalologist/status/2005019340161024315",
           "description": "There are more factors for you to fail"
+        },
+        {
+          "url": "https://x.com/historyinmemes/status/2029467701286961645",
+          "description": "Leave the leash if you want the child to grow"
         }
       ],
       "tags": [
@@ -373,35 +378,9 @@
     },
     {
       "id": "16",
-      "title": "🎞️ Screens",
-      "readingTime": "∞",
-      "publishDate": "2026-01-01",
-      "blogLink": "screens",
-      "githubLink": "",
-      "hidden": true,
-      "pinned": true,
-      "links": [],
-      "tags": [],
-      "contentPath": "screens.md"
-    },
-    {
-      "id": "17",
-      "title": "♪ Songs",
-      "readingTime": "∞",
-      "publishDate": "2026-01-01",
-      "blogLink": "songs",
-      "githubLink": "",
-      "hidden": true,
-      "pinned": true,
-      "links": [],
-      "tags": [],
-      "contentPath": "songs.md"
-    },
-    {
-      "id": "17",
       "title": "If...",
       "readingTime": "2 min",
-      "publishDate": "2026-12-25",
+      "publishDate": "2025-12-25",
       "blogLink": "if-kipling",
       "githubLink": "",
       "hidden": false,
@@ -412,6 +391,113 @@
         "philosophy"
       ],
       "contentPath": "if.md"
+    },
+    {
+      "id": "17",
+      "title": "🎞️ Screens",
+      "readingTime": "∞",
+      "publishDate": "2026-01-01",
+      "blogLink": "screens",
+      "githubLink": "",
+      "hidden": true,
+      "pinned": true,
+      "links": [],
+      "tags": [
+        "cinema"
+      ],
+      "contentPath": "screens.md"
+    },
+    {
+      "id": "18",
+      "title": "♪ Songs",
+      "readingTime": "∞",
+      "publishDate": "2026-01-01",
+      "blogLink": "songs",
+      "githubLink": "",
+      "hidden": true,
+      "pinned": true,
+      "links": [],
+      "tags": [
+        "cinema"
+      ],
+      "contentPath": "songs.md"
+    },
+    {
+      "id": "19",
+      "title": "Why travel?",
+      "readingTime": "2 min",
+      "publishDate": "2026-01-01",
+      "blogLink": "why-travel",
+      "githubLink": "",
+      "hidden": false,
+      "pinned": false,
+      "links": [],
+      "tags": [
+        "hobbies",
+        "travel"
+      ],
+      "contentPath": "travel.md"
+    },
+    {
+      "id": "20",
+      "title": "Paper Shelf",
+      "readingTime": "4 min",
+      "publishDate": "2026-01-01",
+      "blogLink": "paper-shelf",
+      "githubLink": "",
+      "hidden": true,
+      "pinned": true,
+      "links": [],
+      "tags": [
+        "ai",
+        "learning"
+      ],
+      "contentPath": "paper-shelf.md"
+    },
+    {
+      "id": "21",
+      "title": "Seeing Through the Model’s Eyes: Visualizing Cross-Lingual Attention in Math Reasoning",
+      "readingTime": "4 min",
+      "publishDate": "2026-01-02",
+      "blogLink": "llm-scratch-attention",
+      "githubLink": "",
+      "hidden": true,
+      "pinned": false,
+      "links": [
+        {
+          "url": "https://www.youtube.com/watch?v=eMlx5fFNoYc",
+          "description": "Attention in transformers (3Blue1Brown)"
+        }
+      ],
+      "tags": [
+        "ai",
+        "learning"
+      ],
+      "contentPath": "month-two-llm-scratch-attention.md"
+    },
+    {
+      "id": "22",
+      "title": "Hacker's Manifesto",
+      "readingTime": "1 min",
+      "publishDate": "2026-02-07",
+      "blogLink": "hackers-manifesto",
+      "githubLink": "",
+      "hidden": false,
+      "pinned": false,
+      "links": [
+        {
+          "url": "https://phrack.org/issues/7/3",
+          "description": "The Conscience of a Hacker"
+        },
+        {
+          "url": "https://darknetdiaries.com/episode/170/",
+          "description": "EP 170: Phrack"
+        }
+      ],
+      "tags": [
+        "philosophy"
+      ],
+      "contentPath": "manifesto.md"
     }
   ]
 }

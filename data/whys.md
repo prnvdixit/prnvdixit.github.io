@@ -60,3 +60,6 @@ Explain how blue eyes don't have blue pigment in them.
 18. How do I know colours I see are same as you?
     Dive into: Philosophy of mind (qualia), neuroscience of perception, linguistics of color categorization,
     and the physiology of cone cells.
+
+19. How did screensavers saved your screen?
+    CRT monitors and image frozen on screen would result in permanent impression.

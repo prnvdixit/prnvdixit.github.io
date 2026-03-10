@@ -14,7 +14,7 @@ Chandler is... (what does he do again? :D)... an introverted, witty person with 
 
 Monica is an ambitious chef and the glue holding the group together. Her quirk? She has an OCD about cleaning.
 
-Rachel is a rich-turned-poor girl trying to find her place, her quirk being a bit snobby. Phoebe is a gypsy gal stuck in New York, I guess, whose quirk is being unintentionally blunt, snarky, and even offensive.
+Rachel is a rich-turned-poor girl trying to find her place, her quirk is basically being a bit snobby. Phoebe is a gypsy gal stuck in New York, I guess, whose quirk is being unintentionally blunt, snarky, and even offensive.
 
 ### The second impression
 
@@ -22,15 +22,15 @@ Seasons pass, and subtly, the characters become more distant from normal people.
 
 Joey is legit braindead in later seasons; the guy who once knew how to turn off the heater and play guitar chords later struggled with simple French words. He was turned from a flirt to a womanizer. I wish writers had leaned into the early season Joey more and shown how intelligence comes in different forms.
 
-Ross becomes just a depressed serial-divorcee. Anyone told they'd go through three divorces in their 20s would have a mental breakdown, and surprise? That's what happens to him. He's miserable, pulling off stupid acts for a sandwich or seducing his cousin in desperation. If you turn off the laugh track, you can actually feel bad for the guy<sup>[1](https://www.youtube.com/watch?v=4H6Ux3l75Rc)</sup>.
+Ross becomes just a depressed serial-divorcee. Anyone who is told they'd go through three divorces in their 20s would have a mental breakdown, and surprise? That's what happens to him. He's miserable, pulling off stupid acts for a sandwich or seducing his cousin in desperation. If you turn off the laugh track, you will actually feel bad for the guy<sup>[1](https://www.youtube.com/watch?v=4H6Ux3l75Rc)</sup>.
 
 Monica transforms from a lovely girl into an over-controlling maniac, willing to throw a frenzy and ruin her friend’s wedding because she couldn’t be in control.
 
 Phoebe went from a chill, empathetic stoner (I hope?) - who wouldn't even keep a football-phone because it wasn't hers - to a really mean person, doing vile things like telling Chandler who Monica actually went to the room for, or bringing that soul-mate guy to Monica when she was already married. Just vile.
 
-Chandler and Rachel showed growth, I feel. But that's not the topic of this note, so I'll not go into that much.
+Chandler and Rachel were the only ones whose characters showed growth, I feel. But that's not the topic of this note, so I'll not go into that much.
 
-And you can trace same character arcs with,
+And you can trace same character arc mistakes with,
 
 - Andy's and Kevin's characters going from "I know someone like him" people to plain stupid in "The Office"
 - Fez going from suave to candy obsessed creep in "The 70s show"
@@ -38,7 +38,9 @@ And you can trace same character arcs with,
 
 ### Takeaway for real life?
 
-I think there's a lesson here somewhere. From childhood, we're taught to differentiate ourselves through our uniqueness. But if we associate our entire self-worth and personality with that one unique thing, we risk becoming so different we aren't a real person anymore. I remember a guy in my school who used to tell teachers "I love you" or "I am proud of you" whenever they scolded him. For first few weeks, the entire class and even teachers joined in the laughter. Then, his statements stopped being sudden and pretty predictable for everyone (Teacher asks him to stand up > Teacher says something snarky > He blurts out a one-liner) and were met with silence; the scolding wouldn't stop even after a witty line. He assumed he needed to lean more into his quirk, the thing that made him "special." I don't think the class laughed ever again at his one-liners.
+I think there's a lesson here somewhere. From childhood, we're taught to differentiate ourselves through our uniqueness. But if we associate our entire self-worth and personality with that one unique thing, we risk becoming so different we aren't a real person anymore.
+
+I remember a guy in my school who used to say these cute one-liners to teachers "I love you" or "I am proud of you" whenever they scolded him. For first few weeks, the entire class and even teachers joined in the laughter. Then, his quirky one-liners stopped being sudden and pretty predictable for everyone (Teacher asks him to stand up > Teacher says something snarky > He blurts out a one-liner) and were met with silence now; the scolding wouldn't stop even after a witty line. He assumed he needed to lean more into his quirk, the thing that made him "special", and would make some outrageous and borderline offensive remarks. I don't think anyone ever laughed again at his one-liners.
 
 ### What made me think of this?
 

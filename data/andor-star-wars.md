@@ -12,7 +12,7 @@ Andor is a treat for everyone, for fans and non-fans alike!
 
 A lot of character development in Star Wars has been underwhelming, for lack of a better word. Your aunt and uncle got burned in a barn? A kid becomes a rebel. Your friend is a Jedi and you like your friends? A smuggler becomes a rebel. So much just revolved around a few characters. Most of the time, all that mattered, was whatever Jedi stuff was happening. To the extent where the battle against a fascist regime was secondary to Rey's romance with a Sith!
 
-Andor goes back to what Star Wars was originally about: The Rebellion. Star Wars was supposed to be a fairytale about America flirting with fascism in the Nixonian and then post 9/11 era<sup><u>[1](https://en.wikipedia.org/wiki/Star_Wars:_Episode_III_%E2%80%93_Revenge_of_the_Sith#Themes)</u></sup>. Andor dwells into those themes brilliantly! It goes deep into what instills political conciousness in a person enough to become a rebel, how rebels organize against a powerful oppressor, and what makes someone willing to risk everything for the rebellion.
+Andor goes back to what Star Wars was originally about: The Rebellion. Star Wars was supposed to be a fairytale about America flirting with fascism in the Nixonian and then post 9/11 era<sup><u>[1](https://en.wikipedia.org/wiki/Star_Wars:_Episode_III_%E2%80%93_Revenge_of_the_Sith#References:_Cinematic_and_literary_allusions)</u></sup>. Andor dwells into those themes brilliantly! It goes deep into what instills political conciousness in a person enough to become a rebel, how rebels organize against a powerful oppressor, and what makes someone willing to risk everything for the rebellion.
 
 > I burn my life to make a sunrise that I know I’ll never see.
 > <cite>— Luthen Rael</cite>
@@ -25,7 +25,7 @@ Andor on the other hand is hyper focused on a human struggle and shows what an i
 
 ### Honorable mention
 
-I sense the irony here that you hear this critique of fascism and capitalism on Disney but as they say,
+I sense the irony here that you hear this critique of fascism and capitalism on a Disney show but that reminds me of a random Reddit comment I had read years ago,
 
 > When it comes time to hang the capitalists, they will fight with each other for the rope contract.
 
