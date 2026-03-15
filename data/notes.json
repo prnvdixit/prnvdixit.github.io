@@ -498,6 +498,37 @@
         "philosophy"
       ],
       "contentPath": "manifesto.md"
+    },
+    {
+      "id": "23",
+      "title": "Programming has changed",
+      "readingTime": "2 min",
+      "publishDate": "2026-02-22",
+      "blogLink": "programming-changed",
+      "githubLink": "",
+      "hidden": true,
+      "pinned": false,
+      "links": [],
+      "tags": [
+        "ai"
+      ],
+      "contentPath": "programming-changed.md"
+    },
+    {
+      "id": "24",
+      "title": "The Trial by Existence",
+      "readingTime": "5 min",
+      "publishDate": "2026-03-15",
+      "blogLink": "the-trial-by-existence",
+      "githubLink": "",
+      "hidden": false,
+      "pinned": false,
+      "links": [],
+      "tags": [
+        "poetry",
+        "philosophy"
+      ],
+      "contentPath": "the-trial-by-existence.md"
     }
   ]
 }

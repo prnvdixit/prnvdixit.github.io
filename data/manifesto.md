@@ -10,7 +10,6 @@
 >
 > You build atomic bombs, you wage wars, you murder, cheat, and lie to us and try to make us believe it's for our own good, yet we're the criminals.
 >
->
 > Yes, I am a criminal.
 >
 > My crime is that of curiosity.
@@ -20,7 +19,6 @@
 > My crime is that of outsmarting you, something that you will never forgive me for.
 >
 > I am a hacker, and this is my manifesto.  You may stop this individual,
->
 > but you can't stop us all... after all, we're all alike.
 
 <cite> - The Mentor <sup>[2](https://darknetdiaries.com/episode/170/)</sup> </cite>

@@ -251,6 +251,7 @@ body {
   text-decoration: none;
   transition: all 0.2s ease;
   border: 1px solid var(--border-color);
+  cursor: pointer;
 }
 
 .tag:hover,
@@ -344,8 +345,12 @@ body {
 
 .note-content blockquote p {
   font-style: italic;
-  margin-bottom: 0.5rem;
+  margin-bottom: 1.8rem;
   color: var(--text-primary);
+}
+
+.note-content blockquote p:last-child {
+  margin-bottom: 0;
 }
 
 .note-content blockquote cite {
@@ -401,6 +406,151 @@ body {
   overflow-x: auto;
   margin: 2rem 0;
   border: 1px solid var(--border-color);
+}
+
+/* Table Styles */
+.note-content table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 2rem 0;
+  font-size: 0.95rem;
+  line-height: 1.5;
+  border: 1px solid var(--border-color);
+  border-radius: 8px;
+  overflow: hidden;
+  display: table;
+}
+
+.note-content th,
+.note-content td {
+  padding: 1rem;
+  text-align: left;
+  border-bottom: 1px solid var(--border-color);
+}
+
+.note-content th {
+  background-color: var(--bg-secondary);
+  color: var(--text-primary);
+  font-weight: 600;
+  text-transform: uppercase;
+  font-size: 0.8rem;
+  letter-spacing: 0.05em;
+}
+
+.note-content tr:last-child td {
+  border-bottom: none;
+}
+
+.note-content tr:nth-child(even) {
+  background-color: rgba(0, 0, 0, 0.02);
+}
+
+[data-theme="dark"] .note-content tr:nth-child(even) {
+  background-color: rgba(255, 255, 255, 0.03);
+}
+
+.note-content td strong {
+  color: var(--accent-color);
+}
+
+/* Tooltip / Popover Styles */
+.glossary-term,
+a[data-tooltip] {
+  position: relative;
+  cursor: help;
+  text-decoration: underline dotted;
+  transition: all 0.2s ease;
+}
+
+a[data-tooltip] {
+  cursor: pointer;
+  text-decoration: underline;
+}
+
+[data-tooltip]::after {
+  content: attr(data-tooltip);
+  position: absolute;
+  bottom: 125%;
+  left: 50%;
+  transform: translateX(-50%) translateY(10px);
+  padding: 1rem 1.25rem;
+  background: rgba(255, 255, 255, 0.95);
+  backdrop-filter: blur(15px);
+  -webkit-backdrop-filter: blur(15px);
+  color: #000;
+  border: 1px solid rgba(0, 0, 0, 0.1);
+  border-radius: 12px;
+  font-size: 0.9rem;
+  line-height: 1.5;
+  white-space: normal;
+  overflow-wrap: break-word;
+  width: 100vw;
+  max-width: 450px;
+  box-shadow: 0 15px 35px rgba(0, 0, 0, 0.15);
+  opacity: 0;
+  pointer-events: none;
+  transition: all 0.3s cubic-bezier(0.19, 1, 0.22, 1);
+  z-index: 1000;
+  text-align: left;
+}
+
+[data-theme="dark"] [data-tooltip]::after {
+  background: rgba(20, 20, 20, 0.9);
+  color: #fff;
+  border: 1px solid rgba(255, 255, 255, 0.1);
+}
+
+@media (max-width: 600px) {
+  [data-tooltip]::after {
+    max-width: 300px;
+    font-size: 0.8rem;
+    padding: 0.75rem 1rem;
+  }
+}
+
+[data-tooltip]:hover::after {
+  opacity: 1;
+  transform: translateX(-50%) translateY(0);
+}
+
+.poetic-focus {
+  position: relative;
+  display: inline-block;
+  padding: 0 4px;
+  font-weight: 600;
+  color: var(--text-secondary) !important;
+  cursor: default;
+  z-index: 1;
+  background-image: linear-gradient(var(--accent-color), var(--accent-color));
+  background-position: 0 100%;
+  background-repeat: no-repeat;
+  background-size: 100% 35%;
+  transition: background-size 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+.poetic-focus:hover {
+  background-size: 100% 100%;
+}
+
+/* Celestial marker moved to ::before to avoid clobbering tooltip ::after */
+.poetic-focus::before {
+  content: "✦";
+  position: absolute;
+  left: -1.75rem;
+  font-size: 0.75rem;
+  color: var(--accent-color);
+  opacity: 0.4;
+  top: 50%;
+  transform: translateY(-50%);
+  pointer-events: none;
+}
+
+[data-theme="dark"] .poetic-focus {
+  background-image: linear-gradient(rgba(255, 255, 255, 0.1), rgba(255, 255, 255, 0.1));
+}
+
+[data-theme="light"] .poetic-focus {
+  background-image: linear-gradient(rgba(0, 0, 0, 0.08), rgba(0, 0, 0, 0.08));
 }
 
 .note-navigation {

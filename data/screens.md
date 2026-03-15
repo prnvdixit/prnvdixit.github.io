@@ -14,6 +14,19 @@ Pay It Forward (2000)
 > Watching this movie as an adult is better I feel. It may seem like a kid's movie but I am so happy I didn't see it as a kid. I would've either totally missed the point or would have been bawling my eyes out - nothing in between. I guess the movie is a bit too lengthy at some points but it all adds up nicely because the idea of movie is so simple otherwise. The kid is a great actor, and I recognized him immediately on Googling his latest pics as he played the douche VR guy in Silicon Valley!
 > Recommendation from: Heard the dialogue "Do me a favour... save my life".
 
+Mahaan (2022)
+> The movie is close to 3 hours runtime but I think that's still too less for the storytelling it attempts to achieve. This depth and essence of characters is pretty new thing in Indian cinema, somewhat Tarantino vibes.
+> On one side we're seeing all the usual gang stuff. But then there's the other side which is exploring all philosophical stuff - Where is the fine line between belief and morality? Is extreme of a moral ideology moral too? Are you truly moral or suppressing desire because you never got a chance to act on it? How do you know if your ideals are fragile (that a single statement from a beggar can disrupt them)?
+> (We already know enough controversial stuff written about Gandhi himself about his extreme explorations around these conflicts)
+> Well, you can enjoy the fight choreography and great music too! :)
+> Recommendation from: Saw the "Get three coffins ready" scene randomly. Already liked ranged of acting of Vikram.
+
+12 Angry Men (1957)
+> Recommendation from: IMDB classics.
+
+Tehran (2020)
+> Recommendation from: Some former FBI director endorsed its accuracy to ground reality of conflict.
+
 Prisoners (2013)
 > Recommendation from: Denis' filmography.
 
