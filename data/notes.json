@@ -361,22 +361,6 @@
       "contentPath": "eureka.md"
     },
     {
-      "id": "15",
-      "title": "Surprises with MMA",
-      "readingTime": "5 min",
-      "publishDate": "2025-09-27",
-      "blogLink": "surprise-mma",
-      "githubLink": "",
-      "hidden": true,
-      "pinned": false,
-      "links": [],
-      "tags": [
-        "mma",
-        "hobbies"
-      ],
-      "contentPath": "surprise-mma.md"
-    },
-    {
       "id": "16",
       "title": "If...",
       "readingTime": "2 min",
@@ -440,7 +424,7 @@
     },
     {
       "id": "20",
-      "title": "Paper Shelf",
+      "title": "📝 Paper Shelf",
       "readingTime": "4 min",
       "publishDate": "2026-01-01",
       "blogLink": "paper-shelf",
@@ -529,6 +513,22 @@
         "philosophy"
       ],
       "contentPath": "the-trial-by-existence.md"
+    },
+    {
+      "id": "25",
+      "title": "Shiva",
+      "readingTime": "5 min",
+      "publishDate": "2026-04-12",
+      "blogLink": "shiva-mma",
+      "githubLink": "",
+      "hidden": true,
+      "pinned": false,
+      "links": [],
+      "tags": [
+        "mma",
+        "hobbies"
+      ],
+      "contentPath": "shiva-mma.md"
     }
   ]
 }

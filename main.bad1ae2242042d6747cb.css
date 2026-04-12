@@ -1070,11 +1070,128 @@ a[data-tooltip] {
   margin-top: 1.5rem;
 }
 
-.song-grid {
+/* Song List (Spotify-like) Styles */
+.song-list {
+  display: flex;
+  flex-direction: column;
+  margin-top: 1rem;
+}
+
+.song-list-header-row {
   display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(140px, 1fr));
-  gap: 1rem;
-  margin-top: 1.5rem;
+  grid-template-columns: 40px 1fr 1fr;
+  padding: 0.5rem 1rem;
+  border-bottom: 1px solid var(--border-color);
+  color: var(--text-secondary);
+  font-size: 0.85rem;
+  font-weight: 500;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  margin-bottom: 0.5rem;
+}
+
+.song-list-item {
+  display: grid;
+  grid-template-columns: 40px 1fr 1fr;
+  padding: 0.75rem 1rem;
+  align-items: center;
+  border-radius: 4px;
+  text-decoration: none !important;
+  transition: background-color 0.2s ease;
+}
+
+.song-list-item:hover {
+  background-color: var(--bg-secondary);
+}
+
+.sl-col-index {
+  color: var(--text-secondary);
+  font-size: 0.9rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 24px;
+}
+
+.song-list-item .play-icon-hover {
+  display: none;
+  font-size: 0.8rem;
+  color: var(--text-primary);
+}
+
+.song-list-item:hover .track-number {
+  display: none;
+}
+
+.song-list-item:hover .play-icon-hover {
+  display: block;
+}
+
+.sl-col-title {
+  color: var(--text-primary);
+  font-weight: 500;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  padding-right: 1rem;
+}
+
+.sl-col-artist {
+  color: var(--text-secondary);
+  font-size: 0.9rem;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.section-header h2, .section-header h3 {
+  margin: 0;
+}
+
+.section-title-wrapper {
+  display: flex;
+  align-items: baseline;
+  gap: 0.75rem;
+}
+
+.section-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-top: 2rem;
+  margin-bottom: 0.5rem;
+}
+
+.playlist-length {
+  font-size: 0.85rem;
+  color: var(--text-secondary);
+  font-weight: 500;
+}
+
+.note-content a.play-all-btn,
+.play-all-btn {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  padding: 0.4rem 0.8rem;
+  background: var(--accent-color);
+  color: var(--bg-primary);
+  border-radius: 20px;
+  text-decoration: none;
+  font-size: 0.85rem;
+  font-weight: 500;
+  transition: opacity 0.2s ease, transform 0.2s ease;
+}
+
+.note-content a.play-all-btn:hover,
+.play-all-btn:hover {
+  opacity: 0.9;
+  transform: translateY(-2px);
+  color: var(--bg-primary);
+}
+
+.play-all-btn .play-icon-small {
+  font-size: 0.8rem;
 }
 
 .movie-card {
@@ -1160,6 +1277,40 @@ a[data-tooltip] {
 .movie-card.has-review:hover .review-indicator {
   transform: scale(1.1);
   opacity: 1;
+}
+
+.movie-indicators {
+  position: absolute;
+  top: 8px;
+  left: 8px;
+  display: flex;
+  gap: 6px;
+  z-index: 10;
+}
+
+.seen-indicator, .theatre-indicator {
+  position: relative;
+  border-radius: 4px;
+  padding: 2px 6px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 11px;
+  font-weight: 600;
+  color: white;
+  transition: transform 0.2s ease, opacity 0.2s ease;
+}
+
+.seen-indicator {
+  background: rgba(46, 204, 113, 0.9);
+}
+
+.theatre-indicator {
+  background: rgba(155, 89, 182, 0.9);
+}
+
+.movie-card:hover .seen-indicator, .movie-card:hover .theatre-indicator {
+  transform: scale(1.05);
 }
 
 /* Movie Review Modal */
@@ -1616,6 +1767,8 @@ a[data-tooltip] {
     font-size: 1rem;
   }
 
+
+
   .pinned-note .note-meta {
     font-size: 0.5rem;
     gap: 0.5rem;
@@ -1695,4 +1848,72 @@ a[data-tooltip] {
     grid-template-columns: 1fr;
     gap: 1rem;
   }
+}
+
+/* Feed Details Link */
+.pinned-feed-link {
+  display: block;
+  text-decoration: none;
+  border: 1px solid var(--accent-color);
+  border-radius: 8px;
+  margin-bottom: 2rem;
+  overflow: hidden;
+  transition: all 0.2s ease;
+}
+
+.pinned-feed-link:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 4px 12px var(--shadow-color);
+}
+
+.pinned-feed-summary {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 1rem 1.5rem;
+  background: var(--bg-secondary);
+}
+
+.summary-title {
+  font-size: 1.1rem;
+  font-weight: 500;
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  color: var(--text-primary);
+}
+
+.summary-hint {
+  font-size: 0.85rem;
+  color: var(--text-secondary);
+  font-style: italic;
+}
+
+/* Compact Pinned Links (List View) */
+.compact-pinned-container {
+  display: flex;
+  gap: 1rem;
+  margin-bottom: 2rem;
+  flex-wrap: wrap;
+}
+
+.compact-pinned-link {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.5rem;
+  padding: 0.5rem 1rem;
+  background: var(--bg-secondary);
+  border: 1px solid var(--border-color);
+  border-radius: 20px;
+  text-decoration: none;
+  font-weight: 500;
+  color: var(--text-primary);
+  font-size: 0.9rem;
+  transition: all 0.2s ease;
+}
+
+.compact-pinned-link:hover {
+  border-color: var(--accent-color);
+  color: var(--accent-color);
+  transform: translateY(-2px);
 }
