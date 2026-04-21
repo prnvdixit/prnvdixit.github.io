@@ -14,6 +14,7 @@ Tera hi Rahun | Gajendra Verma | https://www.youtube.com/watch?v=IsaOXzb4Uh0
 ## Poet-ential
 
 Madhushala | Harivansh Rai Bachchan | https://www.youtube.com/watch?v=a-TebVXPKzk
+Tu Chal | Tanveer Ghazi | https://www.youtube.com/watch?v=kNVpUzgTHsU
 
 ## Re-listen
 
@@ -70,7 +71,8 @@ Pal Pal hai Bhaari | Madhushree | https://www.youtube.com/watch?v=dRWr8OsVyjA
 Sahib | Ram Sampath | https://www.youtube.com/watch?v=8Wd4Yumll-s
 Safar mein dhoop | Chitra Singh | https://www.youtube.com/watch?v=Wd_qbSShl_0
 Tu pyaar ka Sagar | Manna Dey | https://www.youtube.com/watch?v=hbHUz29sVnw
-Daanav | Arjun The Warrior Prince | https://www.youtube.com/watch?v=hpCNjej9liI
+Daanav | Vishal, Shankar | https://www.youtube.com/watch?v=hpCNjej9liI
+Karma | Venkatesh DC | https://www.youtube.com/watch?v=aThZyBb4ZPY
 
 ## Insta-mental
 
@@ -86,6 +88,7 @@ Sita Ramam Interval Block | Sita Ramam | https://www.youtube.com/watch?v=gnpFgC3
 Tumhi Dekho na | Rishab Rikhiram | https://www.youtube.com/watch?v=EK0V8Fdb9OM
 Vladimir's theme | Dean Valentine | https://www.youtube.com/watch?v=fkeO8shNkf0
 Rocket Boy's theme | Achint | https://www.youtube.com/watch?v=mGsJlE4cRFE
+Growing Up Londinium | Daniel Pemberton | https://www.youtube.com/watch?v=e2LLS33eQvk
 
 ## Ma-sufiyat
 
@@ -223,6 +226,7 @@ Charo Khane Chit | Sukhwinder Singh | https://www.youtube.com/watch?v=Pzq2ML4zI6
 Chal Utth Bandeya | Sukhwinder Singh | https://www.youtube.com/watch?v=Hs0HTJnqfuw
 Vishwaroopam | Shankar Ehsaan Loy | https://www.youtube.com/watch?v=SQ_9xwh8y78
 Krazzy | Vishal Dadlani | https://www.youtube.com/watch?v=3QarnZGy4VU
+Dev theme | Pritam | https://www.youtube.com/watch?v=E2JWXoxsPkk
 
 ## G-old
 

@@ -516,14 +516,23 @@
     },
     {
       "id": "25",
-      "title": "Shiva",
-      "readingTime": "5 min",
-      "publishDate": "2026-04-12",
+      "title": "There is a boat on the mat!",
+      "readingTime": "7 min",
+      "publishDate": "2026-04-21",
       "blogLink": "shiva-mma",
       "githubLink": "",
-      "hidden": true,
+      "hidden": false,
       "pinned": false,
-      "links": [],
+      "links": [
+        {
+          "url": "https://www.youtube.com/watch?v=ER5Z_MyUkJQ",
+          "description": "Lee"
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=kDnCnxCOPHA",
+          "description": "Distractions"
+        }
+      ],
       "tags": [
         "mma",
         "hobbies"
