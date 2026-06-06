@@ -1,6 +1,7 @@
 ## H-Indie
 Mat Kar Maya Ko Ahankar | Kabir Cafe | https://www.youtube.com/watch?v=V_08pyhaaTo
 Baarish mein Phir | Saahel | https://www.youtube.com/watch?v=ERXZcApoSKs
+Dhoom | Euphoria | https://www.youtube.com/watch?v=nlqeTUGdMSs
 Sajni | Jal - The Band | https://www.youtube.com/watch?v=W31LlujrB08
 Sayonee | Junoon | https://www.youtube.com/watch?v=-8anr6et3Lw
 Ratiyaan | Hansika Pareek | https://www.youtube.com/watch?v=GnXyV87CbeM
@@ -9,12 +10,15 @@ Aahatein | Agnee | https://www.youtube.com/watch?v=MqEPQGcSeYk
 Tujhse Door | Gajendra Verma | https://www.youtube.com/watch?v=DdLl-leD32o
 Ishq ka Haafiz | TVF | https://www.youtube.com/watch?v=Xvi04oG_6DU
 Tera hi Rahun | Gajendra Verma | https://www.youtube.com/watch?v=IsaOXzb4Uh0
+Baatein Karo | Vayu | https://www.youtube.com/watch?v=jwfhvMFXkFo
+Kaise Bhoolegi | Euphoria | https://www.youtube.com/watch?v=wxhsqwQpDSs
 
 
 ## Poet-ential
 
 Madhushala | Harivansh Rai Bachchan | https://www.youtube.com/watch?v=a-TebVXPKzk
 Tu Chal | Tanveer Ghazi | https://www.youtube.com/watch?v=kNVpUzgTHsU
+Jo Beet gayi So Baat Gayi | Harivansh Rai Bacchan | https://www.youtube.com/watch?v=S3pweawCyXQ
 
 ## Re-listen
 
@@ -29,6 +33,7 @@ Yeh Chamak | Prakash Gandhi | https://www.youtube.com/watch?v=OGUFhVxwsQ8
 Kanthaa | Masala Coffee | https://www.youtube.com/watch?v=B3hlqsBY0Qk
 Megham Karukutha | Dhanush | https://www.youtube.com/watch?v=cEWwJxEq9Lg
 Azhagiye | A. R. Rahman | https://www.youtube.com/watch?v=CFj1HXUGhaY
+Sairaat Zaala Ji | Ajay-Atul | https://www.youtube.com/watch?v=PJ4z69XoBdc
 
 ## Any-me
 
@@ -77,6 +82,7 @@ Karma | Venkatesh DC | https://www.youtube.com/watch?v=aThZyBb4ZPY
 
 ## Insta-mental
 
+Sarod theme | Piku | https://www.youtube.com/watch?v=WD6lK4ioJN0
 Ajas gets to know | Bheeshma Parvam | https://www.youtube.com/watch?v=zcksRBgP2C4
 Be Notorious | Bheeshma Parvam | https://www.youtube.com/watch?v=w4N22lhkEPg
 Chanakya | Rishabh Rikhiram | https://www.youtube.com/watch?v=KBYSpR8N6pc
@@ -91,6 +97,7 @@ Vladimir's theme | Dean Valentine | https://www.youtube.com/watch?v=fkeO8shNkf0
 Rocket Boy's theme | Achint | https://www.youtube.com/watch?v=mGsJlE4cRFE
 Growing Up Londinium | Daniel Pemberton | https://www.youtube.com/watch?v=e2LLS33eQvk
 F1 theme | Brian Tyler | https://www.youtube.com/watch?v=8AYy-BcjRXg
+Mella Mella | Ilaiyaraaja | https://www.youtube.com/watch?v=XmBRVTERyqg
 
 ## Ma-sufiyat
 
@@ -112,6 +119,7 @@ Man Amadeh Am | Gul Panrra | https://www.youtube.com/watch?v=U_DSCLqgZCo
 Maan | Bayaan | https://www.youtube.com/watch?v=hAllPDaZkBo
 Garaj Baras | Ali Azmat | https://www.youtube.com/watch?v=7rLxN41avhY
 Kuch Khwaab Thay Mere | Sahir Ali Bagga | https://www.youtube.com/watch?v=9Bw_gwjMxuM
+Deewana Deewana | A R Rehman | https://www.youtube.com/watch?v=dcvlA3u3POM
 
 
 ## TrAMce
@@ -131,6 +139,8 @@ Come and get your love | Redbone | https://www.youtube.com/watch?v=bc0KhhjJP98
 Escape | Rupert Holmes | https://www.youtube.com/watch?v=zROIlspgOjM
 Dracula | Tame Impala | https://www.youtube.com/watch?v=xnP7qKxwzjg
 Loser | Tame Impala | https://www.youtube.com/watch?v=s3a4OQR-10M
+Money Money Money | ABBA | https://www.youtube.com/watch?v=ETxmCCsMoD0
+A Thousand Miles | Vanessa Carlton | https://www.youtube.com/watch?v=Cwkej79U3ek
 
 ## Coke-up
 
@@ -148,6 +158,7 @@ Daav Laga | Ram Sampath | https://www.youtube.com/watch?v=54Q1diiwte8
 Naa Jaane | Neeraj Sridhar | https://www.youtube.com/watch?v=XdWFFX1n6L4
 Main Tera Dhadkan Teri | K K | https://www.youtube.com/watch?v=AgSiokzAqgk
 Jee Karda | Pritam | https://www.youtube.com/watch?v=40IlftR0R_U
+Nahin maloom | Ali Zafar | https://www.youtube.com/watch?v=HYZ6E-d5tTA
 Raitaa Phailgaya | Divya Kumar | https://www.youtube.com/watch?v=5iW9njzKDw0
 Counting Stars | One Republic | https://www.youtube.com/watch?v=hT_nvWreIhg
 Why this Kolaveri Di | Dhanush | https://www.youtube.com/watch?v=YR12Z8f1Dh8
@@ -158,6 +169,14 @@ Phoonk De | Sukhwinder | https://www.youtube.com/watch?v=K9r6msRRSG8
 Naughty Naughty | Anushka Manchanda | youtube.com/watch?v=Q81ymh8vl4Q
 Pyaar mein Sau Uljhane | Shankar Mahadevan | https://www.youtube.com/watch?v=Bme4ck1j6B8
 Saiyaan re | Shilpa Rao | https://www.youtube.com/watch?v=kU1XLHDCgMw
+Stereophonic Sannata | Shruti Hassan | https://www.youtube.com/watch?v=o0PFiyuhRz4
+Shammi | Vishal Shekhar | https://www.youtube.com/watch?v=mkPZfrePAxo
+Mukhtasar Mulaqat | Sajid | https://www.youtube.com/watch?v=XLJvQdCMKnE
+Laga laga re | Alka | https://www.youtube.com/watch?v=R1Z4PXNxUhk
+Phatela Jeb | Aadesh Srivastava | https://www.youtube.com/watch?v=ZT31Gzu0Ex0
+Dilli | Tochi | https://www.youtube.com/watch?v=QkCXb6FXHkY
+Yeh Jawani Teri | Jonita Gandhi | https://www.youtube.com/watch?v=AuiEVF6ICos
+Ibn E Batuta | Sukhwinder | https://www.youtube.com/watch?v=IfpV8JJTVBs
 
 ## Saxo-sphere
 
@@ -199,9 +218,14 @@ Raat ke Dhai Baje | Kaminey | https://www.youtube.com/watch?v=Xf1922kJPfU
 Gumm Summ Gumm | Paa | https://www.youtube.com/watch?v=ESQJh7dFmc8
 Daiya Daiya | Alka Yagnik | https://www.youtube.com/watch?v=Z1MfoBdWAZE
 Ji Huzoori | Mithoon | https://www.youtube.com/watch?v=CXAFlpHeKWg
-Jabse mere Dil Ko Uff | Sajid | https://www.youtube.com/watch?v=EnknoPysiK8
+Jabse mere Dil Ko Uff | Sonu, Sunidhi | https://www.youtube.com/watch?v=EnknoPysiK8
 Gustakh Dil Tere Liye | Sonu Nigam | https://www.youtube.com/watch?v=AMU_v2badYY
 Dil Dhakda hai | Adnan Sami | https://www.youtube.com/watch?v=FjHDUPryH1w
+Pam Ra Ra | Shreya Ghoshal | https://www.youtube.com/watch?v=wo0Gf7gmKiA
+Pareshan | Amit Trivedi | https://www.youtube.com/watch?v=k5TRnHHQ57U
+Yaaram | Sunidhi | https://www.youtube.com/watch?v=mbGNF4QXaEE
+Dua | Arijit | https://www.youtube.com/watch?v=M_V8FLrll9w
+Aai Paapi | Neeraj Shreedhar, Pritam | https://www.youtube.com/watch?v=najaQf-EvKc
 
 ## Adora-line
 
@@ -229,6 +253,8 @@ Chal Utth Bandeya | Sukhwinder Singh | https://www.youtube.com/watch?v=Hs0HTJnqf
 Vishwaroopam | Shankar Ehsaan Loy | https://www.youtube.com/watch?v=SQ_9xwh8y78
 Krazzy | Vishal Dadlani | https://www.youtube.com/watch?v=3QarnZGy4VU
 Dev theme | Pritam | https://www.youtube.com/watch?v=E2JWXoxsPkk
+Rampage | A R Rehman | https://www.youtube.com/watch?v=k1BzpSYFTZU
+Chase in Chinatown | Vyshnav | https://www.youtube.com/watch?v=KKiVcCJI-PU
 
 ## G-old
 
@@ -252,6 +278,8 @@ Aapki Ankhon Mein Kuch | Kishore, Lata Mangeshkar | https://www.youtube.com/watc
 Kis Tarah | Rafi | https://www.youtube.com/watch?v=iom0JI3ZAME
 Bhanwara | Asha | https://www.youtube.com/watch?v=3bXW9_29vwU
 Aate Jaate | Kishore | https://www.youtube.com/watch?v=PDoXHOVmdfM
+Sun Ja Dil Ki Dastan | Hemant | https://www.youtube.com/watch?v=-6I1JahC6VE
+Aankhon Mein Kya Jee | Asha, Kishore | https://www.youtube.com/watch?v=oKKoqLQ6dOE
 
 ## Sudh-ing
 
@@ -284,3 +312,9 @@ Ishq ka Hafiz | Tripling | https://www.youtube.com/watch?v=Xvi04oG_6DU
 Janib | Arijit, Sunidhi | https://www.youtube.com/watch?v=M1XKJZHLRmM
 Mera Mann | Falak Shabir | https://www.youtube.com/watch?v=8kxufj_snhI
 Tur Kalleyan | Shadab Faridi | https://www.youtube.com/watch?v=fgUqudEc3T8
+Pyaar ke liye | Shankar Mahadevan | https://www.youtube.com/watch?v=sjeR_uVP_y0
+Main Kya hoon | KK | https://www.youtube.com/watch?v=0-JLjASqWZg
+Chali Kahani | Sukhwinder Singh | https://www.youtube.com/watch?v=WAQr-HeSp_0
+Cry Cry | Raashid Ali | https://www.youtube.com/watch?v=R38Cx-ohilE
+Paigaam | Shaan, Kavitha | https://www.youtube.com/watch?v=AWL0J03aGIg
+Raat Akeli | Arijit | https://www.youtube.com/watch?v=1EK4-g_GfNw

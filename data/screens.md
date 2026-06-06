@@ -37,7 +37,7 @@
 > What a class movie! Watched it after years of postponing and totally worth it. In first few minutes I thought how the hell is Tom Cruise going to pull off this "I don't want to fight" vibe having seen him save world so many times, but he pulls it off well. Some parts in end of movie are so dark (in colour grading, not in feel) that I just had to rely on dialogues to know what is happening.
 > Recommendation from: Keep seeing that scene of Emily Blunt doing planche in my YouTube feed!  
 
-[x] No other choice (2025)
+[x] No other choice (2025) (tt1527793)
 > So now I need to be scared that AI may not only take my job but my life too? Nice. I like that movie was very predictable after a point but still they managed to make it fun. Warning: Do not watch it while eating food, may be a bit too gory for that lol
 > Recommendation from: Synopsis sold me.
 
@@ -49,7 +49,7 @@
 > Took my time finishing all the seasons, and this is truly such a well-made show. Kendall may be one of the best-written billionaire characters in TV history, especially considering he is a ridiculous idiot who thinks he is Michael Corleone but is actually Michael Scott. And Jeremy runner has knocked this out of park. Roman's character, on the other hand, is just all over the place - unhinged; many of his scenes involve such lewd, vivid imagery that you start judging yourself for laughing. I particularly loved the ending because they didn’t rely on a forced twist; everything felt well-explained based on the personalities of the characters you’ve come to understand over four seasons.
 > Recommendation from: Came for fashion advice, stayed for the story!
 
-[x] Life of Chuck (2024)
+[x] Life of Chuck (2024) (tt12908150)
 > Very different kind of movie. Liked how they presented the idea of "When an old man dies, a library burns down"! I also liked how the entire movie makes no sense during Act-3 but everything fits by Act-1 (which is anti-chronological and that's the beauty). I wish they could’ve shown more about how Chuck lived knowing when he’ll die. The dance scene was beautiful! I hope to recreate it some day with some not-so-smooth-but-enjoyable dance in a foreign country. One day!
 > Recommendation from: PB says, I oblige
 
@@ -66,6 +66,43 @@
 > Actually you know what drop me a text/mail with title "Hasta la vista, may be" if you read this, I'd be most delighted to realize someone out there actually saw my recommendations!
 > Recommendation from: A now-deleted Reddit post which shared a small snippet of this episode
 
+[x] 12 Angry Men (1957)
+> This is probably the oldest movie in my wishlist - and I don't mean in terms of release year, but in terms of how long I've had this in my list. I came across this in my first year of college when everyone was showing off how many IMDB Top-250 movies they'd seen (my number was 0 btw, I wish I'd known how much I'd start loving movies back then and I'd started watching them sooner :)). Anyways I never got around watching this one because well... this seemed too old for my taste based on its release year. And reader, whatta mistake that was!
+>
+> One of my favorite bits about the movie is that at the end of movie you realise that you don't know name of a single character in this movie. But there's so much depth which has been added to each character without even telling their name. For example there is this moustache guy, who you know already is kind of guy who calls spade a spade and isn't ready to accept "Not guilty" verdict of someone just because they can't explain it. And he's the same character who gave one of my favourite clapbacks - "Why am I polite? The same reason you're not. It's the way I was brought up".
+>
+> This is easily my most favorite movie of this year so far. The scene where a classist guy goes into a monologue is a masterpiece in cinematic language. The movie works like a jolt in current times when you're being bombarded by all kinds of facts all around. It asks you to simply listen and think and question.
+> "Facts may be colored by the personalities of the people who present them. And bias is a dangerous actor.".
+>
+> Recommendation from: IMDB classics.
+
+Shaadi Se Pehle (2008) (tt0489560)
+> Recommendation from: Saw a video of Rajpal Yadav's character reciting "Rupa" jingle :)
+
+A King in New York (1957)
+> Recommendation from: Saw the "Do I have to be a communist to read Karl Marx scene" - Hilarious!
+
+The Nice Guys (2016)
+> Recommendation from: Movie completed 10 years since release and I got to know it was flop! I wanted to see why.
+
+Good Morning, Vietnam (1987)
+> Recommendation from: Robin Williamss, need I say more?
+
+Collateral (2004)
+> Recommendation from: Saw some clip and it seemed similar to "Knock Out" (Irfan Khan movie) which I loved as a kid.
+
+Sorcerer (1977)
+> Recommendation from: Some subreddit thread calling it didn't become big because of star wars!
+
+Ladies First (2026) (tt34611082)
+> Recommendation from: New release, had to check it out - synopsis is very interesting!
+
+Manorama Six Feet Under (2007)
+> Recommendation from: Some random video recommendation
+
+8x10 Tasveer (2009) (tt1105709)
+> Recommendation from: Just remembered a poster of it from my childhood, seeing it in newspaper as it ran in cinemas!
+
 Chasing the Moon (2019)
 > America built its entire space program off immigrants (Nazis to be specific). Russia lost space race because they returned 
 > Recommendation from: Random Pie-page recommendation.
@@ -78,9 +115,6 @@ Little Nights, Little Love (2019)
 
 One Battle After Another (2025)
 > Recommendation from: Auskar!
-
-12 Angry Men (1957)
-> Recommendation from: IMDB classics.
 
 The Red Shoes (1948)
 > Recommendation from: Read the dialogue "Dance whatever tempo you like, I'll follow you"

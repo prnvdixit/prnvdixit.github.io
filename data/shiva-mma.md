@@ -52,4 +52,5 @@ Shiva showed me that.
 ## What made think of this?
 
 Well Shiva is getting married and may not continue training at the academy, as he may need to focus extra on job and take care of his family. On a related note, the academy is moving to a new place next week, I am so excited!!
+
 P.S. I got the promotion "I was chasing" yesterday :)

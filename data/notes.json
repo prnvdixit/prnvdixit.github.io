@@ -223,7 +223,7 @@
     },
     {
       "id": "9",
-      "title": "From Text to Token: Why I’m Building an LLM Toolkit from Scratch",
+      "title": "From Text to Token: Why I`m Building an LLM Toolkit from Scratch",
       "readingTime": "4 min",
       "publishDate": "2025-10-25",
       "blogLink": "llm-scratch-bpe-micrograd",
@@ -244,7 +244,7 @@
     },
     {
       "id": "10",
-      "title": "Live as a paradox!",
+      "title": "I just wanna see!",
       "readingTime": "4 min",
       "publishDate": "2025-10-03",
       "blogLink": "i-just-wanna-see",
@@ -270,9 +270,10 @@
         "swimming",
         "violin",
         "hobbies",
-        "psychology"
+        "psychology",
+        "career"
       ],
-      "contentPath": "excuses.md"
+      "contentPath": "i-just-wanna-see.md"
     },
     {
       "id": "11",
@@ -440,7 +441,7 @@
     },
     {
       "id": "21",
-      "title": "Seeing Through the Model’s Eyes: Visualizing Cross-Lingual Attention in Math Reasoning",
+      "title": "Seeing Through the Model`s Eyes: Visualizing Cross-Lingual Attention in Math Reasoning",
       "readingTime": "4 min",
       "publishDate": "2026-01-02",
       "blogLink": "llm-scratch-attention",
@@ -538,6 +539,19 @@
         "hobbies"
       ],
       "contentPath": "shiva-mma.md"
+    },
+    {
+      "id": "26",
+      "title": "Don't be a cynic!",
+      "readingTime": "5 min",
+      "publishDate": "2026-05-02",
+      "blogLink": "cynic",
+      "githubLink": "",
+      "hidden": true,
+      "pinned": false,
+      "links": [],
+      "tags": [],
+      "contentPath": "cynic.md"
     }
   ]
 }
