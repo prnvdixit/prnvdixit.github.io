@@ -76,6 +76,11 @@
 >
 > Recommendation from: IMDB classics.
 
+[x] The Big Short (2015)
+> A good reminder of what lengths rich people would go to ruin this world. For some reason I felt like garbage myself after reading this, even though I was like 10 years old when all this happened. Why did I feel like this? I better keep it to myself.
+> Love the cameos to explain complex financial lingos because I knew nothing of it otherwise!
+> Recommendation from: Been on my mind for quite some time now, finally watched it.
+
 Shaadi Se Pehle (2008) (tt0489560)
 > Recommendation from: Saw a video of Rajpal Yadav's character reciting "Rupa" jingle :)
 
