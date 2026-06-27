@@ -18,11 +18,7 @@
           "description": "[2] The experiment"
         }
       ],
-      "tags": [
-        "hobbies",
-        "swimming",
-        "psychology"
-      ],
+      "tags": ["hobbies", "swimming", "psychology"],
       "contentPath": "fail-hobbies.md"
     },
     {
@@ -51,12 +47,7 @@
           "description": "[4] No-self"
         }
       ],
-      "tags": [
-        "god",
-        "hobbies",
-        "philosophy",
-        "love"
-      ],
+      "tags": ["god", "hobbies", "philosophy", "love"],
       "contentPath": "god-belief-love.md"
     },
     {
@@ -81,13 +72,7 @@
           "description": "[3] Geoffrey Hinton Nobel reaction"
         }
       ],
-      "tags": [
-        "hobbies",
-        "book-review",
-        "psychology",
-        "philosophy",
-        "science"
-      ],
+      "tags": ["hobbies", "reading", "psychology", "philosophy", "science"],
       "contentPath": "review-cease-world.md"
     },
     {
@@ -120,11 +105,7 @@
           "description": "[5] Story in borrowed art"
         }
       ],
-      "tags": [
-        "ai",
-        "art",
-        "philosophy"
-      ],
+      "tags": ["ai", "art", "philosophy"],
       "contentPath": "creativity-ai.md"
     },
     {
@@ -141,9 +122,7 @@
           "description": "[1] Friends: Ross Geller without laugh track = psychopath"
         }
       ],
-      "tags": [
-        "cinema"
-      ],
+      "tags": ["cinema"],
       "contentPath": "tv-friends.md"
     },
     {
@@ -160,10 +139,7 @@
           "description": "[1] Milkha's first race"
         }
       ],
-      "tags": [
-        "love",
-        "fiction"
-      ],
+      "tags": ["love", "fiction"],
       "contentPath": "hey-there.md"
     },
     {
@@ -176,9 +152,7 @@
       "hidden": true,
       "pinned": false,
       "links": [],
-      "tags": [
-        "psychology"
-      ],
+      "tags": ["psychology"],
       "contentPath": "be-better.md"
     },
     {
@@ -199,11 +173,7 @@
           "description": "[2] Fans"
         }
       ],
-      "tags": [
-        "philosophy",
-        "cinema",
-        "politics"
-      ],
+      "tags": ["philosophy", "cinema", "politics"],
       "contentPath": "andor-star-wars.md"
     },
     {
@@ -215,10 +185,7 @@
       "githubLink": "",
       "pinned": false,
       "links": [],
-      "tags": [
-        "mma",
-        "hobbies"
-      ],
+      "tags": ["mma", "hobbies"],
       "contentPath": "first-hit-mma.md"
     },
     {
@@ -236,10 +203,7 @@
           "description": "Karpathy's micrograd"
         }
       ],
-      "tags": [
-        "ai",
-        "learning"
-      ],
+      "tags": ["ai", "learning"],
       "contentPath": "month-one-llm-scratch-bpe-micrograd.md"
     },
     {
@@ -265,14 +229,7 @@
           "description": "There's no speedlimit"
         }
       ],
-      "tags": [
-        "mma",
-        "swimming",
-        "violin",
-        "hobbies",
-        "psychology",
-        "career"
-      ],
+      "tags": ["mma", "swimming", "violin", "hobbies", "psychology", "career"],
       "contentPath": "i-just-wanna-see.md"
     },
     {
@@ -285,10 +242,7 @@
       "hidden": true,
       "pinned": false,
       "links": [],
-      "tags": [
-        "ai",
-        "politics"
-      ],
+      "tags": ["ai", "politics"],
       "contentPath": "ai-apocalypse.md"
     },
     {
@@ -301,9 +255,7 @@
       "hidden": true,
       "pinned": false,
       "links": [],
-      "tags": [
-        ""
-      ],
+      "tags": [""],
       "contentPath": "whys.md"
     },
     {
@@ -316,9 +268,7 @@
       "hidden": true,
       "pinned": false,
       "links": [],
-      "tags": [
-        "money"
-      ],
+      "tags": ["money"],
       "contentPath": "fire-change.md"
     },
     {
@@ -356,9 +306,7 @@
           "description": "Leave the leash if you want the child to grow"
         }
       ],
-      "tags": [
-        "science"
-      ],
+      "tags": ["science"],
       "contentPath": "eureka.md"
     },
     {
@@ -371,10 +319,7 @@
       "hidden": false,
       "pinned": false,
       "links": [],
-      "tags": [
-        "poetry",
-        "philosophy"
-      ],
+      "tags": ["poetry", "philosophy"],
       "contentPath": "if.md"
     },
     {
@@ -387,9 +332,7 @@
       "hidden": true,
       "pinned": true,
       "links": [],
-      "tags": [
-        "cinema"
-      ],
+      "tags": ["cinema"],
       "contentPath": "screens.md"
     },
     {
@@ -402,9 +345,7 @@
       "hidden": true,
       "pinned": true,
       "links": [],
-      "tags": [
-        "cinema"
-      ],
+      "tags": ["cinema"],
       "contentPath": "songs.md"
     },
     {
@@ -417,10 +358,7 @@
       "hidden": false,
       "pinned": false,
       "links": [],
-      "tags": [
-        "hobbies",
-        "travel"
-      ],
+      "tags": ["hobbies", "travel"],
       "contentPath": "travel.md"
     },
     {
@@ -433,10 +371,7 @@
       "hidden": true,
       "pinned": true,
       "links": [],
-      "tags": [
-        "ai",
-        "learning"
-      ],
+      "tags": ["ai", "learning"],
       "contentPath": "paper-shelf.md"
     },
     {
@@ -454,10 +389,7 @@
           "description": "Attention in transformers (3Blue1Brown)"
         }
       ],
-      "tags": [
-        "ai",
-        "learning"
-      ],
+      "tags": ["ai", "learning"],
       "contentPath": "month-two-llm-scratch-attention.md"
     },
     {
@@ -479,9 +411,7 @@
           "description": "EP 170: Phrack"
         }
       ],
-      "tags": [
-        "philosophy"
-      ],
+      "tags": ["philosophy"],
       "contentPath": "manifesto.md"
     },
     {
@@ -494,9 +424,7 @@
       "hidden": true,
       "pinned": false,
       "links": [],
-      "tags": [
-        "ai"
-      ],
+      "tags": ["ai"],
       "contentPath": "programming-changed.md"
     },
     {
@@ -509,10 +437,7 @@
       "hidden": false,
       "pinned": false,
       "links": [],
-      "tags": [
-        "poetry",
-        "philosophy"
-      ],
+      "tags": ["poetry", "philosophy"],
       "contentPath": "the-trial-by-existence.md"
     },
     {
@@ -534,10 +459,7 @@
           "description": "Distractions"
         }
       ],
-      "tags": [
-        "mma",
-        "hobbies"
-      ],
+      "tags": ["mma", "hobbies"],
       "contentPath": "shiva-mma.md"
     },
     {
@@ -552,6 +474,32 @@
       "links": [],
       "tags": [],
       "contentPath": "cynic.md"
+    },
+    {
+      "id": "27",
+      "title": "📚 Books",
+      "readingTime": "∞",
+      "publishDate": "2026-06-07",
+      "blogLink": "books",
+      "githubLink": "",
+      "hidden": true,
+      "pinned": true,
+      "links": [],
+      "tags": ["reading"],
+      "contentPath": "books.md"
+    },
+    {
+      "id": "28",
+      "title": "🍳 Recipes",
+      "readingTime": "∞",
+      "publishDate": "2026-06-27",
+      "blogLink": "recipes",
+      "githubLink": "",
+      "hidden": true,
+      "pinned": true,
+      "links": [],
+      "tags": ["cooking"],
+      "contentPath": "recipe.md"
     }
   ]
 }
