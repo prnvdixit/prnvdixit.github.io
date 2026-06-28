@@ -178,6 +178,7 @@ Ding Dong Dole | T Series | https://www.youtube.com/watch?v=O9B8SqE51pk
 Desi Beat | Mika Singh | https://www.youtube.com/watch?v=NTu6k5hUUEY
 Yaar Mila tha | Madhushree | https://www.youtube.com/watch?v=VUZFWBHOjWM
 Royals | Lorde | https://www.youtube.com/watch?v=nlcIKh6sBtc
+Lazy Lamhe | Anousha Mani | https://www.youtube.com/watch?v=h1RXohqjuQg
 Unholy | Sam Smith | https://www.youtube.com/watch?v=7QXDnWRy6MI
 Akh Lad Jaave | Asees Kaur | https://www.youtube.com/watch?v=e_vl5aFXB4Q
 Hauli Hauli | Mellow D | https://www.youtube.com/watch?v=leyEatUq00E
@@ -187,6 +188,7 @@ Naa Jaane | Neeraj Sridhar | https://www.youtube.com/watch?v=XdWFFX1n6L4
 Main Tera Dhadkan Teri | K K | https://www.youtube.com/watch?v=AgSiokzAqgk
 Jee Karda | Pritam | https://www.youtube.com/watch?v=40IlftR0R_U
 Nahin maloom | Ali Zafar | https://www.youtube.com/watch?v=HYZ6E-d5tTA
+Dhoka | Anousha Mani | https://www.youtube.com/watch?v=DUbS_J25t70
 Raitaa Phailgaya | Divya Kumar | https://www.youtube.com/watch?v=5iW9njzKDw0
 Counting Stars | One Republic | https://www.youtube.com/watch?v=hT_nvWreIhg
 Why this Kolaveri Di | Dhanush | https://www.youtube.com/watch?v=YR12Z8f1Dh8
@@ -208,6 +210,7 @@ Ibn E Batuta | Sukhwinder | https://www.youtube.com/watch?v=IfpV8JJTVBs
 Tai Tai Phiss | Amit Trivedi | https://www.youtube.com/watch?v=CM7afiyxnsY
 Main Hoon Punjab | Mohit Chauhan | https://www.youtube.com/watch?v=xwUV6AMd5cM
 Aunty Ji | Amit Trivedi | https://www.youtube.com/watch?v=YYn8d1HYJoI
+Gulaabo | Amit Trivedi, Vishal Dadlani, Anusha Mani | https://www.youtube.com/watch?v=AxOGXp9WyhQ
 
 ## Saxo-sphere
 
@@ -263,6 +266,7 @@ Jaane Kya Chahe Mann Bawra | Zubeen | https://www.youtube.com/watch?v=0WRrSakQdx
 Mann Lafanga | Mohit Chauhan | https://www.youtube.com/watch?v=3oCG28nyzss
 Rab Rakha | Sonu Nigam, Shreya Ghoshal | https://www.youtube.com/watch?v=uBgJ0J2vtRk
 Achchi Lagti Ho | Kavita, Udit | https://www.youtube.com/watch?v=HJIRktKAahU
+Roya Re | Shiraz Uppal | https://www.youtube.com/watch?v=kNDRLb50uyQ
 
 ## Adora-line
 
@@ -350,7 +354,6 @@ Preet re | Dhadak 2 | https://www.youtube.com/watch?v=k6q4lENp434
 Cham cham | Striker | https://www.youtube.com/watch?v=VLPXok1vY_Y
 Woh Tere Mere Ishq ka | Jubilee | https://www.youtube.com/watch?v=BQ61y0XW-fM
 Dhaaga | Aspirants | https://www.youtube.com/watch?v=k-UQz3f7ZPI
-Ishq ka Hafiz | Tripling | https://www.youtube.com/watch?v=Xvi04oG_6DU
 Janib | Arijit, Sunidhi | https://www.youtube.com/watch?v=M1XKJZHLRmM
 Mera Mann | Falak Shabir | https://www.youtube.com/watch?v=8kxufj_snhI
 Tur Kalleyan | Shadab Faridi | https://www.youtube.com/watch?v=fgUqudEc3T8
@@ -366,3 +369,4 @@ Naam Ada Likhna | Shreya Ghoshal | https://www.youtube.com/watch?v=xUHjdhDbbZw
 Khoya Khoya Chand | Swanand Kirkire | https://www.youtube.com/watch?v=USC49juqR7M
 Tu | Papon, Shreya Ghoshal | https://www.youtube.com/watch?v=vnw7O2SqMPk
 Nachda | Shahid Mallya | https://www.youtube.com/watch?v=80hlJeDi0tc
+Anjana | KK | https://www.youtube.com/watch?v=dnkwcu9HnoI
