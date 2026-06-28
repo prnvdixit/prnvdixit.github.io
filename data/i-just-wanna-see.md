@@ -44,3 +44,24 @@ Not because I suddenly became 10x smarter, but because I eliminated ambiguity ar
 It's a different story how all that was still not enough to convince my then manager to see the progress, and I left the company soon after. But all that came in handy when I joined my current company, the ownership and accoutability I showed from the first day was what made me trustable in a new team where I had no rapport. I got an opportunity to lead a multi-quarter, multi-engineer effort and that ultimately led to my promotion to next level too.
 And all this surprised me too. What stood out to me was how fast it happened once I internalized responsibility. The blame focused me. I treated feedback, even poorly delivered feedback (full props to me then manager for always speaking in riddles and always giving feedback as a shit-sandwich), as signal.
 That giant locus of control is a cheat code. You don’t waste energy arguing about fairness. You spend it upgrading your inputs, your communication, and your decision-making. And over time, people stop blaming you not because they’re nicer, but because there’s nothing left to blame.
+
+
+You ready for fight?
+
+https://www.instagram.com/p/DZ-KCd7Jyqd/?hl=en
+
+Be a monk who fights
+
+
+
+You ready for love?
+
+https://www.instagram.com/reels/DWF1XA6jjzj/ (Ethan Hawke and Amelia Goldenberg video from Oscars)
+
+Agar Samar Ka Pani Sweet Hota people bottle number Main Bhar Lete Uske Khare Mein Ho Ki Azadi Hai
+
+
+What's the final aim then?
+
+You can be like Arjun Arjun was sitting and eating food and he realized that even though all the Diaz were extinguished his hands could still bring the food to mouth and he basically came up by practice with something on Shahidi where you just need sound to hit the arrow.
+https://www.instagram.com/p/DZ_58VmtvXQ/?hl=en

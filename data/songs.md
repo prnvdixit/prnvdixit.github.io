@@ -13,11 +13,15 @@ Tera hi Rahun | Gajendra Verma | https://www.youtube.com/watch?v=IsaOXzb4Uh0
 Baatein Karo | Vayu | https://www.youtube.com/watch?v=jwfhvMFXkFo
 Kaise Bhoolegi | Euphoria | https://www.youtube.com/watch?v=wxhsqwQpDSs
 Khat | Navjot Ahuja | https://www.youtube.com/watch?v=LUgpPmj6nR8
+Thagyan | Zain Zohaib, Quratulain Balouch | https://www.youtube.com/watch?v=2yHfBvZnM6o
 Sun re Sajaniya | Ali Zafar | https://www.youtube.com/watch?v=dCpKs22vrpo
 Yeh Hai Meri Kahani | Strings | https://www.youtube.com/watch?v=Xx6jdSpMYsE
 Awari | Soch | https://www.youtube.com/watch?v=6PfCzo9Oobg
 Ishq Nachaya | Sona Mohapatra | https://www.youtube.com/watch?v=h-7SdA6kxbs
 Jind Mahiya | Shuja Haider | https://www.youtube.com/watch?v=bUOArq33ImM
+Sammy Meri Waar | Quratulain Balouch | https://www.youtube.com/watch?v=KHLNSxe5Y8A
+Dastan-e-Ishq | Ali Zafar | https://www.youtube.com/watch?v=CcchywFoZOc
+Jaag Musafir | Fareed Ayaz | https://www.youtube.com/watch?v=u4wi7nOGV4o
 
 ## Poet-ential
 
@@ -93,7 +97,7 @@ Safar mein dhoop | Chitra Singh | https://www.youtube.com/watch?v=Wd_qbSShl_0
 Tu Pyaar Ka Sagar | Manna Dey | https://www.youtube.com/watch?v=hbHUz29sVnw
 Daanav | Vishal, Shankar | https://www.youtube.com/watch?v=hpCNjej9liI
 Karma | Venkatesh DC | https://www.youtube.com/watch?v=aThZyBb4ZPY
-Har Lehza Ba Shakal Aan | Farid Ayaz | https://www.youtube.com/watch?v=NoHCQEUja4Y
+Har Lehza Ba Shakal Aan | Fareed Ayaz | https://www.youtube.com/watch?v=NoHCQEUja4Y
 Ganga Aaye Kahan Se | Hemant | https://www.youtube.com/watch?v=eEuXCXI_fxQ
 Nirbhau Nirvair | Shahid Mallya | https://www.youtube.com/watch?v=m_cwRR3EBZY
 Pinjara | Amit Trivedi | https://www.youtube.com/watch?v=m_zoKbXKZGI
@@ -102,6 +106,7 @@ Pinjara | Amit Trivedi | https://www.youtube.com/watch?v=m_zoKbXKZGI
 
 Sarod theme | Piku | https://www.youtube.com/watch?v=WD6lK4ioJN0
 Ajas gets to know | Bheeshma Parvam | https://www.youtube.com/watch?v=zcksRBgP2C4
+Christmas Eve | The Trans-Siberian Orchestra | https://www.youtube.com/watch?v=2LbmhneqBnE
 Be Notorious | Bheeshma Parvam | https://www.youtube.com/watch?v=w4N22lhkEPg
 Chanakya | Rishabh Rikhiram | https://www.youtube.com/watch?v=KBYSpR8N6pc
 Discombobulate | Hans Zimmer | https://www.youtube.com/watch?v=vgRVJksQocM
@@ -117,6 +122,7 @@ Growing Up Londinium | Daniel Pemberton | https://www.youtube.com/watch?v=e2LLS3
 F1 theme | Brian Tyler | https://www.youtube.com/watch?v=8AYy-BcjRXg
 Mella Mella | Ilaiyaraaja | https://www.youtube.com/watch?v=XmBRVTERyqg
 RHTDM | Harris Jayaraj | https://www.youtube.com/watch?v=AoiLOuJATos
+Finding The Bomb | The Dust Brothers | https://www.youtube.com/watch?v=z7UunxFEJ8Q
 
 ## Ma-sufiyat
 
@@ -172,7 +178,7 @@ Ding Dong Dole | T Series | https://www.youtube.com/watch?v=O9B8SqE51pk
 Desi Beat | Mika Singh | https://www.youtube.com/watch?v=NTu6k5hUUEY
 Yaar Mila tha | Madhushree | https://www.youtube.com/watch?v=VUZFWBHOjWM
 Royals | Lorde | https://www.youtube.com/watch?v=nlcIKh6sBtc
-Unholy | Sam Smith | https://www.youtube.com/watch?v=Uq9gPaIzbe8
+Unholy | Sam Smith | https://www.youtube.com/watch?v=7QXDnWRy6MI
 Akh Lad Jaave | Asees Kaur | https://www.youtube.com/watch?v=e_vl5aFXB4Q
 Hauli Hauli | Mellow D | https://www.youtube.com/watch?v=leyEatUq00E
 Ek Nazar mein bhi | Taxi number 9211 | https://www.youtube.com/watch?v=tQ_OOE32uxQ
@@ -256,6 +262,7 @@ Jaan Kaise | KK | https://www.youtube.com/watch?v=2DAP3svHl04
 Jaane Kya Chahe Mann Bawra | Zubeen | https://www.youtube.com/watch?v=0WRrSakQdxE
 Mann Lafanga | Mohit Chauhan | https://www.youtube.com/watch?v=3oCG28nyzss
 Rab Rakha | Sonu Nigam, Shreya Ghoshal | https://www.youtube.com/watch?v=uBgJ0J2vtRk
+Achchi Lagti Ho | Kavita, Udit | https://www.youtube.com/watch?v=HJIRktKAahU
 
 ## Adora-line
 
@@ -276,10 +283,12 @@ Piya Tu Kaahe Rutha Re | Javed Bashir | https://www.youtube.com/watch?v=agaBErK_
 Jayaho Jantha | Sukhwinder Singh | https://www.youtube.com/watch?v=H0x-wU9X6E8
 Ganda Hai | Company | https://www.youtube.com/watch?v=ylXu3Q3EQUo
 Karam Ki Talwar | Arjun the Warrior Prince | https://www.youtube.com/watch?v=2_oPvtDL9hY
+Legends Never Die | Against The Current | https://www.youtube.com/watch?v=4Q46xYqUwZQ
 Agni Skalana | MM Keerwani | https://www.youtube.com/watch?v=ay4AagERuZw
 Hua Shankhnad | Kailash Kher | https://www.youtube.com/watch?v=fWCxWHsczWg
 Charo Khane Chit | Sukhwinder Singh | https://www.youtube.com/watch?v=Pzq2ML4zI6U
 Chal Utth Bandeya | Sukhwinder Singh | https://www.youtube.com/watch?v=Hs0HTJnqfuw
+Mirage | OneRepublic | https://www.youtube.com/watch?v=Dm_BrGu1sHM
 Vishwaroopam | Shankar Ehsaan Loy | https://www.youtube.com/watch?v=SQ_9xwh8y78
 Krazzy | Vishal Dadlani | https://www.youtube.com/watch?v=3QarnZGy4VU
 Dev theme | Pritam | https://www.youtube.com/watch?v=E2JWXoxsPkk

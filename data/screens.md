@@ -107,6 +107,19 @@
 > I see Prahlad Singh Tipaniya has a bandagi coming up in Bangalore next month, I need to see if I can make it!
 > Recommendation from: The very famous "Flies went to Moth's King" clip sent me to this! And then saw it was about Kabir!
 
+[x] Little Nights, Little Love (2019)
+> This movie reached a part of my heart I didn't know was exposed.
+> 
+> It made me sit with a question I'd never quite articulated before — that the beauty of a first meeting isn't fixed. It takes its meaning retroactively, shaped by where you eventually end up with that person. I've always believed that how two people meet says something, that it carries weight in the larger story of things.
+> 
+> But the film goes further. It argues that the first encounter only earns its emotional significance because of everything that followed — because you stayed, because it led somewhere. And it keeps circling back to one disarmingly simple question: "Are you glad you met the person you're with?"
+> 
+> <a>"As you get older, you grow used to a certain life. It's easy to lose sight of what you want. So you hope for an opportunity. Something to give you a push because you're stuck" </a>
+> 
+> Sitting with that question honestly, I'm not sure I've met anyone yet who I'd answer that with a yes. Maybe that means none of those meetings I thought were something actually were. Or maybe that's exactly the point — the hope that the one you'll be glad about is still ahead. And maybe that's what love really comes down to.
+>
+> Recommendation from: Saw a screenshot from Letterboxd where someone called this "An unabashedly romantic love letter to the stories of normal people".
+
 Tu Hai Mera Sunday (2017)
 
 > Recommendation from: A film having 100% percent score on Rotten Tomatoes? That's rare!
@@ -183,10 +196,6 @@ Chasing the Moon (2019)
 Ek Doctor Ki Maut (1990) (tmdb212051)
 
 > Recommendation from: Just watched a glimpse of the starry monologue.
-
-Little Nights, Little Love (2019)
-
-> Recommendation from: Saw a screenshot of someone calling this "An unabashedly romantic love letter to the lives of normal people".
 
 One Battle After Another (2025)
 
