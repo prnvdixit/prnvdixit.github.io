@@ -101,6 +101,8 @@ Har Lehza Ba Shakal Aan | Fareed Ayaz | https://www.youtube.com/watch?v=NoHCQEUj
 Ganga Aaye Kahan Se | Hemant | https://www.youtube.com/watch?v=eEuXCXI_fxQ
 Nirbhau Nirvair | Shahid Mallya | https://www.youtube.com/watch?v=m_cwRR3EBZY
 Pinjara | Amit Trivedi | https://www.youtube.com/watch?v=m_zoKbXKZGI
+Samay Ka Pahiya | Hariharan, Sukhwinder | https://www.youtube.com/watch?v=X768YPnaM1k
+
 
 ## Insta-mental
 
@@ -267,6 +269,7 @@ Mann Lafanga | Mohit Chauhan | https://www.youtube.com/watch?v=3oCG28nyzss
 Rab Rakha | Sonu Nigam, Shreya Ghoshal | https://www.youtube.com/watch?v=uBgJ0J2vtRk
 Achchi Lagti Ho | Kavita, Udit | https://www.youtube.com/watch?v=HJIRktKAahU
 Roya Re | Shiraz Uppal | https://www.youtube.com/watch?v=kNDRLb50uyQ
+Sahib | Ram Sampath | https://www.youtube.com/watch?v=BoeMklHZxac
 
 ## Adora-line
 

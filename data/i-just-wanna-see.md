@@ -65,3 +65,6 @@ What's the final aim then?
 
 You can be like Arjun Arjun was sitting and eating food and he realized that even though all the Diaz were extinguished his hands could still bring the food to mouth and he basically came up by practice with something on Shahidi where you just need sound to hit the arrow.
 https://www.instagram.com/p/DZ_58VmtvXQ/?hl=en
+
+
+The most gangster shit I ever did was to get mad at myself for wasting my potential and then rebuilt my entire life from that anger
