@@ -124,6 +124,21 @@ Tu Hai Mera Sunday (2017)
 
 > Recommendation from: A film having 100% percent score on Rotten Tomatoes? That's rare!
 
+Where Is The Friends House (1987)
+> Recommendation from: Got this recommendation from random graphic about best foreign films on MUBI. Iranian.
+
+The 400 Blows (1959)
+> Recommendation from: Got this recommendation from random graphic about best foreign films on MUBI. French.
+
+In the Mood for Love (2000)
+> Recommendation from: Got this recommendation from random graphic about best foreign films on MUBI. Hong Kong.
+
+Oldboy (2003)
+> Recommendation from: Got this recommendation from random graphic about best foreign films on MUBI. South Korean.
+
+Close (2022)
+> Recommendation from: Got this recommendation from random graphic about best foreign films on MUBI. Belgian.
+
 Aamir (2008)
 
 > Recommendation from: I've heard about this movie for a long time so!
