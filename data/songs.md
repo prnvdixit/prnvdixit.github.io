@@ -271,6 +271,7 @@ Achchi Lagti Ho | Kavita, Udit | https://www.youtube.com/watch?v=HJIRktKAahU
 Roya Re | Shiraz Uppal | https://www.youtube.com/watch?v=kNDRLb50uyQ
 Sahib | Ram Sampath | https://www.youtube.com/watch?v=BoeMklHZxac
 Chhil Gaye Naina | Kanika Kapoor | https://www.youtube.com/watch?v=K01MG5eqy0o
+Baarish | Mohammed Irfan | https://www.youtube.com/watch?v=Qvd-I7lTecI
 
 ## Adora-line
 
@@ -375,3 +376,4 @@ Tu | Papon, Shreya Ghoshal | https://www.youtube.com/watch?v=vnw7O2SqMPk
 Nachda | Shahid Mallya | https://www.youtube.com/watch?v=80hlJeDi0tc
 Anjana | KK | https://www.youtube.com/watch?v=dnkwcu9HnoI
 Baadal | Sunidhi | https://www.youtube.com/watch?v=6R-8K7qWpus
+Khulke Jeene Ka | Arijit, A R Rahman | https://www.youtube.com/watch?v=py9wUwMpVno
