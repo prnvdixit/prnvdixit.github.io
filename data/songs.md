@@ -272,6 +272,7 @@ Roya Re | Shiraz Uppal | https://www.youtube.com/watch?v=kNDRLb50uyQ
 Sahib | Ram Sampath | https://www.youtube.com/watch?v=BoeMklHZxac
 Chhil Gaye Naina | Kanika Kapoor | https://www.youtube.com/watch?v=K01MG5eqy0o
 Baarish | Mohammed Irfan | https://www.youtube.com/watch?v=Qvd-I7lTecI
+Pyaar Ke Liye | Shankar Mahadevan | https://www.youtube.com/watch?v=Ss2lNswHPAs
 
 ## Adora-line
 
