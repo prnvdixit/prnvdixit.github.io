@@ -43,6 +43,7 @@ Adharam Madhuram | Madhurashtakam | https://www.youtube.com/watch?v=6bY7cVpRvMc
 Balaghal Ula Bi Kamaalihi | Ali Zafar | https://www.youtube.com/watch?v=yR9ZW4mS_EA
 Hamd o Naat | Ali Zafar | https://www.youtube.com/watch?v=54a1nHZ2Wec
 Yeh Chamak | Prakash Gandhi | https://www.youtube.com/watch?v=OGUFhVxwsQ8
+Gurmukh Laha Le Gaye | Bhai Harjinder Singh | https://www.youtube.com/watch?v=VrVk9B7Yt0M
 
 ## Un-versed
 

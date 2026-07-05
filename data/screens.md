@@ -120,6 +120,13 @@
 >
 > Recommendation from: Saw a screenshot from Letterboxd where someone called this "An unabashedly romantic love letter to the stories of normal people".
 
+[x] Satluj (2026)
+> There's a cruel irony in the censor board trying to silence the story of a man whose voice was already silenced 30 years ago. Before this film, the Punjab insurgency existed for me only as background noise — Operation Blue Star, the Amritpal Singh episode, scattered headlines. I never felt the pull to go deeper. This movie changed that. I had a browser window open the entire time, chasing down every name, every event, every thread it unravelled.
+> 
+> I'm glad this film never reached theatres with the 120 cuts the censor board demanded. Those cuts would have neutered exactly what made it grip me. And the moral complexity doesn't stop at the screen — KPS Gill's character alone is enough to send you down a rabbit hole, because some of what he does feels uncomfortably justified in the context of the insurgency. This isn't a film that hands you easy answers. It pushes you into asking why Punjab is the way it is, why the people are the way they are, why the wounds with the state run this deep. Hats off.
+> 
+> Recommendation from: Chal Chitra!
+
 Tu Hai Mera Sunday (2017)
 
 > Recommendation from: A film having 100% percent score on Rotten Tomatoes? That's rare!
