@@ -22,6 +22,7 @@ Jind Mahiya | Shuja Haider | https://www.youtube.com/watch?v=bUOArq33ImM
 Sammy Meri Waar | Quratulain Balouch | https://www.youtube.com/watch?v=KHLNSxe5Y8A
 Dastan-e-Ishq | Ali Zafar | https://www.youtube.com/watch?v=CcchywFoZOc
 Jaag Musafir | Fareed Ayaz | https://www.youtube.com/watch?v=u4wi7nOGV4o
+Out of my body | Kalkee | https://www.youtube.com/watch?v=0rkyvEUUlmw
 
 ## Poet-ential
 
@@ -379,3 +380,5 @@ Nachda | Shahid Mallya | https://www.youtube.com/watch?v=80hlJeDi0tc
 Anjana | KK | https://www.youtube.com/watch?v=dnkwcu9HnoI
 Baadal | Sunidhi | https://www.youtube.com/watch?v=6R-8K7qWpus
 Khulke Jeene Ka | Arijit, A R Rahman | https://www.youtube.com/watch?v=py9wUwMpVno
+Chori Chori | Amit Trivedi, Varun Grover | https://www.youtube.com/watch?v=L-In_2kRDdk
+Jab Tak Hai Jaan | Javed Ali, A R Rahman, Gulzar | https://www.youtube.com/watch?v=EnrY5LinNH0

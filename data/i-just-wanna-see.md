@@ -1,6 +1,9 @@
 
 ## Excuses
 
+
+## you ready for hobbies?
+
 You'll always find excuses. Easiest way to beat fear is - "I just wanna see what I can get away with"
 
 For me, it was with
@@ -31,6 +34,10 @@ Even if you can't find a positive aspect of it, just say "I love it". Train your
 All these challenges make the final story better.
 
 
+## You ready for that new thing in career?
+
+https://www.fastcompany.com/91565069/why-saying-yes-early-in-your-career-pays-off-later?utm_source=firefox-newtab-en-intl
+
 I’ve seen this play out very clearly in my career.
 I was a junior engineer, and in my first few months I got openly blamed by my manager for “not performing well enough.” Missed expectations, unclear updates, work that technically got done but didn’t inspire confidence. I, like a lot of people in that position, started to write off the manager as unfair, blamed the lack of proper onboarding, or mentally checked out. The manager I had before this one was better you know?
 
@@ -46,7 +53,7 @@ And all this surprised me too. What stood out to me was how fast it happened onc
 That giant locus of control is a cheat code. You don’t waste energy arguing about fairness. You spend it upgrading your inputs, your communication, and your decision-making. And over time, people stop blaming you not because they’re nicer, but because there’s nothing left to blame.
 
 
-You ready for fight?
+## You ready for fight?
 
 https://www.instagram.com/p/DZ-KCd7Jyqd/?hl=en
 
@@ -54,16 +61,16 @@ Be a monk who fights
 
 
 
-You ready for love?
+## You ready for love?
 
 https://www.instagram.com/reels/DWF1XA6jjzj/ (Ethan Hawke and Amelia Goldenberg video from Oscars)
 
 Agar Samar Ka Pani Sweet Hota people bottle number Main Bhar Lete Uske Khare Mein Ho Ki Azadi Hai
 
 
-What's the final aim then?
+## What's the final aim then?
 
-You can be like Arjun Arjun was sitting and eating food and he realized that even though all the Diaz were extinguished his hands could still bring the food to mouth and he basically came up by practice with something on Shahidi where you just need sound to hit the arrow.
+You can be like Arjun. Arjun was sitting and eating food and he realized that even though all the Diyas were extinguished his hands could still bring the food to mouth and he basically came up by practice with something shabd bhedi ban where you just need sound to hit the arrow.
 https://www.instagram.com/p/DZ_58VmtvXQ/?hl=en
 
 
