@@ -127,6 +127,7 @@ F1 theme | Brian Tyler | https://www.youtube.com/watch?v=8AYy-BcjRXg
 Mella Mella | Ilaiyaraaja | https://www.youtube.com/watch?v=XmBRVTERyqg
 RHTDM | Harris Jayaraj | https://www.youtube.com/watch?v=AoiLOuJATos
 Finding The Bomb | The Dust Brothers | https://www.youtube.com/watch?v=z7UunxFEJ8Q
+God Mode Entry | Sai Abhyankar | https://www.youtube.com/watch?v=L3urQZ9vzMQ
 
 ## Ma-sufiyat
 
@@ -151,6 +152,7 @@ Garaj Baras | Ali Azmat | https://www.youtube.com/watch?v=7rLxN41avhY
 Kuch Khwaab Thay Mere | Sahir Ali Bagga | https://www.youtube.com/watch?v=9Bw_gwjMxuM
 Deewana Deewana | A R Rehman | https://www.youtube.com/watch?v=dcvlA3u3POM
 Madno | Chinmayi Sripada | https://www.youtube.com/watch?v=UydToKtwyx4
+Zindagi Ye | Rahat Fateh Ali Khan | https://www.youtube.com/watch?v=ReizYckQ9d8
 
 ## TrAMce
 
@@ -215,6 +217,10 @@ Tai Tai Phiss | Amit Trivedi | https://www.youtube.com/watch?v=CM7afiyxnsY
 Main Hoon Punjab | Mohit Chauhan | https://www.youtube.com/watch?v=xwUV6AMd5cM
 Aunty Ji | Amit Trivedi | https://www.youtube.com/watch?v=YYn8d1HYJoI
 Gulaabo | Amit Trivedi, Vishal Dadlani, Anusha Mani | https://www.youtube.com/watch?v=AxOGXp9WyhQ
+Chamakti Shaam Hai | Sonu Nigam, Alka Yagnik | https://www.youtube.com/watch?v=lAmxxzegyD4
+Kambakth Ishq | Sukhwinder, Asha | https://www.youtube.com/watch?v=zxP6FO4HcJo
+Badtameez | Ankit Tiwari | https://www.youtube.com/watch?v=QQrKoezjVo0
+Mumbhai | Javed Jaffrey | https://www.youtube.com/watch?v=oCmi6eofAE4
 
 ## Saxo-sphere
 
@@ -275,6 +281,10 @@ Sahib | Ram Sampath | https://www.youtube.com/watch?v=BoeMklHZxac
 Chhil Gaye Naina | Kanika Kapoor | https://www.youtube.com/watch?v=K01MG5eqy0o
 Baarish | Mohammed Irfan | https://www.youtube.com/watch?v=Qvd-I7lTecI
 Pyaar Ke Liye | Shankar Mahadevan | https://www.youtube.com/watch?v=Ss2lNswHPAs
+Dum Laga | Suraj Jagan | https://www.youtube.com/watch?v=JuHvaEdRRZw
+Milo Na Milo | Shaan | https://www.youtube.com/watch?v=rCi8RS9DTeI
+Khali Salam Dua | Mohit Chauhan | https://www.youtube.com/watch?v=0Eu8oUjh6vo
+Aaya Re | KK | https://www.youtube.com/watch?v=t4ONDPW56zM
 
 ## Adora-line
 
@@ -308,6 +318,7 @@ Rampage | A R Rehman | https://www.youtube.com/watch?v=k1BzpSYFTZU
 Chase in Chinatown | Vyshnav | https://www.youtube.com/watch?v=KKiVcCJI-PU
 Mangal Mangal | Kailash Kher | https://www.youtube.com/watch?v=il29hi7Jryk
 Tapkey Masti | Shankar Ehsaan Loy | https://www.youtube.com/watch?v=lyXoANcWBzo
+Garda | Daler Mehndi | https://www.youtube.com/watch?v=8lUmJuPvfnw
 
 ## G-old
 
@@ -334,6 +345,7 @@ Aate Jaate | Kishore | https://www.youtube.com/watch?v=PDoXHOVmdfM
 Sun Ja Dil Ki Dastan | Hemant | https://www.youtube.com/watch?v=-6I1JahC6VE
 Aankhon Mein Kya Jee | Asha, Kishore | https://www.youtube.com/watch?v=oKKoqLQ6dOE
 Bahon Mein Chale Aao | Lata Mangeshkar | https://www.youtube.com/watch?v=ikW8pNIEWaE
+Yeh Duniya Yeh Mehfil | Rafi | https://www.youtube.com/watch?v=Ddvu7dY0YXY
 
 ## Sudh-ing
 
@@ -382,3 +394,9 @@ Baadal | Sunidhi | https://www.youtube.com/watch?v=6R-8K7qWpus
 Khulke Jeene Ka | Arijit, A R Rahman | https://www.youtube.com/watch?v=py9wUwMpVno
 Chori Chori | Amit Trivedi, Varun Grover | https://www.youtube.com/watch?v=L-In_2kRDdk
 Jab Tak Hai Jaan | Javed Ali, A R Rahman, Gulzar | https://www.youtube.com/watch?v=EnrY5LinNH0
+Saajna | Falak Shabbir | https://www.youtube.com/watch?v=hlRTxA10eRA
+Aazmale Aazmale | Vishal, Shekhar | https://www.youtube.com/watch?v=HVMofighu48
+Hum Mile Na Mile | A R Rahman,  Udit Narayan, Madhushree | https://www.youtube.com/watch?v=OPxmEvDO8Qw
+Ae Ajnabi | Udit Narayan | https://www.youtube.com/watch?v=TdUu05Svkl8
+Tum Ho Mera Pyar | KK | https://www.youtube.com/watch?v=Pcy1hfY6egc
+Nazrein Karam | KK, Shreya Ghoshal | https://www.youtube.com/watch?v=VWbnpjhLVAU
