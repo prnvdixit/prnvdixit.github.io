@@ -221,6 +221,7 @@ Chamakti Shaam Hai | Sonu Nigam, Alka Yagnik | https://www.youtube.com/watch?v=l
 Kambakth Ishq | Sukhwinder, Asha | https://www.youtube.com/watch?v=zxP6FO4HcJo
 Badtameez | Ankit Tiwari | https://www.youtube.com/watch?v=QQrKoezjVo0
 Mumbhai | Javed Jaffrey | https://www.youtube.com/watch?v=oCmi6eofAE4
+Freedom | Pharrell Williams | https://www.youtube.com/watch?v=LlY90lG_Fuw
 
 ## Saxo-sphere
 

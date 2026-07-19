@@ -75,3 +75,5 @@ https://www.instagram.com/p/DZ_58VmtvXQ/?hl=en
 
 
 The most gangster shit I ever did was to get mad at myself for wasting my potential and then rebuilt my entire life from that anger
+
+There is a Batman theory that if you just assume that you are Batman and not yourself when you're doing a certain hobby, you would be able to devote more of your energy and you would be able to bring out some other sides of your personality that you are not able to in your general life.

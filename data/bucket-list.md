@@ -1,0 +1,50 @@
+- learn dance (samba/tango/salsa/waltz?)
+- [x] learn an instrument (violin?)
+- do an overnight trek
+- [x] learn swimming - combat water phobia
+- sleep in the open under stars
+- watch aurora borealis/ northern lights (milky way?) with her
+- do a 20 day water fast + vow of silence + no devices
+- go deep-sea diving (Scuba)
+- skydive
+- sign up to donate organ/body after death
+- get a tattoo
+- watch a rocket launch
+- take psychedelics once
+- learn a foreign language
+- watch a volcano eruption
+- skate through a landscape of greenery
+- learn sketching
+- send a letter to random address
+- learn a martial art
+- work at a Coffee shop or farm for a day
+- get a coffee at Yandangshan Cliff Café in China
+- write 14 love letters to her
+- go to a gay bar
+- learn woodwork
+- walk around new york city all night
+- long walk with her in Paris
+- attend a church wedding
+- learn theatre
+- attend a symphony orchestra
+- join a monastery for few days
+- do a ship journey
+- see a drift from inside the car
+- watch a movie on 70mm IMAX
+- shoot an actual glock
+- learn to ride a horse
+- meet a hero
+- save a life, never tell a soul
+- take the trans-siberian railway
+- hug a baby elephant
+- catch a fish
+- work a morning as crew on a stranger's fishing boat (eat what you catch?), leave
+- go to burning man
+- go see a broadway show
+- dance with her under a street light
+- go to matamata, newzealand for lotr sets
+- write my eulogy
+- crash a stranger's wedding
+- get lost in a foreign city with her with no map, no plans, no language
+- sleep near a bonfire
+- go somewhere remote, feel that and then come back
