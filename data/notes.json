@@ -582,6 +582,21 @@
         "cooking"
       ],
       "contentPath": "recipe.md"
+    },
+    {
+      "id": "29",
+      "title": "🪣 List",
+      "readingTime": "2 min",
+      "publishDate": "2026-06-29",
+      "blogLink": "bucket-list",
+      "githubLink": "",
+      "hidden": true,
+      "pinned": true,
+      "links": [],
+      "tags": [
+        "philosophy"
+      ],
+      "contentPath": "bucket-list.md"
     }
   ]
 }

@@ -1,50 +1,65 @@
-- learn dance (samba/tango/salsa/waltz?)
-- [x] learn an instrument (violin?)
-- do an overnight trek
-- [x] learn swimming - combat water phobia
-- sleep in the open under stars
-- watch aurora borealis/ northern lights (milky way?) with her
-- do a 20 day water fast + vow of silence + no devices
-- go deep-sea diving (Scuba)
-- skydive
-- sign up to donate organ/body after death
-- get a tattoo
-- watch a rocket launch
-- take psychedelics once
-- learn a foreign language
-- watch a volcano eruption
-- skate through a landscape of greenery
-- learn sketching
-- send a letter to random address
-- learn a martial art
-- work at a Coffee shop or farm for a day
-- get a coffee at Yandangshan Cliff Café in China
-- write 14 love letters to her
-- go to a gay bar
-- learn woodwork
-- walk around new york city all night
-- long walk with her in Paris
-- attend a church wedding
-- learn theatre
-- attend a symphony orchestra
-- join a monastery for few days
-- do a ship journey
-- see a drift from inside the car
-- watch a movie on 70mm IMAX
-- shoot an actual glock
-- learn to ride a horse
-- meet a hero
-- save a life, never tell a soul
-- take the trans-siberian railway
-- hug a baby elephant
-- catch a fish
-- work a morning as crew on a stranger's fishing boat (eat what you catch?), leave
-- go to burning man
-- go see a broadway show
-- dance with her under a street light
-- go to matamata, newzealand for lotr sets
-- write my eulogy
-- crash a stranger's wedding
-- get lost in a foreign city with her with no map, no plans, no language
-- sleep near a bonfire
-- go somewhere remote, feel that and then come back
+
+> To see life; to see the world; to eyewitness great events; to watch the faces of the poor and the gestures of the proud; to see strange things — machines, armies, multitudes, shadows in the jungle and on the moon; to see man's work — his paintings, towers and discoveries; to see things thousands of miles away, things hidden behind walls and within rooms, things dangerous to come to; the women that men love and many children; to see and take pleasure in seeing; to see and be amazed; to see and be instructed
+> <cite>— LIFE</cite>
+
+- [ ] Learn to dance (samba / tango / salsa / waltz?)
+- [ ] Learn an instrument — violin?
+- [ ] Go on an overnight trek
+- [x] Learn to swim — combat water phobia
+> The first fear!
+- [ ] Sleep in the open under the stars
+- [ ] Watch the aurora borealis / the Milky Way with her
+- [ ] Do a 10-day water fast, take a vow of silence, and go without devices
+- [ ] Go deep-sea diving (SCUBA)
+- [ ] Go skydiving
+- [ ] Sign up to donate an organ after death
+- [ ] Get a Sak Yant tattoo from a monk
+- [ ] Watch a rocket launch
+- [ ] Take psychedelics once
+- [ ] Learn a foreign language
+- [ ] Watch a volcano erupt
+- [ ] Skate through a landscape of greenery
+- [ ] Learn to sketch
+- [ ] Send a letter to a random address
+- [ ] Learn a martial art
+- [ ] Work at a coffee shop or on a farm for a day
+- [ ] Get coffee at Yandangshan Cliff Café in China
+- [ ] Write 14 love letters to her
+- [ ] Go to a gay bar
+- [ ] Learn woodworking — build a piece of furniture that outlives me
+- [ ] Walk around New York City all night
+- [ ] Take a long walk with her in Paris
+- [ ] Attend a church wedding
+- [ ] Study theatre
+- [ ] Attend a symphony orchestra concert
+- [ ] Join a monastery for a few days
+- [ ] Take a ship journey
+- [ ] Go drifting in a car
+- [ ] Watch a movie in 70mm IMAX
+- [ ] Shoot an actual Glock
+- [ ] Learn to ride a horse
+- [ ] Meet a hero
+- [ ] Save a life — never tell a soul
+- [ ] Take the Trans-Siberian Railway
+- [ ] Hug a baby elephant
+- [ ] Catch a fish
+- [ ] Work a morning on a stranger's boat (eat what you catch), then leave
+- [ ] Go to Burning Man
+- [ ] See a Broadway show
+- [ ] Dance with her under a streetlight
+- [ ] Go to Matamata, New Zealand, for the LOTR sets
+- [ ] Write my own eulogy
+- [ ] Crash a stranger's wedding
+- [ ] Get lost in a foreign city with her — no map, no plans
+- [ ] Sleep near a bonfire
+- [ ] Go somewhere remote, feel it, then come back
+- [ ] Raise a plant from seed to fruit
+- [ ] Bomb at an open mic
+- [ ] Survive three days on ₹100 a day — no safety net
+- [ ] Perfect one dish like a Michelin-starred restaurant
+- [ ] Sponsor a child's education
+- [ ] Learn a card trick
+- [ ] Get my portrait painted by a street artist — and buy it
+- [ ] Act in a film, even as a bystander
+- [ ] Walk 100 km on the Camino de Santiago in a week
+- [ ] Forge my own knife from raw steel
