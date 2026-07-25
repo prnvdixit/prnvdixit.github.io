@@ -409,10 +409,10 @@
     },
     {
       "id": "19",
-      "title": "📜 Prospectus",
+      "title": "📜 Purpose",
       "readingTime": "2 min",
       "publishDate": "2026-01-01",
-      "blogLink": "prospectus",
+      "blogLink": "purpose",
       "githubLink": "",
       "hidden": true,
       "pinned": true,
@@ -420,7 +420,7 @@
       "tags": [
         "philosophy"
       ],
-      "contentPath": "prospectus.md"
+      "contentPath": "purpose.md"
     },
     {
       "id": "20",
