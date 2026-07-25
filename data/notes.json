@@ -409,6 +409,67 @@
     },
     {
       "id": "19",
+      "title": "📜 Prospectus",
+      "readingTime": "2 min",
+      "publishDate": "2026-01-01",
+      "blogLink": "prospectus",
+      "githubLink": "",
+      "hidden": true,
+      "pinned": true,
+      "links": [],
+      "tags": [
+        "philosophy"
+      ],
+      "contentPath": "prospectus.md"
+    },
+    {
+      "id": "20",
+      "title": "📚 Books",
+      "readingTime": "∞",
+      "publishDate": "2026-06-07",
+      "blogLink": "books",
+      "githubLink": "",
+      "hidden": true,
+      "pinned": true,
+      "links": [],
+      "tags": [
+        "reading"
+      ],
+      "contentPath": "books.md"
+    },
+    {
+      "id": "21",
+      "title": "🍳 Recipes",
+      "readingTime": "∞",
+      "publishDate": "2026-06-27",
+      "blogLink": "recipes",
+      "githubLink": "",
+      "hidden": true,
+      "pinned": true,
+      "links": [],
+      "tags": [
+        "cooking"
+      ],
+      "contentPath": "recipe.md"
+    },
+    {
+      "id": "22",
+      "title": "📝 Shelf",
+      "readingTime": "4 min",
+      "publishDate": "2026-01-01",
+      "blogLink": "paper-shelf",
+      "githubLink": "",
+      "hidden": true,
+      "pinned": true,
+      "links": [],
+      "tags": [
+        "ai",
+        "learning"
+      ],
+      "contentPath": "paper-shelf.md"
+    },
+    {
+      "id": "23",
       "title": "Why travel?",
       "readingTime": "2 min",
       "publishDate": "2026-01-01",
@@ -424,23 +485,7 @@
       "contentPath": "why-travel.md"
     },
     {
-      "id": "20",
-      "title": "📝 Paper Shelf",
-      "readingTime": "4 min",
-      "publishDate": "2026-01-01",
-      "blogLink": "paper-shelf",
-      "githubLink": "",
-      "hidden": true,
-      "pinned": true,
-      "links": [],
-      "tags": [
-        "ai",
-        "learning"
-      ],
-      "contentPath": "paper-shelf.md"
-    },
-    {
-      "id": "21",
+      "id": "24",
       "title": "Seeing Through the Model`s Eyes: Visualizing Cross-Lingual Attention in Math Reasoning",
       "readingTime": "4 min",
       "publishDate": "2026-01-02",
@@ -461,7 +506,7 @@
       "contentPath": "month-two-llm-scratch-attention.md"
     },
     {
-      "id": "22",
+      "id": "25",
       "title": "Hacker's Manifesto",
       "readingTime": "1 min",
       "publishDate": "2026-02-07",
@@ -485,7 +530,7 @@
       "contentPath": "manifesto.md"
     },
     {
-      "id": "23",
+      "id": "26",
       "title": "Programming has changed",
       "readingTime": "2 min",
       "publishDate": "2026-02-22",
@@ -500,7 +545,7 @@
       "contentPath": "programming-changed.md"
     },
     {
-      "id": "24",
+      "id": "27",
       "title": "The Trial by Existence",
       "readingTime": "5 min",
       "publishDate": "2026-03-15",
@@ -516,7 +561,7 @@
       "contentPath": "the-trial-by-existence.md"
     },
     {
-      "id": "25",
+      "id": "28",
       "title": "There is a boat on the mat!",
       "readingTime": "7 min",
       "publishDate": "2026-04-21",
@@ -541,7 +586,7 @@
       "contentPath": "shiva-mma.md"
     },
     {
-      "id": "26",
+      "id": "29",
       "title": "Don't be a cynic!",
       "readingTime": "5 min",
       "publishDate": "2026-05-02",
@@ -552,51 +597,6 @@
       "links": [],
       "tags": [],
       "contentPath": "cynic.md"
-    },
-    {
-      "id": "27",
-      "title": "📚 Books",
-      "readingTime": "∞",
-      "publishDate": "2026-06-07",
-      "blogLink": "books",
-      "githubLink": "",
-      "hidden": true,
-      "pinned": true,
-      "links": [],
-      "tags": [
-        "reading"
-      ],
-      "contentPath": "books.md"
-    },
-    {
-      "id": "28",
-      "title": "🍳 Recipes",
-      "readingTime": "∞",
-      "publishDate": "2026-06-27",
-      "blogLink": "recipes",
-      "githubLink": "",
-      "hidden": true,
-      "pinned": true,
-      "links": [],
-      "tags": [
-        "cooking"
-      ],
-      "contentPath": "recipe.md"
-    },
-    {
-      "id": "29",
-      "title": "🪣 List",
-      "readingTime": "2 min",
-      "publishDate": "2026-06-29",
-      "blogLink": "bucket-list",
-      "githubLink": "",
-      "hidden": true,
-      "pinned": true,
-      "links": [],
-      "tags": [
-        "philosophy"
-      ],
-      "contentPath": "bucket-list.md"
     }
   ]
 }
