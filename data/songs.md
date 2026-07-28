@@ -320,6 +320,7 @@ Chase in Chinatown | Vyshnav | https://www.youtube.com/watch?v=KKiVcCJI-PU
 Mangal Mangal | Kailash Kher | https://www.youtube.com/watch?v=il29hi7Jryk
 Tapkey Masti | Shankar Ehsaan Loy | https://www.youtube.com/watch?v=lyXoANcWBzo
 Garda | Daler Mehndi | https://www.youtube.com/watch?v=8lUmJuPvfnw
+Ziddi Piddi | Amit Trivedi | https://www.youtube.com/watch?v=10sQHmxyVXc
 
 ## G-old
 
