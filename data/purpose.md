@@ -22,6 +22,7 @@
 - [ ] Take psychedelics once
 - [ ] Learn a Foreign language
 - [ ] Watch a Volcano erupt
+> Reunion Island?
 - [ ] Skate through a landscape of greenery
 - [ ] Learn to Sketch
 - [ ] Send a letter to a random address
