@@ -430,7 +430,7 @@
       "blogLink": "books",
       "githubLink": "",
       "hidden": true,
-      "pinned": true,
+      "pinned": false,
       "links": [],
       "tags": [
         "reading"

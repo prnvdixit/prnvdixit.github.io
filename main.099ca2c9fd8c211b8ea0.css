@@ -3207,3 +3207,227 @@ a[data-tooltip] {
     padding: 1.25rem;
   }
 }
+
+/* ── CSS Bookshelf ─────────────────────────────────────────── */
+.bookshelf-scene {
+  perspective: 800px;
+  margin: 2rem 0 0.5rem;
+}
+
+.bookshelf-row {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+}
+
+.shelf-track {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  gap: 0.25rem;
+  overflow-x: auto;
+  overflow-y: visible;
+  scroll-behavior: smooth;
+  cursor: grab;
+  padding: 2.5rem 1.5rem 0.5rem;
+  -webkit-overflow-scrolling: touch;
+  scrollbar-width: none;
+  min-height: 14rem;
+}
+.shelf-track::-webkit-scrollbar { display: none; }
+.shelf-track:active { cursor: grabbing; }
+
+/* walnut shelf plank */
+.shelf-plank {
+  height: 0.85rem;
+  background: linear-gradient(to bottom, #6b3a2a, #4a2316);
+  border-radius: 0 0 4px 4px;
+  box-shadow: 0 6px 16px rgba(0,0,0,0.35);
+  margin: 0 0.5rem;
+}
+
+.shelf-hint {
+  text-align: center;
+  font-size: 0.75rem;
+  opacity: 0.45;
+  margin: 0.75rem 0 0;
+  letter-spacing: 0.04em;
+}
+
+/* individual book */
+.shelf-book {
+  flex-shrink: 0;
+  width: var(--book-width, 2.4rem);
+  height: 10rem;
+  cursor: pointer;
+  transform-origin: bottom center;
+  transform-style: preserve-3d;
+  transform: rotateX(5deg);
+  transition: transform 0.25s cubic-bezier(0.34, 1.56, 0.64, 1),
+              filter 0.2s ease;
+  user-select: none;
+}
+.shelf-book:hover {
+  transform: rotateX(5deg) translateY(-1.2rem) scale(1.04);
+  z-index: 2;
+}
+.shelf-book--active {
+  transform: rotateX(5deg) translateY(-2rem) scale(1.08) !important;
+  filter: drop-shadow(0 12px 24px rgba(0,0,0,0.5));
+  z-index: 3;
+}
+
+.shelf-book-spine {
+  width: 100%;
+  height: 100%;
+  background: hsl(var(--book-hue, 30), 35%, 38%);
+  border-radius: 2px 3px 3px 2px;
+  border-left: 4px solid hsl(var(--book-hue, 30), 30%, 30%);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: 0.5rem 0;
+  box-shadow: inset -2px 0 4px rgba(0,0,0,0.3),
+              2px 0 0 rgba(255,255,255,0.06);
+  position: relative;
+  overflow: hidden;
+}
+
+/* cloth texture overlay */
+.shelf-book-spine::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  background: repeating-linear-gradient(
+    0deg,
+    transparent,
+    transparent 2px,
+    rgba(0,0,0,0.05) 2px,
+    rgba(0,0,0,0.05) 4px
+  );
+}
+
+.shelf-book-label {
+  writing-mode: vertical-lr;
+  text-orientation: mixed;
+  transform: rotate(180deg);
+  font-family: 'Georgia', serif;
+  font-size: 0.68rem;
+  line-height: 1.1;
+  color: rgba(255,255,255,0.88);
+  text-shadow: 0 1px 2px rgba(0,0,0,0.5);
+  max-height: 88%;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  padding: 0 3px;
+  z-index: 1;
+  position: relative;
+}
+
+.shelf-book-read {
+  position: absolute;
+  top: 5px;
+  font-size: 0.7rem;
+  color: rgba(180, 255, 180, 0.85);
+  z-index: 2;
+}
+
+/* ── Book review modal ─────────────────────────────────────── */
+.shelf-modal {
+  display: none;
+  position: fixed;
+  inset: 0;
+  z-index: 9999;
+  align-items: center;
+  justify-content: center;
+}
+.shelf-modal.shelf-modal--open {
+  display: flex;
+}
+
+.shelf-modal-backdrop {
+  position: absolute;
+  inset: 0;
+  background: rgba(0, 0, 0, 0.65);
+  backdrop-filter: blur(6px);
+  -webkit-backdrop-filter: blur(6px);
+}
+
+.shelf-modal-box {
+  position: relative;
+  z-index: 1;
+  background: var(--bg-secondary, #1a1a1a);
+  border: 1px solid rgba(255,255,255,0.1);
+  border-radius: 16px;
+  padding: 2.5rem;
+  max-width: 600px;
+  width: calc(100% - 2rem);
+  max-height: 80vh;
+  overflow-y: auto;
+  box-shadow: 0 24px 80px rgba(0,0,0,0.6);
+  animation: shelfModalIn 0.28s cubic-bezier(0.34, 1.3, 0.64, 1) both;
+}
+
+@keyframes shelfModalIn {
+  from { opacity: 0; transform: scale(0.9) translateY(12px); }
+  to   { opacity: 1; transform: scale(1) translateY(0); }
+}
+
+.shelf-modal-close {
+  position: absolute;
+  top: 1.25rem;
+  right: 1.25rem;
+  background: none;
+  border: none;
+  font-size: 1.1rem;
+  opacity: 0.5;
+  cursor: pointer;
+  color: inherit;
+  transition: opacity 0.15s;
+  line-height: 1;
+}
+.shelf-modal-close:hover { opacity: 1; }
+
+.shelf-modal-divider {
+  border: none;
+  border-top: 1px solid rgba(255,255,255,0.08);
+  margin: 1rem 0 1.25rem;
+}
+
+.shelf-panel-title {
+  font-family: 'Georgia', serif;
+  font-size: 1.6rem;
+  margin: 0 0 0.5rem;
+  line-height: 1.2;
+  padding-right: 2rem; /* space for close btn */
+}
+
+.shelf-panel-meta {
+  margin-bottom: 0.25rem;
+}
+
+.shelf-badge-read {
+  background: rgba(74,222,128,0.15);
+  color: #4ade80;
+  font-size: 0.78rem;
+  padding: 0.2rem 0.6rem;
+  border-radius: 99px;
+  border: 1px solid rgba(74,222,128,0.3);
+}
+.shelf-badge-unread {
+  background: rgba(148,163,184,0.12);
+  color: #94a3b8;
+  font-size: 0.78rem;
+  padding: 0.2rem 0.6rem;
+  border-radius: 99px;
+  border: 1px solid rgba(148,163,184,0.2);
+}
+
+.shelf-panel-review {
+  font-family: 'Georgia', serif;
+  font-size: 1rem;
+  line-height: 1.8;
+  color: var(--text-secondary, #aaa);
+}

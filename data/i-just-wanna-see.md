@@ -68,6 +68,9 @@ https://www.instagram.com/reels/DWF1XA6jjzj/ (Ethan Hawke and Amelia Goldenberg 
 Agar Samar Ka Pani Sweet Hota people bottle number Main Bhar Lete Uske Khare Mein Ho Ki Azadi Hai
 
 
+There is no safe investment. To love at all is to be vulnerable. Love anything, and your heart will certainly be wrung and possibly be broken. If you want to make sure of keeping it intact, you must give your heart to no one, not even to an animal. Wrap it carefully round with hobbies and little luxuries; avoid all entanglements; lock it up safe in the casket or coffin of your selfishness. But in that casket—safe, dark, motionless, airless—it will change. It will not be broken; it will become unbreakable, impenetrable, irredeemable. The alternative to tragedy, or at least to the risk of tragedy, is damnation. The only place outside Heaven where you can be perfectly safe from all the dangers and perturbations of love is Hell.
+> C.S. Lewis (The Four Loves)
+
 ## What's the final aim then?
 
 You can be like Arjun. Arjun was sitting and eating food and he realized that even though all the Diyas were extinguished his hands could still bring the food to mouth and he basically came up by practice with something shabd bhedi ban where you just need sound to hit the arrow.
