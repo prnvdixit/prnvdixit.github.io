@@ -127,6 +127,32 @@
 > 
 > Recommendation from: Chal Chitra!
 
+[x] Obsession (2026) (tt37287335)
+
+> Strange movie, honestly. Recommended by someone I met on the trek - I only finished it because we watched it together.
+>
+> Jump scares everywhere, and it kept getting more uncomfortable; at one point I was just hoping it would end so the girl's suffering would end. Within the first half hour I was already thinking - can't he just ask some random homeless person to cancel the wish? Maybe I'm too logical for no reason. That's exactly why horror movies don't work for me.
+>
+> The ending was so open-ended. A good twist would've been two people's wishes colliding, somehow explaining this weird behaviour - because he only asked that she love him, and look at what extreme it got pulled to.
+>
+> Recommendation from: Someone I met on the trek.
+
+[t] Spider-Man: Brand New Day (2026) (tt22084616)
+
+> Finally, Spider-Man has grown up. You see him so differently after his aunt's death. That's proper character growth, and it feels mature. He's constantly struggling between doing the right thing and doing what he wants — lots of grey, and I like that.
+>
+> It reminded me of Raimi's original Spider-Man: the entire city breathes into this one character and lives with him. Love that it's back.
+>
+> Also really liked that they didn't use Hulk as a way to show how strong someone else is. In every other Marvel movie, people fight Hulk and defeat Hulk just to prove how powerful they are. This one doesn't do that, which is nice. And the other characters genuinely add to Peter's character instead of being comical and funny for the sake of it.
+>
+> Maybe I just like it when Spider-Man is sad? I don't know what that says about me. I loved the original Raimi movies, and the whole cheerful baby Spider-Man never quite cut it for me.
+>
+> Recommendation from: I wanted to watch it anyway. On the trek, I said I might be the only guy in Bangalore who hasn't seen it yet. When I was back in Gurgaon, we made a plan to go watch it.
+
+Main Vaapas Aaunga (2026) (tt37333137)
+
+> Recommendation from: It's an Imtiaz Ali film, and a colleague from sign language class recommended it.
+
 Tu Hai Mera Sunday (2017)
 
 > Recommendation from: A film having 100% percent score on Rotten Tomatoes? That's rare!

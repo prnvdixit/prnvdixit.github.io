@@ -505,8 +505,8 @@ a[data-tooltip] {
   content: attr(data-tooltip);
   position: absolute;
   bottom: 125%;
-  left: 50%;
-  transform: translateX(-50%) translateY(10px);
+  left: 0;
+  transform: translateY(10px);
   padding: 1rem 1.25rem;
   background: rgba(20, 20, 20, 0.95);
   backdrop-filter: blur(15px);
@@ -518,8 +518,8 @@ a[data-tooltip] {
   line-height: 1.5;
   white-space: normal;
   overflow-wrap: break-word;
-  width: 100vw;
-  max-width: 450px;
+  width: max-content;
+  max-width: min(calc(100vw - 2rem), 450px);
   box-shadow: 0 15px 35px rgba(0, 0, 0, 0.15);
   opacity: 0;
   pointer-events: none;
@@ -542,7 +542,7 @@ a[data-tooltip] {
 
 @media (max-width: 600px) {
   [data-tooltip]::after {
-    max-width: 300px;
+    max-width: min(calc(100vw - 2rem), 300px);
     font-size: 0.8rem;
     padding: 0.75rem 1rem;
   }
@@ -550,7 +550,42 @@ a[data-tooltip] {
 
 [data-tooltip]:hover::after {
   opacity: 1;
-  transform: translateX(-50%) translateY(0);
+  transform: translateY(0);
+}
+
+/* JS-driven glossary popover: spans the width of its poem line so it never
+   spills past the line's left or right edge on narrow screens. */
+body.js-tooltips [data-tooltip]::after {
+  content: none;
+}
+
+.glossary-popover {
+  position: fixed;
+  z-index: 1000;
+  padding: 1rem 1.25rem;
+  background: rgba(20, 20, 20, 0.95);
+  backdrop-filter: blur(15px);
+  -webkit-backdrop-filter: blur(15px);
+  color: #fff;
+  border: 1px solid rgba(255, 255, 255, 0.1);
+  border-radius: 12px;
+  font-size: 0.9rem;
+  line-height: 1.5;
+  overflow-wrap: break-word;
+  box-shadow: 0 15px 35px rgba(0, 0, 0, 0.15);
+  opacity: 0;
+  pointer-events: none;
+  transition: opacity 0.2s ease;
+}
+
+.glossary-popover.visible {
+  opacity: 1;
+}
+
+[data-theme="light"] .glossary-popover {
+  background: rgba(255, 255, 255, 0.95);
+  color: #000;
+  border: 1px solid rgba(0, 0, 0, 0.1);
 }
 
 .poetic-focus {
@@ -1134,7 +1169,9 @@ a[data-tooltip] {
     padding: 0 1rem;
   }
 
-  .back-to-notes {
+  /* keep the floating back button on mobile — it's the only way back to the
+     notes list once the nav links are hidden on note pages */
+  .back-to-notes:not(.floating) {
     display: none;
   }
 
