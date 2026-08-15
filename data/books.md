@@ -1,6 +1,6 @@
 ## 2026
 
-[x] When We Cease to Understand the World (978-1681375663)
+[x] When We Cease to Understand the World (978-1782276135)
 
 > See <a href="https://prnvdixit.github.io/note/review-cease-world">my note</a>
 > Recommendation from some random Instagram video on YouTube

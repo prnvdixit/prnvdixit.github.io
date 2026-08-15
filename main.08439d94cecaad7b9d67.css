@@ -96,6 +96,16 @@ body {
   gap: 2rem;
 }
 
+/* on a note page the nav links are redundant; the note has its own back link */
+body.note-open .nav-links {
+  display: none;
+}
+
+/* with the nav links gone, keep search/theme pinned to the right edge */
+body.note-open .nav-actions {
+  margin-left: auto;
+}
+
 .nav-link {
   color: var(--text-secondary);
   text-decoration: none;
@@ -3214,10 +3224,62 @@ a[data-tooltip] {
   margin: 2rem 0 0.5rem;
 }
 
+.bookshelf-stage {
+  display: flex;
+  align-items: center;
+  gap: 0.6rem;
+}
+
 .bookshelf-row {
   position: relative;
   display: flex;
   flex-direction: column;
+  flex: 1;
+  min-width: 0;
+}
+
+/* side chevrons: work with both mouse and touch */
+.shelf-arrow {
+  flex-shrink: 0;
+  width: 2.4rem;
+  height: 2.4rem;
+  border-radius: 999px;
+  border: 1px solid var(--border-color);
+  background: var(--bg-secondary);
+  color: var(--text-primary);
+  font-size: 1.5rem;
+  line-height: 1;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 0;
+  opacity: 0.6;
+  transition: opacity 0.2s ease, transform 0.2s ease;
+  user-select: none;
+  -webkit-tap-highlight-color: transparent;
+}
+.shelf-arrow:hover:not(:disabled) {
+  opacity: 1;
+  transform: scale(1.08);
+}
+.shelf-arrow:active:not(:disabled) {
+  transform: scale(0.94);
+}
+.shelf-arrow:disabled {
+  opacity: 0.15;
+  cursor: default;
+}
+
+@media (max-width: 520px) {
+  .bookshelf-stage {
+    gap: 0.25rem;
+  }
+  .shelf-arrow {
+    width: 2.2rem;
+    height: 2.2rem;
+    font-size: 1.3rem;
+  }
 }
 
 .shelf-track {
@@ -3232,33 +3294,47 @@ a[data-tooltip] {
   padding: 2.5rem 1.5rem 0.5rem;
   -webkit-overflow-scrolling: touch;
   scrollbar-width: none;
-  min-height: 14rem;
+  min-height: 16rem;
 }
 .shelf-track::-webkit-scrollbar { display: none; }
 .shelf-track:active { cursor: grabbing; }
 
-/* walnut shelf plank */
+/* when the row fits, centre it instead of leaving a dead empty gap */
+.shelf-track.shelf-fits {
+  justify-content: center;
+}
+
+/* refined shelf plank — light metallic tone so it reads against the page */
 .shelf-plank {
-  height: 0.85rem;
-  background: linear-gradient(to bottom, #6b3a2a, #4a2316);
-  border-radius: 0 0 4px 4px;
-  box-shadow: 0 6px 16px rgba(0,0,0,0.35);
-  margin: 0 0.5rem;
+  height: 0.7rem;
+  background: linear-gradient(to bottom, #cfcfcf 0%, #9a9a9a 22%, #5c5c5c 62%, #3a3a3a 100%);
+  border-radius: 3px 3px 6px 6px;
+  border-top: 1px solid rgba(255,255,255,0.55);
+  box-shadow: 0 12px 26px rgba(0,0,0,0.5), inset 0 1px 0 rgba(255,255,255,0.3);
+  margin: 0 0.6rem;
+}
+
+[data-theme="light"] .shelf-plank {
+  background: linear-gradient(to bottom, #ecebe7, #d2cfc9 25%, #a5a29b 65%, #83807a 100%);
+  border-top: 1px solid rgba(255,255,255,0.95);
+  box-shadow: 0 12px 26px rgba(0,0,0,0.16), inset 0 1px 0 rgba(255,255,255,0.65);
 }
 
 .shelf-hint {
   text-align: center;
-  font-size: 0.75rem;
-  opacity: 0.45;
-  margin: 0.75rem 0 0;
-  letter-spacing: 0.04em;
+  font-size: 0.72rem;
+  margin: 0.85rem 0 0;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: var(--text-secondary);
+  opacity: 0.95;
 }
 
 /* individual book */
 .shelf-book {
   flex-shrink: 0;
   width: var(--book-width, 2.4rem);
-  height: 10rem;
+  height: 12.5rem;
   cursor: pointer;
   transform-origin: bottom center;
   transform-style: preserve-3d;
@@ -3308,6 +3384,22 @@ a[data-tooltip] {
   );
 }
 
+/* cover art as the book binding: the photo replaces the plain colour once loaded */
+.shelf-book.has-cover .shelf-book-spine {
+  background-color: hsl(var(--book-hue, 30), 35%, 38%);
+  background-image: var(--book-cover, none);
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  border-left-color: rgba(0, 0, 0, 0.55);
+}
+.shelf-book.has-cover .shelf-book-spine::before {
+  display: none;
+}
+.shelf-book.has-cover .shelf-book-label {
+  display: none;
+}
+
 .shelf-book-label {
   writing-mode: vertical-lr;
   text-orientation: mixed;
@@ -3326,12 +3418,29 @@ a[data-tooltip] {
   position: relative;
 }
 
+/* read badge, matching the movie grid's seen indicator */
 .shelf-book-read {
   position: absolute;
   top: 5px;
-  font-size: 0.7rem;
-  color: rgba(180, 255, 180, 0.85);
+  left: 50%;
+  transform: translateX(-50%);
+  min-width: 1.2rem;
+  height: 1.2rem;
+  border-radius: 4px;
+  background: rgba(46, 204, 113, 0.92);
+  color: #fff;
+  font-size: 0.75rem;
+  font-weight: 600;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  line-height: 1;
   z-index: 2;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.4);
+  transition: transform 0.2s ease;
+}
+.shelf-book:hover .shelf-book-read {
+  transform: translateX(-50%) scale(1.1);
 }
 
 /* ── Book review modal ─────────────────────────────────────── */
@@ -3367,12 +3476,6 @@ a[data-tooltip] {
   max-height: 80vh;
   overflow-y: auto;
   box-shadow: 0 24px 80px rgba(0,0,0,0.6);
-  animation: shelfModalIn 0.28s cubic-bezier(0.34, 1.3, 0.64, 1) both;
-}
-
-@keyframes shelfModalIn {
-  from { opacity: 0; transform: scale(0.9) translateY(12px); }
-  to   { opacity: 1; transform: scale(1) translateY(0); }
 }
 
 .shelf-modal-close {
@@ -3389,6 +3492,51 @@ a[data-tooltip] {
   line-height: 1;
 }
 .shelf-modal-close:hover { opacity: 1; }
+
+.shelf-panel-layout {
+  display: flex;
+  gap: 1.5rem;
+  align-items: flex-start;
+}
+
+.shelf-panel-cover {
+  width: 130px;
+  flex-shrink: 0;
+  border-radius: 6px;
+  box-shadow: 0 10px 28px rgba(0, 0, 0, 0.5);
+}
+
+.shelf-panel-body {
+  flex: 1;
+  min-width: 0;
+}
+
+@media (max-width: 520px) {
+  .shelf-panel-layout {
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+  }
+  .shelf-panel-cover {
+    width: 110px;
+  }
+  .shelf-modal-box {
+    padding: 1.25rem;
+    border-radius: 14px;
+  }
+  .shelf-panel-title {
+    font-size: 1.3rem;
+    padding-right: 1.75rem;
+  }
+}
+
+/* cheaper blur on small screens for smoother modal open */
+@media (max-width: 768px) {
+  .shelf-modal-backdrop {
+    backdrop-filter: blur(3px);
+    -webkit-backdrop-filter: blur(3px);
+  }
+}
 
 .shelf-modal-divider {
   border: none;
@@ -3425,9 +3573,31 @@ a[data-tooltip] {
   border: 1px solid rgba(148,163,184,0.2);
 }
 
+/* darker badge colours so they stay readable on the light modal */
+[data-theme="light"] .shelf-badge-read {
+  background: rgba(22, 163, 74, 0.12);
+  color: #15803d;
+  border: 1px solid rgba(22, 163, 74, 0.35);
+}
+[data-theme="light"] .shelf-badge-unread {
+  background: rgba(100, 116, 139, 0.12);
+  color: #475569;
+  border: 1px solid rgba(100, 116, 139, 0.3);
+}
+
 .shelf-panel-review {
   font-family: 'Georgia', serif;
   font-size: 1rem;
   line-height: 1.8;
   color: var(--text-secondary, #aaa);
+}
+
+.shelf-panel-review a {
+  color: var(--text-primary);
+  text-decoration: underline;
+  transition: opacity 0.2s ease;
+}
+
+.shelf-panel-review a:hover {
+  opacity: 0.7;
 }
