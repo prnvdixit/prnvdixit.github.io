@@ -496,6 +496,11 @@ a[data-tooltip] {
   transition: all 0.2s ease;
 }
 
+/* taps on glossary terms shouldn't zoom or delay; pointerdown handles them */
+.glossary-term {
+  touch-action: manipulation;
+}
+
 a[data-tooltip] {
   cursor: pointer;
   text-decoration: underline;
